@@ -27,8 +27,14 @@ zilin-deng.md
 At the top of the file,
 1. The data is encapsulated within three (3) open and close hyphen's `-`
 2. The format: `property: attribute` (the property is in lowercase)
+
+**The path property is required! It lets us know where to look when creating the profile page. <br>
+Make sure it is the first entry listed in the Markdown file.** <br>
+Please follow this format:
+`path: /graduates/firstname-lastname`
 ```
 ---
+path: /graduates/zilin-deng
 name: Zilin Deng
 portfolio: http://zilindeng.co/
 etc.
@@ -45,6 +51,7 @@ Leave the property blank.
 ```
 Example: Daniel Kim doesn't have a portfolio website
 ---
+path: /graduates/daniel-kim
 name: Daniel (Do-Hyun) Kim
 portfolio:
 etc.
