@@ -6,6 +6,25 @@ The filename extension for markdown: `title.md` where `md` stands for markdown.
 <br>
 
 ***
+### **File Format Cheat Sheet:**
+```
+---
+path: /graduates/first-last
+name: First Last
+portfolio:
+linkedin:
+twitter:
+instagram:
+medium:
+dribble:
+behance:
+interestArea:
+where:
+relocation:
+---
+```
+
+***
 
 ### **File Format Convention:**
 ```
