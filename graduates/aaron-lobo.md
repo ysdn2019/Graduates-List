@@ -1,6 +1,5 @@
 ---
-path: /graduates/daniel-kim
+path: /graduates/aaron-lobo
 name: Daniel (Do-Hyun) Kim
 portfolio:
-etc.
 ---
