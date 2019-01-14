@@ -1,6 +1,6 @@
---
-path: /graduates/zilin-deng
-name: Zilin Deng
-portfolio: http://zilindeng.co/
-Twitter:
---
+---
+path: /graduates/daniel-kim
+name: Daniel (Do-Hyun) Kim
+portfolio:
+etc.
+---
