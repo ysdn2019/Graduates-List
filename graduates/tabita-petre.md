@@ -9,6 +9,6 @@ medium:
 dribble:
 behance: https://www.behance.net/tabypetre2107
 interestArea: Branding, Motion Design, Print Design, Experiential Marketing, Mixed
-where: Oakville/Toronto & Romania
+where: Oakville/Toronto, Ontario and Romania
 relocation: Yes
 ---
