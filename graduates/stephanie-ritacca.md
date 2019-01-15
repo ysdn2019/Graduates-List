@@ -9,6 +9,6 @@ medium:
 dribble:
 behance:
 interestArea: Branding, Information Design, Print Design
-where: Vaughan
+where: Vaughan, Ontario
 relocation: Yes
 ---
