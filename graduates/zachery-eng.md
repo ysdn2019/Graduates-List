@@ -9,6 +9,6 @@ medium: https://medium.com/@zacherye
 dribble: https://dribbble.com/zacheryeng
 behance: https://www.behance.net/zacheryeng
 interestArea: Branding, Interactivity Design, Print Design, Anything Visual Based
-where: Oakville
+where: Oakville, Ontario
 relocation: Yes
 ---
