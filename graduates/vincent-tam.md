@@ -9,6 +9,6 @@ medium:
 dribble:
 behance:
 interestArea: Branding, Print Design
-where: Markham
+where: Markham, Ontario
 relocation: Yes
 ---
