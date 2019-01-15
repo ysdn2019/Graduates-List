@@ -5,8 +5,6 @@ Markdown is a lightweight markup language with plain text formatting syntax.<br>
 The filename extension for markdown: `title.md` where `md` stands for markdown. 
 <br>
 
-edit
-
 ***
 ### **File Format Cheat Sheet:**
 ```
