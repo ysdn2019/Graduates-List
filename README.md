@@ -83,6 +83,6 @@ etc.
 When it's time to commit changes made to a file
 1. Select `Create a new branch for this commit and start a pull request`
 2. Name the branch after yourself: `firstnamelastname-branch-# eg. caitlinlewis-branch-1`
-3. `Propose file change`, then `Create pull request` (Creating a title/extended description is not required)
-5. Caitlin or I will review the Pull Request for Quality Assurance, and merge them into our master file.
+3. `Propose file change`, then `Create pull request`
+5. Caitlin or I will review the pull request for quality assurance, and merge them into our master file.
 
