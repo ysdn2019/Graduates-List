@@ -1,6 +1,6 @@
 ---
 path: /graduates/zhen-li
-name: Zhen	Li
+name: Zhen Li
 portfolio: http://lizhen.co/
 linkedin:
 twitter:
