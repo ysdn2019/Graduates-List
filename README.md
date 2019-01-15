@@ -76,4 +76,9 @@ portfolio:
 etc.
 ---
 ```
+**Creating a new branch and start a pull request**
+When it's time to commit changes made to a file
+1. Select `Create a new branch for this commit and start a pull request`
+2. Name the branch after yourself, you will be working off of your own branch. `firstname-branch eg. caitlin-branch`
+3. Hit `Propose file change`
 
