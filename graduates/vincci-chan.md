@@ -9,6 +9,6 @@ medium:
 dribble:
 behance: https://www.behance.net/chanvc
 interestArea: Branding, Motion Design, Packaging Design
-where: Hong Kong and Vancouver
+where: Hong Kong and Vancouver, British Columbia
 relocation: Yes
 ---
