@@ -9,6 +9,6 @@ medium:
 dribble:
 behance:
 interestArea: Branding, Print Design, Packaging Design
-where: Burlington, ON
+where: Burlington, Ontario
 relocation: Yes
 ---
