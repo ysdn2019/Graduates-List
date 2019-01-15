@@ -9,6 +9,6 @@ medium:
 dribble:
 behance: https://www.behance.net/jacobtarde54
 interestArea: Branding, Information Design, Environmental Design
-where: Mississauga
+where: Mississauga, Ontario
 relocation: Yes
 ---
