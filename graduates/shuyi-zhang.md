@@ -9,6 +9,6 @@ medium:
 dribble:
 behance: https://www.behance.net/jasminezha0b11
 interestArea: Branding, Interactivity Design, Motion Design
-where: China/Toronto
+where: China and Toronto, Ontario
 relocation: Yes
 ---
