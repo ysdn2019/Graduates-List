@@ -79,10 +79,10 @@ etc.
 
 ***
 
-**Creating a new branch and start a pull request** <br>
+### **Creating a new branch and start a pull request** <br>
 When it's time to commit changes made to a file
 1. Select `Create a new branch for this commit and start a pull request`
-2. Name the branch after yourself, you will be working off of your own branch. `firstnamelastname-branch eg. caitlinlewis-branch`
-3. Click `Propose file change`, then `Create pull request`
+2. Name the branch after yourself: `firstnamelastname-branch-# eg. caitlinlewis-branch-1`
+3. `Propose file change`, then `Create pull request` (Creating a title/extended description is not required)
 5. Caitlin or I will review the Pull Request for Quality Assurance, and merge them into our master file.
 
