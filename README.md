@@ -80,7 +80,7 @@ etc.
 ***
 
 ### **Creating a new branch and start a pull request:** <br>
-When it's time to commit changes made to a file
+When it's time to commit changes made to a file,
 1. Select `Create a new branch for this commit and start a pull request`
 2. Name the branch after yourself: `firstnamelastname-branch-# eg. caitlinlewis-branch-1`
 3. `Propose file change`, then `Create pull request`
