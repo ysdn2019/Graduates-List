@@ -9,6 +9,6 @@ medium:
 dribble:
 behance: https://www.behance.net/nwabuike5b82
 interestArea: Print Design
-where: Brampton
+where: Brampton, Ontario
 relocation: No
 ---
