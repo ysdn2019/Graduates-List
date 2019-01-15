@@ -9,6 +9,6 @@ medium:
 dribble:
 behance:
 interestArea: Branding, Interactivity Design, Packaging Design
-where: Oakville 
+where: Oakville, Ontario
 relocation: No
 ---
