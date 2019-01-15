@@ -1,0 +1,14 @@
+---
+path: /graduates/shuyi-zhang
+name: Shuyi	Zhang
+portfolio: https://www.jasminez.com/
+linkedin: https://www.linkedin.com/in/jasmine-shuyi-zhang-83b35315a/
+twitter:
+instagram: https://www.instagram.com/_jamlice_/?hl=en
+medium:
+dribble:
+behance: https://www.behance.net/jasminezha0b11
+interestArea: Branding, Interactivity Design, Motion Design
+where: China/Toronto
+relocation: Yes
+---
