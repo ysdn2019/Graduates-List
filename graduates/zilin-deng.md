@@ -9,6 +9,6 @@ medium:
 dribble:
 behance:
 interestArea: Branding, Interactivity Design, Motion Design, Information Design, Print Design, Packaging Design
-where: Beijing
+where: Beijing, China
 relocation: Yes
 ---
