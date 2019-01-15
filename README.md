@@ -76,6 +76,9 @@ portfolio:
 etc.
 ---
 ```
+
+***
+
 **Creating a new branch and start a pull request** <br>
 When it's time to commit changes made to a file
 1. Select `Create a new branch for this commit and start a pull request`
