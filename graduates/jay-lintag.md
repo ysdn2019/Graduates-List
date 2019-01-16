@@ -4,7 +4,7 @@ name: Jay Lintag
 portfolio: http://jjlintag.design/
 linkedin: 
 twitter:
-instagram:
+instagram: https://www.instagram.com/jjlintag.dsgn/
 medium:
 dribble:
 behance: https://www.behance.net/jjlintag
