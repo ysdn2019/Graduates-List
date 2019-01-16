@@ -1,7 +1,7 @@
 ---
 path: /graduates/ivana-radman-livaja
 name: Ivana Radman-Livaja
-portfolio: 
+portfolio: http://ivanamajadesigns.com/
 linkedin:
 twitter:
 instagram: https://www.instagram.com/ivanamajadesigns/
