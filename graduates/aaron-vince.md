@@ -1,7 +1,7 @@
 
 ---
 path: /graduates/aaron-vince
-name: Aaron	Vince
+name: Aaron Vince
 portfolio: https://www.aaronvince.design
 linkedin: https://www.linkedin.com/in/aaronvince
 twitter: https://www.twitter.com/aaron_vince
