@@ -2,7 +2,7 @@
 path: /graduates/kristin-dibello
 name: Kristin DiBello
 portfolio: https://kristindibello.design/index.html
-linkedin: www.linkedin.com/in/kristin-dibello-6a8220160
+linkedin: https://www.linkedin.com/in/kristin-dibello-6a8220160/
 twitter: 
 instagram:
 medium:
