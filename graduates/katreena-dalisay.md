@@ -2,7 +2,7 @@
 path: /graduates/katreena-dalisay
 name: Katreena Dalisay
 portfolio: 
-linkedin: www.linkedin.com/in/katreena-dalisay
+linkedin: https://www.linkedin.com/in/katreena-dalisay/
 twitter:
 instagram: https://www.instagram.com/kdalisay.design/
 medium:
