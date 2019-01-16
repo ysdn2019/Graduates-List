@@ -1,7 +1,7 @@
 ---
 path: /graduates/kiana-shavalier
 name: Kiana Shavalier
-portfolio: kianadoes.design
+portfolio: https://www.kianadoes.design
 linkedin: linkedin.com/in/kiana-shavalier
 twitter:
 instagram:
