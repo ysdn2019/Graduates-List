@@ -1,7 +1,7 @@
 ---
 path: /graduates/jay-lintag
 name: Jay Lintag
-portfolio: jjlintag.design
+portfolio: http://jjlintag.design/?fbclid=IwAR2HXuqp_0MJ_pvPUZTOaO6qexmz18Tmy05tF8rAJmy_F1odpShYXvCclcQ
 linkedin: 
 twitter:
 instagram:
