@@ -9,6 +9,6 @@ medium: https://medium.com/@mirabellewang
 dribble:
 behance: https://www.behance.net/mirabellewang
 interestArea: Branding, Print Design, Packaging Design
-where: 
+where: Mississauga, ON
 relocation: Yes
 ---
