@@ -1,4 +1,3 @@
-
 ---
 path: /graduates/aaron-vince
 name: Aaron Vince
