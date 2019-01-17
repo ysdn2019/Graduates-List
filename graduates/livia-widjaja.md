@@ -1,7 +1,7 @@
 ---
 path: /graduates/lvia-widjaja
 name: Livia Widjaja
-portfolio: http://liviawidjaja.com
+portfolio: http://www.liviawidjaja.com
 linkedin: https://www.linkedin.com/in/livwdj/
 twitter:
 instagram: https://www.instagram.com/livwdj/
