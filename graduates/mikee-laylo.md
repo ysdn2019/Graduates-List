@@ -1,7 +1,7 @@
 ---
 path: /graduates/mikee-laylo
 name: Mikee Laylo
-portfolio: http://mikelreedbalazicartdesign.com/
+portfolio: https://www.mikeelaylo.com/
 linkedin: https://www.linkedin.com/in/mikeelaylo
 twitter:
 instagram: https://www.instagram.com/mikeenakain/
