@@ -8,7 +8,7 @@ instagram:
 medium:
 dribble:
 behance:
-interestArea:
-where:
-relocation:
+interestArea: Branding, Information Design, Print Design
+where: Malaysia
+relocation: Yes
 ---
