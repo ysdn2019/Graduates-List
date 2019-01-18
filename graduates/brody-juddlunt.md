@@ -1,7 +1,7 @@
 ---
 path:	/graduates/brody-juddlunt
 name:	Brody Judd-Lunt
-portfolio: https://www.luntjudd.com
+portfolio: http://luntjudd.com/
 linkedin:
 twitter: https://twitter.com/luntjudd
 instagram: https://www.instagram.com/luntjudd
