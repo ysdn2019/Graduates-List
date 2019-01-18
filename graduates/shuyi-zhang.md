@@ -1,6 +1,6 @@
 ---
 path: /graduates/shuyi-zhang
-name: Shuyi	Zhang
+name: Shuyi Zhang
 portfolio: https://www.jasminez.com/
 linkedin: https://www.linkedin.com/in/jasmine-shuyi-zhang-83b35315a/
 twitter:

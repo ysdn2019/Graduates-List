@@ -1,6 +1,6 @@
 ---
-path: /graduates/yasmin-a
-name: Yasamin	Abdolvahabi
+path: /graduates/yasmin-abdolvahabi
+name: Yasamin Abdolvahabi
 portfolio:
 linkedin:
 twitter:

@@ -1,6 +1,6 @@
 ---
 path: /graduates/zachery-eng
-name: Zachery	Eng
+name: Zachery Eng
 portfolio: http://zacheryeng.com/
 linkedin: https://www.linkedin.com/in/zacheryeng/
 twitter:

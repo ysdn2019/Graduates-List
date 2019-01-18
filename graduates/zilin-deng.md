@@ -1,6 +1,6 @@
 ---
 path: /graduates/first-last
-name: First Last
+name: Zilin Deng
 portfolio: http://zilindeng.co/
 linkedin:
 twitter:

@@ -1,6 +1,6 @@
 ---
 path: /graduates/tasneem-sultan
-name: Tasneem	Sultan
+name: Tasneem Sultan
 portfolio: https://www.tasneembsultan.com/
 linkedin:
 twitter:

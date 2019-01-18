@@ -1,6 +1,6 @@
 ---
 path: /graduates/vincent-tam
-name: Vincent	Tam
+name: Vincent Tam
 portfolio: https://vincenttam.design/
 linkedin:
 twitter:

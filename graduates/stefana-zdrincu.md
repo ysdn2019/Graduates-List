@@ -1,6 +1,6 @@
 ---
 path: /graduates/stefana-zdrincu
-name: Stefana	Zdrincu
+name: Stefana Zdrincu
 portfolio: http://stzd.co/
 linkedin: www.linkedin.com/in/zdrincu
 twitter:

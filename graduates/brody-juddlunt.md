@@ -1,6 +1,6 @@
 ---
-path:	/graduates/brody-juddlunt
-name:	Brody Judd-Lunt
+path: /graduates/brody-juddlunt
+name: Brody Judd-Lunt
 portfolio: https://www.luntjudd.com
 linkedin:
 twitter: https://twitter.com/luntjudd
