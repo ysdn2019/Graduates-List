@@ -1,7 +1,7 @@
 ---
 path: /graduates/emily-liu
 name: Emily Liu
-portfolio: http://emilylxf.com/
+portfolio: http://www.emilylxf.com/
 linkedin:
 twitter:
 instagram:
