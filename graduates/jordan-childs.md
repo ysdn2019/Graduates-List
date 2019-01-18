@@ -4,7 +4,7 @@ name: Jordan Childs
 portfolio: https://www.jordanchilds.ca
 linkedin:
 twitter:
-instagram:
+instagram: https://www.instagram.com/Childs_01/
 medium:
 dribble:
 behance:
