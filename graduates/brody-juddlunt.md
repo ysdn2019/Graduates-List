@@ -1,14 +1,14 @@
 ---
-path: /graduates/brody-juddlunt
-name: Brody Judd-Lunt
-portfolio: https://www.luntjudd.com
-linkedin:
+path: /graduates/brody-juddlunt 
+name: Brody Judd-Lunt 
+portfolio: http://luntjudd.com/
+linkedin: 
 twitter: https://twitter.com/luntjudd
-instagram: https://www.instagram.com/luntjudd
-medium:
-dribble:	
-behance:
-interestArea: Information Design, Print Design
+instagram: https://www.instagram.com/luntjudd 
+medium: 
+dribble:
+behance: 
+interestArea: Information Design, Print Design 
 where: Ottawa, Ontario
 relocation: yes
 ---
