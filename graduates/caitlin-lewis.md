@@ -4,7 +4,7 @@ name: Caitlin Lewis
 portfolio: https://www.caitlinmlewis.com
 linkedin: https://www.linkedin.com/in/caaaitlinlewis
 twitter:
-instagram: https://www.instagram.com/cait.ai
+instagram:
 medium:
 dribble:
 behance:
