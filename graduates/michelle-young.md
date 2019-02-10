@@ -1,7 +1,7 @@
 ---
 path: /graduates/michelle-young
 name: Michelle Young
-portfolio:
+portfolio: https://www.michyoung.com/
 linkedin: https://www.linkedin.com/in/m-young/
 twitter:
 instagram:
