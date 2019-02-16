@@ -1,6 +1,6 @@
 ---
 path: /graduates/josh-sirianni
-name: Josh Sirianni
+name: Joshua Sirianni
 portfolio: https://joshuasirianni.com
 linkedin: https://www.linkedin.com/in/jsirianni/
 twitter:
