@@ -1,13 +1,13 @@
 ---
 path: /graduates/aaron-vince
 name: Aaron Vince
-portfolio: https://www.aaronvince.design
+portfolio: https://www.aaronvince.com
 linkedin: https://www.linkedin.com/in/aaronvince
-twitter: https://www.twitter.com/aaron_vince
-instagram: 
+twitter: https://www.twitter.com/_aaronvince
+instagram: https://www.instagram.com/_aaronvince
 medium:
-dribble:
-behance: https://www.behance.net/avince
+dribble: https://dribbble.com/aaronvince
+behance: https://www.behance.net/_aaronvince
 interestArea: Branding, Interactivity Design, Motion Design, Information Design
 where: Belleville, Ontario
 relocation: Yes
