@@ -1,5 +1,6 @@
 ---
 path: /graduates/taryn-jacobs
+cover: /assets/taryn_jacobs.jpg
 name: Taryn Jacobs
 portfolio: https://www.tarynjacobs.ca/
 linkedin: https://www.linkedin.com/in/taryn-jacobs-774350157/
