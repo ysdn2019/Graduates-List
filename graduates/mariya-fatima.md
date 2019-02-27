@@ -1,5 +1,6 @@
 ---
 path: /graduates/mariya-fatima
+cover: /assets/mariya_fatima.jpg
 name: Mariya Fatima
 portfolio: https://www.mariyafatima.com
 linkedin: https://www.linkedin.com/in/mariyafatima/
