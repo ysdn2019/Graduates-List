@@ -1,5 +1,6 @@
 ---
 path: /graduates/david-luong
+cover: /assets/david_luong.jpg
 name: David Luong
 portfolio: https://www.davidlng.com
 linkedin: https://www.linkedin.com/in/davidluong95/
