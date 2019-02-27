@@ -1,5 +1,6 @@
 ---
 path: /graduates/aaron-vince
+cover: /assets/aaron_vince.jpg
 name: Aaron Vince
 portfolio: https://www.aaronvince.com
 linkedin: https://www.linkedin.com/in/aaronvince
