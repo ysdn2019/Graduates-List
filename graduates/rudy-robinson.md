@@ -1,5 +1,6 @@
 ---
 path: /graduates/rudy-robinson
+cover: /assets/rudy_robinson.jpg
 name: Rudy Robinson
 portfolio: https://www.rudyrobinson.com/
 linkedin:
