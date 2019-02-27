@@ -1,5 +1,6 @@
 ---
 path: /graduates/katie-lawless
+cover: /assets/katie_lawless.jpg
 name: Kathleen Lawless
 portfolio: https://www.katielawless.com
 linkedin: https://www.linkedin.com/in/kathleen-lawless-009ba1158
