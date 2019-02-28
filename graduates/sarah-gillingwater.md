@@ -1,6 +1,6 @@
 ---
 path: /graduates/sarah-gillingwater
-cover: /assets/sarah_gillingwater.jpg
+cover: /assets/Sarah_Gillingwater.jpg
 name: Sarah Gillingwater
 portfolio: https://www.sarahgillingwater.com/
 linkedin: https://www.linkedin.com/in/sarah-gillingwater/
