@@ -1,5 +1,6 @@
 ---
 path: /graduates/erin-dinneen
+cover: /assets/Erin_Dinneen.jpg
 name: Erin Dinneen
 portfolio: http://www.erindinneen.com
 linkedin: https://www.linkedin.com/in/erin-dinneen-70150a175/
