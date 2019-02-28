@@ -1,5 +1,6 @@
 ---
 path: /graduates/katrina-kuzyk
+cover: /assets/Katrina_Kuzyk.jpg
 name: Katrina Kuzyk
 portfolio: https://www.katrinakuzyk.com/
 linkedin:
