@@ -1,5 +1,6 @@
 ---
 path: /graduates/hanna-mark
+cover: /assets/Hanna_Mark.jpg
 name: Hanna Mark
 portfolio: https://hannamark.squarespace.com/
 linkedin: https://www.linkedin.com/in/hanna-mark-7019a215b/
