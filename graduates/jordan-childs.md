@@ -1,5 +1,6 @@
 ---
 path: /graduates/jordan-childs
+cover: /assets/Jordan_Childs.jpg
 name: Jordan Childs
 portfolio: https://www.jordanchilds.ca
 linkedin:
