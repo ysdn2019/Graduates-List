@@ -1,5 +1,6 @@
 ---
 path: /graduates/yasamin-abdolvahabi
+cover: assests/Yasamin_Abolvahabi.jpg
 name: Yasamin Abdolvahabi
 portfolio:
 linkedin:
