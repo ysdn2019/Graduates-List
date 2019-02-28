@@ -1,6 +1,6 @@
 ---
 path: /graduates/carolyne-gogota
-cover: /assets/carolyne_gogota.jpg
+cover: /assets/Carolyne_Gogota.jpg
 name: Carolyne Gogota
 portfolio: http://www.carolyne.design
 linkedin: https://www.linkedin.com/in/ca-no
