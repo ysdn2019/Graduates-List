@@ -1,6 +1,6 @@
 ---
 path: /graduates/oliver-gravestock
-cover: /assets/oliver_gravestock.jpg
+cover: /assets/Oliver_Gravestock.jpg
 name: Oliver Gravestock
 portfolio: https://www.olivergravestock.co.uk/
 linkedin: 
