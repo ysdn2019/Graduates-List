@@ -1,5 +1,6 @@
 ---
 path: /graduates/ivana-radman-livaja
+cover: /assets/Ivana_Radman_Iivaja.jpg
 name: Ivana Radman-Livaja
 portfolio: http://ivanamajadesigns.com/
 linkedin:
