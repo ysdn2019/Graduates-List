@@ -1,5 +1,6 @@
 ---
 path: /graduates/mohit-gupta
+cover: /assets/Mohit_Gupta.jpg
 name: Mohit Gupta
 portfolio: https://www.guptamohit.com/
 linkedin: https://www.linkedin.com/in/mohit9994/
