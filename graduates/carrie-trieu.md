@@ -1,5 +1,6 @@
 ---
 path: /graduates/carrie-trieu
+cover: /assets/Carrie_Trieu.jpg
 name: Carrie Trieu
 portfolio: http://www.carrietrieu.com
 linkedin: https://www.linkedin.com/in/carrie-trieu
