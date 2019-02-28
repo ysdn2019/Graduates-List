@@ -1,5 +1,6 @@
 ---
 path: /graduates/allana-tabac
+cover: /assets/Allana_Tabac.jpg
 name: Allana Tabac
 portfolio: https://www.allanatabac.com
 linkedin:
