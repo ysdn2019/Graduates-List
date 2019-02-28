@@ -1,5 +1,6 @@
 ---
-path: /graduates/lvia-widjaja
+path: /graduates/livia-widjaja
+cover: /assets/Livia_Widjaja.jpg
 name: Livia Widjaja
 portfolio: http://www.liviawidjaja.com
 linkedin: https://www.linkedin.com/in/livwdj/
