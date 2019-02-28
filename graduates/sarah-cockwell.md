@@ -1,5 +1,6 @@
 ---
 path: /graduates/sarah-cockwell
+cover: /assets/Sarah_Cockwell.jpg
 name: Sarah Cockwell
 portfolio:
 linkedin:
