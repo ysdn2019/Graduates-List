@@ -1,5 +1,6 @@
 ---
 path: /graduates/akili-hyman
+cover: /assets/Akili_Hyman.jpg
 name: Akili Hyman
 portfolio: https://www.akilihyman.com
 linkedin: https://www.linkedin.com/in/akili-hyman-6a1140105/
