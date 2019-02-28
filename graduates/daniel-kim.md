@@ -1,5 +1,6 @@
 ---
 path: /graduates/daniel-kim
+cover: /assets/Daniel_Kim.jpg
 name: Do-Hyun Kim
 portfolio: http://www.ahtodesign.com
 linkedin: https://www.linkedin.com/in/dohyun-kim/
