@@ -1,5 +1,6 @@
 ---
 path: /graduates/matthew-alward
+cover: /assets/Matthew_Alward.jpg
 name: Matthew Alward
 portfolio: https://www.matthewalward.com/
 linkedin: https://www.linkedin.com/in/alwarddesign/
