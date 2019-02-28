@@ -1,6 +1,6 @@
 ---
 path: /graduates/zhen-li
-cover: /assets/zhen_li.jpg
+cover: /assets/Zhen_Li.jpg
 name: Zhen Li
 portfolio: http://lizhen.co/
 linkedin:
