@@ -1,5 +1,6 @@
 ---
 path: /graduates/olivia-rohner
+cover: /assets/Olivia_Rohner.jpg
 name: Olivia Rohner
 portfolio: https://oliviarohner.com/
 linkedin: https://www.linkedin.com/in/olivia-rohner-9a787792/
