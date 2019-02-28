@@ -1,6 +1,6 @@
 ---
 path: /graduates/andrea-abello
-cover: /assets/andrea_abello.jpg
+cover: /assets/Andrea_Abello.jpg
 name: Andrea Abello
 portfolio: https://www.aabello.com
 linkedin: https://www.linkedin.com/in/andrea-abello-470657135/
