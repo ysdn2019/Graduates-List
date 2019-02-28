@@ -1,5 +1,6 @@
 ---
 path: /graduates/melosha-ratnasingham
+cover: /assets/Melosha_Ratnasingham.jpg
 name: Melosha Ratnasingham
 portfolio: http://meloshar.com
 linkedin: https://www.linkedin.com/in/melosha-ratnasingham-209967160/?originalSubdomain=ca
