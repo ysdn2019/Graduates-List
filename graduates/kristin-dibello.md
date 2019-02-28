@@ -1,6 +1,6 @@
 ---
 path: /graduates/kristin-dibello
-cover: /assets/kristin_dibello.jpg
+cover: /assets/Kristin_Dibello.jpg
 name: Kristin DiBello
 portfolio: https://kristindibello.design/index.html
 linkedin: https://www.linkedin.com/in/kristin-dibello-6a8220160/
