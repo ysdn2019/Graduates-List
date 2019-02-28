@@ -1,5 +1,6 @@
 ---
 path: /graduates/isaak-man
+cover: /assets/Isaak_Man.jpg
 name: Isaak Man
 portfolio: https://isaakman.ca
 linkedin: https://www.linkedin.com/in/isaakman/
