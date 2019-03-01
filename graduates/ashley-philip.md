@@ -1,14 +1,14 @@
 ---
 path: /graduates/ashley-philip
 name: Ashley Philip
-portfolio:
-linkedin:
+portfolio: https://www.behance.net/ashleyphilipdesign
+linkedin: https://www.linkedin.com/in/ashleyphilipdesign/
 twitter:
-instagram:
+instagram: https://www.instagram.com/ashleyphilip/
 medium:
 dribble:
-behance:
-interestArea:
-where:
-relocation:
+behance: https://www.behance.net/ashleyphilipdesign
+interestArea: Branding, Print Design, Packaging Design
+where: Toronto, Ontario
+relocation: Yes
 ---
