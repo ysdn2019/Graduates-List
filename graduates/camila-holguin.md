@@ -1,7 +1,7 @@
 ---
 path: /graduates/camila-holguin
 name: Camila Holguin
-portfolio: http://camiloholguin.com/
+portfolio: http://camilaholguin.com/
 linkedin: https://www.linkedin.com/in/camila-holguin-486a19179/
 twitter:
 instagram:
