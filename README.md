@@ -10,6 +10,7 @@ The filename extension for markdown: `title.md` where `md` stands for markdown.
 ```
 ---
 path: /graduates/first-last
+cover: /assets/first_last.jpg
 name: First Last
 portfolio:
 linkedin:
