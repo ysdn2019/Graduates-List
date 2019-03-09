@@ -1,5 +1,6 @@
 ---
 path: /graduates/aaron-lobo
+cover: /assets/Aaron_Lobo.jpg
 name: Aaron Lobo
 portfolio: https://designsbylobo.com/
 linkedin:
