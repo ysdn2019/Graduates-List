@@ -1,5 +1,6 @@
 ---
 path: /graduates/anna-situ
+cover: /assets/Anna_Situ.jpg
 name: Anna Situ
 portfolio: https://www.annasitu.com/
 linkedin: https://www.linkedin.com/in/annasitu
