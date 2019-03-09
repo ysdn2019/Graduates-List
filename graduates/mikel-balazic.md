@@ -1,5 +1,6 @@
 ---
 path: /graduates/mikel-balazic
+cover: /assets/Mikel_Balazic.jpg
 name: Mikel Balazic
 portfolio: http://mikelreedbalazicartdesign.com
 linkedin:
