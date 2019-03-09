@@ -1,5 +1,6 @@
 ---
 path: /graduates/samantha-wiles
+cover: /assets/Samantha_Wiles.jpg
 name: Samantha Wiles
 portfolio: https://www.samwiles.ca/
 linkedin: https://www.linkedin.com/in/samantha-wiles-98b195117/
