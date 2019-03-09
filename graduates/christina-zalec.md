@@ -1,5 +1,6 @@
 ---
 path: /graduates/christina-zalec
+cover: /assets/Christina_Zalec.jpg
 name: Christina Zalec
 portfolio: https://www.blackrabbitdesignco.com
 linkedin: https://ca.linkedin.com/in/christina-zalec-a9b61912b
