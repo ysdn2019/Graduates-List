@@ -1,5 +1,6 @@
 ---
 path: /graduates/alina-yusupova
+cover: /assets/Alina_Yusupova.jpg
 name: Alina Yusupova
 portfolio: https://www.yudesign.co
 linkedin:
