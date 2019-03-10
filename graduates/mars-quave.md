@@ -1,5 +1,6 @@
 ---
 path: /graduates/mars-quave
+cover: /assets/mars_quave.jpg
 name: Mars Quave
 portfolio: http://marsquave.com/
 linkedin: https://ie.linkedin.com/in/mars-quave-b2103672
