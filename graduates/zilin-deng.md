@@ -1,5 +1,6 @@
 ---
 path: /graduates/zilin-deng
+cover: /assets/zilin_deng.jpg
 name: Zilin Deng
 portfolio: http://zilindeng.co/
 linkedin:
