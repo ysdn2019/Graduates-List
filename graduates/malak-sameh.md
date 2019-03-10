@@ -1,6 +1,6 @@
 ---
 path: /graduates/Malak-Sameh
-cover: /assets/Malak_Sameh.jpg
+cover: /assets/Malak_Sameh_V2.jpg
 name: Malak S. Mahmoud
 portfolio: https://malaksdesigns.com
 linkedin: https://www.linkedin.com/in/malak-s-mahmoud-51abaa164/
