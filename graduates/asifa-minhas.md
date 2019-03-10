@@ -1,5 +1,6 @@
 ---
 path: /graduates/asifa-minhas
+cover: /assets/asifa_minhas.jpg
 name: Asifa Minhas
 portfolio: https://www.asifaminhas.com/
 linkedin: https://www.linkedin.com/in/asifaminhas
