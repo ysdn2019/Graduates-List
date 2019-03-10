@@ -1,5 +1,6 @@
 ---
 path: /graduates/stephanie-ritacca
+cover: /assets/Stephanie_Ritacca.jpg
 name: Stephanie	Ritacca
 portfolio: http://stephanieritacca.com/
 linkedin: https://www.linkedin.com/in/stephanie-ritacca-6a91a0129/
