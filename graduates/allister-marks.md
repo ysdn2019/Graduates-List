@@ -1,5 +1,6 @@
 ---
 path: /graduates/allister-marks
+cover: /assets/allister_marks.jpg
 name: Allister Marks
 portfolio: https://www.allistermarks.com/
 linkedin:
