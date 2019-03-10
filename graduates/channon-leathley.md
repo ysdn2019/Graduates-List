@@ -1,5 +1,6 @@
 ---
 path: /graduates/channon-leathley
+cover: /assets/Channon_Leathley.jpg
 name: Channon Leathley
 portfolio: http://www.channonleathley.com
 linkedin: http://linkedin.com/in/channonleathley
