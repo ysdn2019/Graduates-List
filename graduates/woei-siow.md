@@ -1,5 +1,6 @@
 ---
 path: /graduates/woei-siow
+cover: /assets/woei_siow.jpg
 name: Edward Siow
 portfolio:
 linkedin:
