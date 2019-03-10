@@ -1,5 +1,6 @@
 ---
 path: /graduates/lucy-park
+cover: /assets/Lucy_Parkv2.jpg
 name: Lucy Park
 portfolio: https://lucypark.work
 linkedin: https://www.linkedin.com/in/lucyshpark/
