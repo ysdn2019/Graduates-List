@@ -1,5 +1,6 @@
 ---
 path: /graduates/sarah-nwabuike
+cover: /assets/sarah_nwabuike.jpg
 name: Sarah Nwabuike
 portfolio: https://www.sarahnbk.com/
 linkedin: https://www.linkedin.com/in/sarah-nwabuike/
