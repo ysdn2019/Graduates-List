@@ -1,5 +1,6 @@
 ---
 path: /graduates/gurleen-hansi
+cover: /assets/gurleen_hansi.jpg
 name: Gurleen Hansi
 portfolio: https://www.ghansi.co/
 linkedin: https://www.linkedin.com/in/gurleen-hansi/
