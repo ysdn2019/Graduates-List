@@ -1,6 +1,7 @@
 ---
-path: /graduates/parisa-yazani
-name: Parisa Yanzani
+path: /graduates/parisa-yazdani
+cover: /assets/parisa_yazdani.jpg
+name: Parisa Yazdani
 portfolio: https://parisadale.com
 linkedin: https://www.linkedin.com/in/parisa-yazdani/
 twitter:
