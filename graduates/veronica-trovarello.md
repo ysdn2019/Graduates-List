@@ -1,5 +1,6 @@
 ---
 path: /graduates/veronica-trovarello
+cover: /assets/Veronica_Trovarello.jpg
 name: Veronica Trovarello
 portfolio:
 linkedin: https://www.linkedin.com/in/verotrover/
