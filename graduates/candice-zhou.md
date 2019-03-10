@@ -1,5 +1,6 @@
 ---
 path: /graduates/candice-zhou
+cover: /assets/candice_zhou.jpg
 name: Candice Zhou
 portfolio: https://www.candicezhou.co
 linkedin:
