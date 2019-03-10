@@ -1,5 +1,6 @@
 ---
 path: /graduates/jay-lintag
+cover: /assets/jay_lintag.jpg
 name: Jay Lintag
 portfolio: http://jjlintag.design/
 linkedin: 
