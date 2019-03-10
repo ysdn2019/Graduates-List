@@ -1,5 +1,6 @@
 ---
 path: /graduates/olivia-librandi
+cover: /assets/Olivia_Librandi.jpg
 name: Olivia Librandi
 portfolio: https://www.olivialibrandi.com/
 linkedin: www.linkedin.com/in/olivialibrandi
