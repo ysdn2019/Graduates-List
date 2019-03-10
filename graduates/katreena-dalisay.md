@@ -1,5 +1,6 @@
 ---
 path: /graduates/katreena-dalisay
+cover: /assets/katreena_dalisay.jpg
 name: Katreena Dalisay
 portfolio: https://www.kdalisay.com/
 linkedin: https://www.linkedin.com/in/katreena-dalisay/
