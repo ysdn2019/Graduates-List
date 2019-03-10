@@ -1,5 +1,6 @@
 ---
 path: /graduates/camila-holguin
+cover: /assets/Camila_Holguin.jpg
 name: Camila Holguin
 portfolio: http://camilaholguin.com/
 linkedin: https://www.linkedin.com/in/camila-holguin-486a19179/
