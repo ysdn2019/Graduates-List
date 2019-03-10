@@ -1,5 +1,6 @@
 ---
 path: /graduates/heather-hobday
+cover: /assets/Heather_Hobday.jpg
 name: Heather Hobday
 portfolio: http://www.heatherhobday.com
 linkedin: http://www.linkedin.com/in/heatherhobday
