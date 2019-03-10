@@ -1,5 +1,6 @@
 ---
 path: /graduates/soo-min-chung
+cover: /assets/soo_min_chung.jpg
 name: Soo-min Chung
 portfolio: http://www.soominc.com
 linkedin: www.linkedin.com/in/soo-min-chung-124b95149/
