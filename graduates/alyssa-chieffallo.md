@@ -1,5 +1,6 @@
 ---
 path: /graduates/alyssa-chieffallo
+cover: /assets/Alyssa_Chieffallo.jpg
 name: Alyssa Chieffallo
 portfolio: https://www.designedbyalyssa.ca/
 linkedin: https://www.linkedin.com/in/alyssa-chieffallo-082228131/
