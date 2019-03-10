@@ -1,5 +1,6 @@
 ---
 path: /graduates/andrea-poon
+cover: /assets/andrea_poon.jpg
 name: Andrea Poon
 portfolio: https://www.apoondesign.com/
 linkedin:
