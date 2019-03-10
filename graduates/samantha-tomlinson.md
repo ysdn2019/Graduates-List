@@ -1,5 +1,6 @@
 ---
 path: /graduates/samantha-tomlinson
+cover: /assets/Samantha_Tomlinson.jpg
 name: Samantha Tomlinson
 portfolio: https://www.samtdesigns.com/
 linkedin: https://www.linkedin.com/in/samantha-tomlinson-b8115692/
