@@ -1,5 +1,6 @@
 ---
 path: /graduates/alessya-bagetta
+cover: /assets/Alessya_Bagetta.jpg
 name: Alessya Baggetta
 portfolio: https://www.alessyabaggetta.com
 linkedin: https://www.linkedin.com/in/alessya-baggetta-909b9511b/
