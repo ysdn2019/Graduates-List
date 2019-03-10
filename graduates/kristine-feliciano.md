@@ -1,5 +1,6 @@
 ---
-path: /graduates/krisine-feliciano
+path: /graduates/kristine-feliciano
+cover: /assets/kristine_feliciano.jpg
 name: Kristine Feliciano
 portfolio: http://kfel.co/
 linkedin: https://www.linkedin.com/in/kristine-feliciano-535670121/
