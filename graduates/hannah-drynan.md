@@ -1,5 +1,6 @@
 ---
-path: /graduates/hannah-dynan
+path: /graduates/hannah-drynan
+cover: /assets/Hannah_Drynan.jpg
 name: Hannah Drynan
 portfolio: https://www.hannahdrynan.com/
 linkedin: https://www.linkedin.com/in/hannahdrynan/
