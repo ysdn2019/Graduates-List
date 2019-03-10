@@ -1,5 +1,6 @@
 ---
 path: /graduates/tabita-petre
+cover: /assets/Tabita_Petre.jpg
 name: Tabita Petre
 portfolio: http://tabypetre.com/
 linkedin: https://www.linkedin.com/in/taby-petre-aa9533a2/
