@@ -1,5 +1,6 @@
 ---
 path: /graduates/mckenna-deighton
+cover: /assets/Mckenna_Deighton.jpg
 name: Mckenna Deighton
 portfolio: https://www.mickdeighton.com/
 linkedin: https://www.linkedin.com/in/mckenna-deighton-9403a5b3/
