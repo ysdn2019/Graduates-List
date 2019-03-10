@@ -1,5 +1,6 @@
 ---
 path: /graduates/vincci-chan
+cover: /assets/Vincci_Chan.jpg
 name: Vincci Chan
 portfolio: https://www.vcvincci.com/
 linkedin: https://www.linkedin.com/in/vcvincci/
