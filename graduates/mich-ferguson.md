@@ -1,5 +1,6 @@
 ---
 path: /graduates/mich-ferguson
+cover: /assets/mich_ferguson.jpg
 name: Mich Ferguson
 portfolio: http://miche-design.net/
 linkedin: https://www.linkedin.com/in/mich-ferguson-4674b151/
