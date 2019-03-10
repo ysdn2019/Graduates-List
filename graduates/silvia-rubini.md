@@ -1,5 +1,6 @@
 ---
 path: /graduates/silvia-rubini
+cover: /assets/Silvia_Rubini.jpg
 name: Silvia Rubini
 portfolio: https://silviarubini.design
 linkedin: https://ca.linkedin.com/in/silvia-rubini-63204910b
