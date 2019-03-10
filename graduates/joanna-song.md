@@ -1,5 +1,6 @@
 ---
 path: /graduates/joanna-song
+cover: /assets/Joanna_Chaeyoung_Song.jpg
 name: Joanna Chaeyoung Song
 portfolio: http://j0anna.net
 linkedin:
