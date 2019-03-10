@@ -1,6 +1,6 @@
 ---
 path: /graduates/emily-liu
-cover: /assets/Emily_Liu.jpg
+cover: /assets/Emily_Xiaofel_Liu.jpg
 name: Emily Liu
 portfolio: https://www.emilyliuxf.com/
 linkedin:
