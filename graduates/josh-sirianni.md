@@ -1,5 +1,6 @@
 ---
 path: /graduates/josh-sirianni
+cover: /assets/Joshua_Sirianni.jpg
 name: Joshua Sirianni
 portfolio: https://joshuasirianni.com
 linkedin: https://www.linkedin.com/in/jsirianni/
