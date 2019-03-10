@@ -1,5 +1,6 @@
 ---
 path: /graduates/mirabelle-wang
+cover: /assets/mirabelle_wang.jpg
 name: Mirabelle Wang
 portfolio: https://mirabellewang.com
 linkedin:
