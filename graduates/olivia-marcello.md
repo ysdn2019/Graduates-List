@@ -1,5 +1,6 @@
 ---
 path: /graduates/olivia-marcello
+cover: /assets/Olivia_Marcello.jpg
 name: Olivia Marcello
 portfolio: https://www.oliviamarcello.com/
 linkedin: https://www.linkedin.com/in/olivia-marcello-b4a643157/
