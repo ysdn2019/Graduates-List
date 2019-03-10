@@ -1,5 +1,6 @@
 ---
 path: /graduates/chayoung-lee
+cover: /assets/chayoung_lee.jpg
 name: Cha Lee
 portfolio: 
 linkedin:
