@@ -1,5 +1,6 @@
 ---
 path: /graduates/ellie-keller
+cover: /assets/Ellie_Keller.jpg
 name: Ellie Keller
 portfolio: https://www.ellies.space/
 linkedin: https://www.linkedin.com/in/ellieklr/
