@@ -1,5 +1,6 @@
 ---
 path: /graduates/caitlin-lewis
+cover: /assets/Caitlin_Lewis.jpg
 name: Caitlin Lewis
 portfolio: https://www.caitlinmlewis.com
 linkedin: https://www.linkedin.com/in/caaaitlinlewis
