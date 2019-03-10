@@ -1,5 +1,6 @@
 ---
 path: /graduates/mikee-laylo
+cover: /assets/Mikee_Laylo.jpg
 name: Mikee Laylo
 portfolio: https://www.mikeelaylo.com/
 linkedin: https://www.linkedin.com/in/mikeelaylo
