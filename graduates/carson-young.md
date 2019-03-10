@@ -1,5 +1,6 @@
 ---
 path: /graduates/carson-young
+cover: /assets/Carson_Young.jpg
 name: Carson Young
 portfolio: http://www.carsonyoung.ca
 linkedin: https://www.linkedin.com/in/carson-young/
