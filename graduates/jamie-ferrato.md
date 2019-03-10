@@ -1,5 +1,6 @@
 ---
 path: /graduates/jamie-ferrato
+cover: /assets/Jamie_Ferrato.jpg
 name: Jamie Ferrato
 portfolio: https://www.jamieferrato.design
 linkedin: https://www.linkedin.com/in/jamie-ferrato-633ba2158/
