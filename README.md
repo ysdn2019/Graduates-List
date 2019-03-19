@@ -30,6 +30,7 @@ behance:
 ---
 path: /work/project-name
 graduate:
+mainimg:
 thumnailimg:
 title:
 groupmembers:
@@ -50,6 +51,7 @@ caption3:
 ---
 path: /work/project-name
 graduate:
+mainimg:
 thumnailimg:
 title:
 groupmembers:
@@ -70,6 +72,7 @@ caption3:
 ---
 path: /work/project-name
 graduate:
+mainimg:
 thumnailimg:
 title:
 groupmembers:
