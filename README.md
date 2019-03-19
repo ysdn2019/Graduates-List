@@ -35,6 +35,7 @@ thumbnailimg:
 title:
 groupmembers:
 fields:
+mediumdimensions:
 description:
 digitallink:
 image1:
@@ -56,6 +57,7 @@ thumbnailimg:
 title:
 groupmembers:
 fields:
+mediumdimensions:
 description:
 digitallink:
 image1:
@@ -77,6 +79,7 @@ thumbnailimg:
 title:
 groupmembers:
 fields:
+mediumdimensions:
 description:
 digitallink:
 image1:
