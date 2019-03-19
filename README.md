@@ -30,6 +30,7 @@ behance:
 ---
 path: /work/project-name
 graduate:
+thumnailimg:
 title:
 groupmembers:
 fields:
@@ -49,6 +50,7 @@ caption3:
 ---
 path: /work/project-name
 graduate:
+thumnailimg:
 title:
 groupmembers:
 fields:
@@ -68,6 +70,7 @@ caption3:
 ---
 path: /work/project-name
 graduate:
+thumnailimg:
 title:
 groupmembers:
 fields:
