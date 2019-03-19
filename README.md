@@ -13,15 +13,17 @@ path: /graduates/first-last
 cover: /assets/first_last.jpg
 name: First Last
 portfolio:
+bio:
+field:
+sticker1:
+sticker2:
+sticker3:
 linkedin:
 twitter:
 instagram:
 medium:
 dribble:
 behance:
-interestArea:
-where:
-relocation:
 ---
 ```
 
