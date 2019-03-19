@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/project-name
+path: /work/we-are-connected
 graduate: Rudy Robinson
 mainimg: Robinson_Rudy_project1_web_main.png
 thumnailimg: Robinson_Rudy_project1_web_thumbnail.png
@@ -39,7 +39,7 @@ caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/wordsmash
 graduate: Rudy Robinson
 mainimg: Robinson_Rudy_project2_web_main.png
 thumnailimg: Robinson_Rudy_project1_web_main.png
@@ -60,7 +60,7 @@ caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/news-app-re-design
 graduate: Rudy Robinson
 mainimg: Robinson_Rudy_project3_web_main.png
 thumnailimg: Robinson_Rudy_project3_web_main.png
