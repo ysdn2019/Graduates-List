@@ -31,7 +31,7 @@ behance:
 path: /work/project-name
 graduate:
 mainimg:
-thumnailimg:
+thumbnailimg:
 title:
 groupmembers:
 fields:
@@ -52,7 +52,7 @@ caption3:
 path: /work/project-name
 graduate:
 mainimg:
-thumnailimg:
+thumbnailimg:
 title:
 groupmembers:
 fields:
@@ -73,7 +73,7 @@ caption3:
 path: /work/project-name
 graduate:
 mainimg:
-thumnailimg:
+thumbnailimg:
 title:
 groupmembers:
 fields:
