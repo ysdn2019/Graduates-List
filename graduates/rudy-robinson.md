@@ -21,7 +21,7 @@ behance:
 path: /work/we-are-connected
 graduate: Rudy Robinson
 mainimg: Robinson_Rudy_project1_web_main.png
-thumnailimg: Robinson_Rudy_project1_web_thumbnail.png
+thumbnailimg: Robinson_Rudy_project1_web_thumbnail.png
 title: We are Connected, Motion 1920x1080
 groupmembers:
 fields: Digital, Information Design, Motion
@@ -42,7 +42,7 @@ caption3:
 path: /work/wordsmash
 graduate: Rudy Robinson
 mainimg: Robinson_Rudy_project2_web_main.png
-thumnailimg: Robinson_Rudy_project1_web_main.png
+thumbnailimg: Robinson_Rudy_project1_web_main.png
 title: Wordsmash, motion, 1920x1080
 groupmembers:
 fields: Digital, Motion, Typography
@@ -63,7 +63,7 @@ caption3:
 path: /work/news-app-re-design
 graduate: Rudy Robinson
 mainimg: Robinson_Rudy_project3_web_main.png
-thumnailimg: Robinson_Rudy_project3_web_main.png
+thumbnailimg: Robinson_Rudy_project3_web_main.png
 title: News App Re-Design
 groupmembers:
 fields: Branding, Interactive, UI/UX
