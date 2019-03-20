@@ -53,10 +53,10 @@ digitallink:
 image1: /assets/work/SeverinoParis_Sofia_project2_web_1.png
 subtitle1:
 caption1:
-image2: /assets/work/
+image2: /assets/work/SeverinoParis_Sofia_project2_web_2.png
 subtitle2:
 caption2:
-image3:
+image3: /assets/work/SeverinoParis_Sofia_project2_web_3.png
 subtitle3:
 caption3:
 ---
@@ -64,18 +64,18 @@ caption3:
 ---
 path: /work/project-name
 graduate: Sofia Severino Paris
-mainimg:
-thumbnailimg:
-title:
+mainimg: /assets/work/SeverinoParis_Sofia_project3_web_main.png
+thumbnailimg: /assets/work/SeverinoParis_Sofia_project3_web_thumbnail.png
+title: Intention 
 groupmembers:
-fields:
-mediumdimensions:
-description:
+fields: Communication, Interactive
+mediumdimensions: Installation
+description: The installation Intention was created for the new garden space at Sheridan College at Trafalgar. The final product is a model of what the full-size piece could look like. In this project, I had plenty of creative liberties, as long as I was able to laser print my model.
 digitallink:
-image1:
+image1: /assets/work/SeverinoParis_Sofia_project3_web_1.png
 subtitle1:
 caption1:
-image2:
+image2: /assets/work/SeverinoParis_Sofia_project3_web_2.png
 subtitle2:
 caption2:
 image3:
