@@ -43,7 +43,7 @@ caption3:
 path: /work/oble
 graduate: Zachery Eng
 mainimg: /assets/work/eng_zachery_oble_web_support1.jpg
-thumbnailimg: /assets/work/eng_zachery_oble_web_thumbnail.jpg
+thumbnailimg: /assets/work/eng_zachery_oble_web_thumbnail.png
 title: Oble
 groupmembers: Mohit Gupta, Carson Young, David Luong
 fields: Branding, Interactive, UI/UX
