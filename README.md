@@ -29,66 +29,66 @@ behance:
 
 ---
 path: /work/project-name
-graduate:
-mainimg:
-thumbnailimg:
+graduate: First Last
+mainimg: /assets/work/[...] .png
+thumbnailimg: /assets/work/[...].png
 title:
 groupmembers:
 fields:
 mediumdimensions:
 description:
 digitallink:
-image1:
+image1: /assets/work/[...].png
 subtitle1:
 caption1:
-image2:
+image2: /assets/work/[...].png
 subtitle2:
 caption2:
-image3:
+image3: /assets/work/[...].png
 subtitle3:
 caption3:
 ---
 
 ---
 path: /work/project-name
-graduate:
-mainimg:
-thumbnailimg:
+graduate: First Last
+mainimg: /assets/work/[...].png
+thumbnailimg: /assets/work/[...].png
 title:
 groupmembers:
 fields:
 mediumdimensions:
 description:
 digitallink:
-image1:
+image1: /assets/work/[...].png
 subtitle1:
 caption1:
-image2:
+image2: /assets/work/[...].png
 subtitle2:
 caption2:
-image3:
+image3: /assets/work/[...].png
 subtitle3:
 caption3:
 ---
 
 ---
 path: /work/project-name
-graduate:
-mainimg:
-thumbnailimg:
+graduate: First Last
+mainimg: /assets/work/[...].png
+thumbnailimg: /assets/work/[...].png
 title:
 groupmembers:
 fields:
 mediumdimensions:
 description:
 digitallink:
-image1:
+image1: /assets/work/[...].png
 subtitle1:
 caption1:
-image2:
+image2: /assets/work/[...].png
 subtitle2:
 caption2:
-image3:
+image3: /assets/work/[...].png
 subtitle3:
 caption3:
 ---
