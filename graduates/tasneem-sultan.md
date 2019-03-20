@@ -64,18 +64,18 @@ caption3:
 ---
 path: /work/invisible-friends
 graduate: Tasneem Sultan
-mainimg: /assets/work/sultan_tasneem_project3_web_main.jpg
-thumbnailimg: /assets/work/sultan_tasneem_secondary_web_thumbnail.jpg
+mainimg: /assets/work/sultan_tasneem_project3_mainimage.jpg
+thumbnailimg: /assets/work/sultan_tasneem_secondary_web_thumbnail_square copy.jpg
 title: Invisible friends
 groupmembers:
 fields: Illustration, Print
 mediumdimensions: Printed postcard, 4x6 inches
 description: "Life's a shitty mess" get well soon post cards. 
 digitallink:
-image1:/assets/work/sultan_tasneem_project3_web_support1.jpg
+image1:/assets/work/sultan_tasneem_project3_web_support1 copy.jpg
 subtitle1: Invisible condition: Fibromyalgia 
 caption1:
-image2: /assets/work/sultan_tasneem_project3_web_support2.jpg
+image2: /assets/work/sultan_tasneem_project3_web_support2 copy.jpg
 subtitle2: Invisible conditions: PCOS (Polycystic ovary syndrome) & Anxiety
 caption2:
 image3:
