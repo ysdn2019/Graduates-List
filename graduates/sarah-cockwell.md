@@ -20,18 +20,18 @@ behance:
 ---
 path: /work/the-dirty-shoe-co
 graduate: Sarah Cockwell
-mainimg: SCockwell_Project1Web_Main.jpg
-thumbnailimg: SCockwell_Project1Web_Main.jpg
+mainimg: /assets/work/SCockwell_Project1Web_Main.jpg
+thumbnailimg: /assets/work/SCockwell_Project1Web_Main.jpg
 title: The Dirty Shoe Co.
 groupmembers:
 fields: Branding, Digital, Motion
 mediumdimensions: Website
 description: The Dirty Shoe Co. is a theoretical online pop up shop that sells end of life cycle shoes in order to make consumers aware of their over buying behaviour. Through this project I want to make global consumers aware of the shoe industry’s carbon footprint through a form of erratic realization.
 digitallink: https://invis.io/URPEORMK2CW
-image1: SCockwell_Project1Web_support1.jpg
+image1: /assets/work/SCockwell_Project1Web_support1.jpg
 subtitle1:
 caption1:
-image2: SCockwell_Project1Web_Support1.jpg
+image2: /assets/work/SCockwell_Project1Web_Support1.jpg
 subtitle2:
 caption2:
 image3:
@@ -42,18 +42,18 @@ caption3:
 ---
 path: /work/the-dirty-shoe-co-rebrand
 graduate: Sarah Cockwell
-mainimg: SCockwell_Project2Book_Main.jpg
-thumbnailimg: SCockwell_Project2Book_Main.jpg
+mainimg: /assets/work/SCockwell_Project2Book_Main.jpg
+thumbnailimg: /assets/work/SCockwell_Project2Book_Main.jpg
 title: The Dirty Shoe Co. Rebrand Guide
 groupmembers:
 fields: Branding, Book Design
 mediumdimensions:
 description: The Dirty Shoe Co. is a theoretical online pop up shop that sells end of life cycle shoes in order to make consumers aware of their over buying behaviour. Through this project I was able to rebrand the company with a brand book, offering a fresh look that ties into the company’s original purpose with hopes of expanding. 
 digitallink:
-image1: SCockwell_Project2Book_Support1.jpg
+image1: /assets/work/SCockwell_Project2Book_Support1.jpg
 subtitle1:
 caption1:
-image2: SCockwell_Project2Book_Support2.jpg
+image2: /assets/work/SCockwell_Project2Book_Support2.jpg
 subtitle2:
 caption2:
 image3:
@@ -64,18 +64,18 @@ caption3:
 ---
 path: /work/project-name
 graduate: Sarah Cockwell
-mainimg: SCockwell_Project3Web_Main.jpg
-thumbnailimg: SCockwell_Project3Book_Main.jpg
+mainimg: /assets/work/SCockwell_Project3Web_Main.jpg
+thumbnailimg: /assets/work/SCockwell_Project3Book_Main.jpg
 title: Questionable Tastes
 groupmembers:
 fields: Book Design, Editorial
 mediumdimensions: Cookbook
 description: Questionable Tastes is a cookbook that portrays the art of food, using futurist recipes ultimately creating the most unappetizing meals in a beautiful way. 
 digitallink:
-image1: SCockwell_Project3Book_Support1.jpg
+image1: /assets/work/SCockwell_Project3Book_Support1.jpg
 subtitle1:
 caption1:
-image2: SCockwell_Project3Book_Support2.jpg
+image2: /assets/work/SCockwell_Project3Book_Support2.jpg
 subtitle2:
 caption2:
 image3:
