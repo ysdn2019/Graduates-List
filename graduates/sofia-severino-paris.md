@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/intention
 graduate: Sofia Severino Paris
 mainimg: /assets/work/SeverinoParis_Sofia_project3_web_main.png
 thumbnailimg: /assets/work/SeverinoParis_Sofia_project3_web_thumbnail.png
