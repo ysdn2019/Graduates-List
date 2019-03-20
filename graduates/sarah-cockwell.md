@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/questionable-tastes
 graduate: Sarah Cockwell
 mainimg: /assets/work/SCockwell_Project3Web_Main.jpg
 thumbnailimg: /assets/work/SCockwell_Project3Book_Main.jpg
