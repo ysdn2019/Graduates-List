@@ -20,18 +20,18 @@ behance:
 ---
 path: /work/we-are-connected
 graduate: Rudy Robinson
-mainimg: Robinson_Rudy_project1_web_main.png
-thumbnailimg: Robinson_Rudy_project1_web_thumbnail.png
+mainimg: /assets/work/Robinson_Rudy_project1_web_main.png
+thumbnailimg: /assets/work/Robinson_Rudy_project1_web_thumbnail.png
 title: We are Connected 
 groupmembers:
 fields: Digital, Information Design, Motion
 mediumdimensions: Motion 1920x1080
 description: How Smartphones can improve and harm our lives, everyday. 
 digitallink:
-image1: Robinson_Rudy_project1_web_support1.png
+image1: /assets/work/Robinson_Rudy_project1_web_support1.png
 subtitle1:
 caption1:
-image2: Robinson_Rudy_project1_web_support2.png
+image2: /assets/work/Robinson_Rudy_project1_web_support2.png
 subtitle2:
 caption2:
 image3:
@@ -42,21 +42,21 @@ caption3:
 ---
 path: /work/wordsmash
 graduate: Rudy Robinson
-mainimg: Robinson_Rudy_project2_web_main.png
-thumbnailimg: Robinson_Rudy_project1_web_main.png
+mainimg: /assets/work/Robinson_Rudy_project2_web_main.png
+thumbnailimg: /assets/work/Robinson_Rudy_project1_web_main.png
 title: Wordsmash
 groupmembers:
 fields: Digital, Motion, Typography
 mediumdimensions: Motion, 1920x1080
 description: An animated typographic piece of motion design. A "hype intro" for a faux institution. A combination of the words Pattern, Rhythm, and Timing.
 digitallink: https://vimeo.com/260176810
-image1: Robinson_Rudy_project2_web_support1.png
+image1: /assets/work/Robinson_Rudy_project2_web_support1.png
 subtitle1:
 caption1:
-image2: Robinson_Rudy_project2_web_support2.png
+image2: /assets/work/Robinson_Rudy_project2_web_support2.png
 subtitle2:
 caption2:
-image3: Robinson_Rudy_project2_web_support3.png
+image3: /assets/work/Robinson_Rudy_project2_web_support3.png
 subtitle3:
 caption3:
 ---
@@ -64,21 +64,21 @@ caption3:
 ---
 path: /work/news-app-re-design
 graduate: Rudy Robinson
-mainimg: Robinson_Rudy_project3_web_main.png
-thumbnailimg: Robinson_Rudy_project3_web_main.png
+mainimg: /assets/work/Robinson_Rudy_project3_web_main.png
+thumbnailimg: /assets/work/Robinson_Rudy_project3_web_main.png
 title: News App Re-Design
 groupmembers:
 fields: Branding, Interactive, UI/UX
 mediumdimensions:
 description: A complete re-design of The Globe and Mail mobile app.
 digitallink:
-image1: Robinson_Rudy_project3_web_support1.png
+image1: /assets/work/Robinson_Rudy_project3_web_support1.png
 subtitle1:
 caption1:
-image2: Robinson_Rudy_project3_web_support2.png
+image2: /assets/work/Robinson_Rudy_project3_web_support2.png
 subtitle2:
 caption2:
-image3: Robinson_Rudy_project3_web_support3.png
+image3: /assets/work/Robinson_Rudy_project3_web_support3.png
 subtitle3:
 caption3:
 ---
