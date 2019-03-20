@@ -62,7 +62,7 @@ caption3: OMYO is specially designed for tea lovers, who are also interested in 
 ---
 
 ---
-path: /work/project-name
+path: /work/soboun
 graduate: Soo-min Chung
 mainimg: /assets/work/Chung_Soomin_project3_support_main.jpg
 thumbnailimg: /assets/work/Chung_Soomin_project3_thumbnail-01.jpg
