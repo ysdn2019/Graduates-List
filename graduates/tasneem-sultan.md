@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/invisible-friends
 graduate: Tasneem Sultan
 mainimg: /assets/work/sultan_tasneem_project3_web_main.jpg
 thumbnailimg: /assets/work/sultan_tasneem_secondary_web_thumbnail.jpg
