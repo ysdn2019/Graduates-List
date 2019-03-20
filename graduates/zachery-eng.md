@@ -20,21 +20,21 @@ behance: https://www.behance.net/zacheryeng
 ---
 path: /work/non-verbal-communication
 graduate: Zachery Eng
-mainimg: /assets/work/eng_zachery_nonverbal_print.jpg
-thumbnailimg: /assets/work/eng_zachery_nonverbal_thumbnail.jpg
+mainimg: /assets/work/eng_zachery_nonverbal_main.jpg
+thumbnailimg: /assets/work/eng_zachery_nonverbal_web_thumbnail.jpg
 title: Non-verbal Communication
 groupmembers:
 fields: Communication, Environmental, Interactive
 mediumdimensions:
 description: Non-verbal communication is defined as any behavior—voluntary or involuntary, aside from words themselves that pass on any meaning. This project explores the effects of our behavior and actions, and examines the emotional and physical impact that it has on another. The full case study will be available at zacheryeng.com.
 digitallink: http://zacheryeng.com/
-image1: /assets/work/eng_zachery_nonverbal_support1.jpg
+image1: /assets/work/eng_zachery_nonverbal_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/eng_zachery_nonverbal_support2.jpg
+image2: /assets/work/eng_zachery_nonverbal_web_support2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/eng_zachery_nonverbal_support3.jpg
+image3: /assets/work/eng_zachery_nonverbal_web_support3.jpg
 subtitle3:
 caption3:
 ---
@@ -42,7 +42,7 @@ caption3:
 ---
 path: /work/oble
 graduate: Zachery Eng
-mainimg: /assets/work/eng_zachery_oble_web_support1.jpg
+mainimg: /assets/work/eng_zachery_oble_web_main.png
 thumbnailimg: /assets/work/eng_zachery_oble_web_thumbnail.png
 title: Oble
 groupmembers: Mohit Gupta, Carson Young, David Luong
