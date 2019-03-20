@@ -64,7 +64,7 @@ caption3:
 ---
 path: /work/paw-o-meter
 graduate: Stefana Zdrincu
-mainimg:
+mainimg: /assets/work/Zdrincu_Stefana_project3_web_support1.jpg
 thumbnailimg: /assets/work/Zdrincu_Stefana_project3_web_thumbnail.jpg
 title: Paw-O-Meter
 groupmembers:
