@@ -28,13 +28,13 @@ fields: Book Design, Typography
 mediumdimensions: Book, approx. 6.5 x 8in
 description: A platform committed to sharing personal narratives of non-binary and trans people in the GTA and Niagara Region. /He/She/They walks readers through a highly diverse collection of uncensored insight, childhood recollections, struggles, triumphs, and knowledge shared from an inclusive group of eleven non-binary and trans individuals.
 digitallink:
-image1: /assets/work/[...].png
+image1: /assets/work/
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
@@ -50,13 +50,13 @@ fields: Book Design
 mediumdimensions:
 description: An experimental book narrating the experience of an individual that has been bitten by a zombie, and the side effects and thoughts they experience as they approach their imminent death. The accordion-fold book may be read both frontwards and backwards, each with a separate story to be told.
 digitallink:
-image1: /assets/work/[...].png
+image1: /assets/work/
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
@@ -64,21 +64,21 @@ caption3:
 ---
 path: /work/Playdium-Brand-Book
 graduate: Allister Marks
-mainimg: /assets/work/[...].png
-thumbnailimg: /assets/work/[...].png
+mainimg: /assets/work/
+thumbnailimg: /assets/work/
 title: Playdium Brand Book
 groupmembers:
 fields: Branding
 mediumdimensions:
 description: A corporate identity re-brand of Playdium, a space designed for the interactive and high-tech amusement of energetic children, teens, and their families. The mission is existing as an escape from reality, a vision actualized in the renewed visual language and fully cohesive fluid identity.
 digitallink:
-image1: /assets/work/[...].png
+image1: /assets/work/
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
