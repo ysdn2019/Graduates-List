@@ -18,7 +18,7 @@ behance: https://www.behance.net/mirabellewang
 ---
 
 ---
-path: /work/Plain-&-Sweet
+path: /work/plain-and-sweet
 graduate: Mirabelle Wang
 mainimg: /assets/work/Wang_Mirabelle_Project1_Web_Main.psd
 thumbnailimg: /assets/work/Wang_Mirabelle_Project1_Web_Thumbnail.psd
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Seat
+path: /work/seat
 graduate: Mirabelle Wang
 mainimg: /assets/work/Wang_Mirabelle_Project2_Web_Main.psd
 thumbnailimg: /assets/work/Wang_Mirabelle_Project2_Secondary_Web_Thumbnail.psd
@@ -62,7 +62,7 @@ caption3: Description screen, floor plan, upcoming bookings screen
 ---
 
 ---
-path: /work/Root
+path: /work/root
 mainimg: /assets/work/Wang_Mirabelle_Project3_Web_Main.psd
 thumbnailimg: /assets/work/Wang_Mirabelle_Project3_Web_Thumbnail.psd
 title: Root
