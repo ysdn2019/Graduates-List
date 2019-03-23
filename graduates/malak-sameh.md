@@ -5,7 +5,7 @@ name: Malak S. Mahmoud
 portfolio: https://malaksdesigns.com
 bio: Throughout most of her life, Malak identified herself as an artist. She painted abstract patterns and forms with oil, acrylic, and watercolor, and sketched. However, she felt a constant itch for typography, posters, and logos. She would sketch new designs with pen and paper but would not take them further because she thought that was the only form it could be in. During high school, she discovered the world of design and instantly fell in love. The early designs she created were finally brought to digital life. In a lot of her work, she carries that expression and aims to create innovative solutions that inspire and foster memorable relationships between brands and their clients. She has a great experience in communication design working at SAIA YORK and YU DIVEST, assisting the organizations in creating posters and announcements in different media for important events taking place on the campus of York University. She also has experience in branding and marketing, in which she has done some freelancing for social media blogs and private businesses designing logos, digital announcements, and prototypes.
 field: Branding, Communication, Editorial
-sticker1: ???
+sticker1: Typography Lover
 sticker2: Restless
 sticker3: Binge Watcher
 email: sm__malak@hotmail.com
@@ -79,7 +79,7 @@ caption1:
 image2: /assets/work/Sameh_Malak_project3_web_support2.png
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
