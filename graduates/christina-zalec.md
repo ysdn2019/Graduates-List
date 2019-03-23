@@ -7,7 +7,7 @@ bio: Christina Zalec is a graphic designer and illustrator from small-town Subur
 field: Communication, Print, Typography
 sticker1: Shark Enthusiast
 sticker2: Detailed
-sticker3:  Aspiring Illustrator
+sticker3: Aspiring Illustrator
 email: zalec95@gmail.com
 linkedin: https://ca.linkedin.com/in/christina-zalec-a9b61912b
 twitter: 
