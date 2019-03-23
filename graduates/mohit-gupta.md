@@ -18,7 +18,7 @@ behance: https://www.behance.net/mohit9994
 ---
 
 ---
-path: /work/Oble
+path: /work/oble
 graduate: Mohit Gupta
 mainimg: /assets/work/Gupta_Mohit_project1_web_main.png
 thumbnailimg: /assets/work/Gupta_Mohit_project1_web_thumbnail.png
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Toolbox
+path: /work/toolbox
 graduate: Mohit Gupta
 mainimg: /assets/work/Gupta_Mohit_project2_web_main.png
 thumbnailimg: /assets/work/Gupta_Mohit_project2_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Care+
+path: /work/care-plus
 graduate: Mohit Gupta
 mainimg: /assets/work/Gupta_Mohit_project3_print_1.gif
 thumbnailimg: /assets/work/[...] .png
@@ -72,13 +72,13 @@ fields: Digital, Interactive, UI/UX
 mediumdimensions:
 description: Care+ is a comprehensive note-taking and task management app designed to help improve the information-delivery and communication system of healthcare today.
 digitallink: https://www.guptamohit.com/careplus
-image1: /assets/work/[...] .png
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/[...] .png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...] .png
+image3:
 subtitle3:
 caption3:
 ---
