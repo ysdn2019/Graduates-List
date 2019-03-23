@@ -78,7 +78,7 @@ caption1:
 image2: /assets/work/gravestock_oliver_project3_web_support2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
