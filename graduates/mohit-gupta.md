@@ -64,21 +64,21 @@ caption3:
 ---
 path: /work/care-plus
 graduate: Mohit Gupta
-mainimg: /assets/work/Gupta_Mohit_project3_print_1.gif
-thumbnailimg: /assets/work/[...] .png
+mainimg: /assets/work/Gupta_Mohit_project3_web_main.png
+thumbnailimg: /assets/work/Gupta_Mohit_project3_web_thumbnail.png
 title: Care+
 groupmembers: 
 fields: Digital, Interactive, UI/UX
 mediumdimensions:
 description: Care+ is a comprehensive note-taking and task management app designed to help improve the information-delivery and communication system of healthcare today.
 digitallink: https://www.guptamohit.com/careplus
-image1:
+image1: /assets/work/Gupta_Mohit_project3_web_1.png
 subtitle1:
 caption1:
-image2:
+image2: /assets/work/Gupta_Mohit_project3_web_2.png
 subtitle2:
 caption2:
-image3:
+image3: /assets/work/Gupta_Mohit_project3_web_3.png
 subtitle3:
 caption3:
 ---
