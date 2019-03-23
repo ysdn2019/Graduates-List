@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Buoyant
+path: /work/buoyant
 graduate: Matthew Alward
 mainimg: /assets/work/Alward_Matthew_project1_web_main.png
 thumbnailimg: /assets/work/Alward_Matthew_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Snatched
+path: /work/snatched
 graduate: Matthew Alward
 mainimg: /assets/work/Alward_Matthew_project2_web_main.png
 thumbnailimg: /assets/work/Alward_Matthew_project2_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/D*ting
+path: /work/dting
 graduate: Matthew Alward
 mainimg: /assets/work/Alward_Matthew_web_main.png
 thumbnailimg: /assets/work/Alward_Matthew_web_thumbnail.png
