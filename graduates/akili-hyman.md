@@ -56,7 +56,7 @@ caption1: The fully realized brand book that houses the Brand manifesto, guideli
 image2: /assets/work/hyman_akili_project2_web_2.png
 subtitle2: The Brand Mark + Colours
 caption2: The brand mark was inspired by the beat and musicality of the languages, dialects and accents in the Caribbean and reflected by the morse code symbols: dots and dashes.The colours used for this brand are inspired by the ocean, the birds of paradise  and lush plant life that one will experience in the Caribbean.
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
@@ -78,7 +78,7 @@ caption1: A shot from the  glitch effects that indicate a slip in memory or glit
 image2: /assets/work/hyman_akili_project3_web_2.png
 subtitle2: The Mandela Effect a conspiracy
 caption2: A shot of the edit that reveals the subject matter of the film.
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
