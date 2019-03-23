@@ -3,9 +3,7 @@ path: /graduates/aaron-vince
 cover: /assets/Aaron_Vince.jpg
 name: Aaron Vince
 portfolio: https://www.aaronvince.com
-bio: As a designer, Aaron is enthusiastic about building brands and designing impactful experiences. They like to start every project with thorough research and analysis to inform future design decisions. From there, they use branding, UX principles, front-end development, and graphic design to translate information into emotion.
-In their free time, Aaron enjoys walking their puggle, Buddy, in the park, making new vegetarian recipes, listening to podcasts like Good Job, Brain!, The Flop House, and FiveThirtyEight Politics, or watching stand-up like Gina Yashere, Beth Stelling, or Bill Burr.
-They're also passionate about ongoing learning by keeping good habits over time, with the help of the getting things done app, Things. Currently, Aaron is improving on their German with Duolingo and learning SVG, 3D, and React.
+bio: As a designer, Aaron is enthusiastic about building brands and designing impactful experiences. They like to start every project with thorough research and analysis to inform future design decisions. From there, they use branding, UX principles, front-end development, and graphic design to translate information into emotion. In their free time, Aaron enjoys walking their puggle, Buddy, in the park, making new vegetarian recipes, listening to podcasts like Good Job, Brain!, The Flop House, and FiveThirtyEight Politics, or watching stand-up like Gina Yashere, Beth Stelling, or Bill Burr. They're also passionate about ongoing learning by keeping good habits over time, with the help of the getting things done app, Things. Currently, Aaron is improving on their German with Duolingo and learning SVG, 3D, and React.
 field: Data Visualisation, Interactive, UI/UX
 sticker1: Dot-Grid Fan
 sticker2: Indefatigable
