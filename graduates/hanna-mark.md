@@ -2,7 +2,7 @@
 path: /graduates/hanna-mark
 cover: /assets/Hanna_Mark.jpg
 name: Hanna Mark
-portfolio: https://hannamark.squarespace.com/
+portfolio:
 bio: Hanna is a graphic designer, who absolutely loves to create art and illustrations on the side. Hanna is inspired by nature and loves to create from what she sees in the beautiful Canadian landscape. It is such an interesting process morphing the art of graphic design as well as visual art and mixed media together to create something unique that has not been seen before. It is so important to stay spontaneous and throw yourself into a design, and think about the technical aspects of it later. That way you end up with a unique design that you can then focus on making into something substantial later. Hanna hopes to be able to continue designing unique works of art throughout her career.
 field: Communication, Print, Typography
 sticker1: Art Lover
