@@ -21,7 +21,7 @@ behance: https://www.behance.net/jjlintag
 path: /work/Wu-xing-5-elements-of-chinese-calligraphy
 graduate: Jay Lintag
 mainimg: /assets/lintag_jay_project1_web_main-Jay Lintag.jpg
-thumbnailimg: /assets/work/[...].png
+thumbnailimg:
 title: Wu Xing - 5 Elements of Chinese Calligraphy 
 groupmembers:
 fields: Branding, Packaging
@@ -44,7 +44,7 @@ caption3:
 path: /work/Brainfood
 graduate: Jay Lintag
 mainimg: /assets/work/lintag_jay_project2_web_main-Jay Lintag.jpg
-thumbnailimg: /assets/work/[...].png
+thumbnailimg:
 title: Brainfood
 groupmembers:
 fields: Branding, Illustration, Packaging
@@ -74,13 +74,13 @@ fields: Book Design, Illustration, Typography
 mediumdimensions:
 description:Ahh Burp Caw is an a ABC book displaying a series of onomatopoeia's through print. Ahh Burp Caw uses a combination of Jay's illustrations and custom font Audyssey to express his fun and playful visual style. 
 digitallink:
-image1: /assets/work/[...].png
+image1: 
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
