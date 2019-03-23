@@ -53,10 +53,10 @@ digitallink:
 image1: /assets/work/gogota_carolyne_project2_web_support1.png
 subtitle1: Visual Essay
 caption1: In addition to a literature review, I conducted visual research of my own work and evolution as a design student. I found that a lack of exposure to culturally diverse perspectives in design led me to believe the that scope of effective design was very small. With exposure to culturally diverse perspectives, I may have recognized my style much earlier and would have been more open to experimentation.
-image2: /assets/work/
+image2:
 subtitle2: 
 caption2: 
-image3: /assets/work/
+image3:
 subtitle3: 
 caption3: 
 ---
