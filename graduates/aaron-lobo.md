@@ -20,21 +20,21 @@ behance:
 ---
 path: /work/Self-Medicate
 graduate: Aaron Lobo
-mainimg: /assets/work/
-thumbnailimg: /assets/work/
+mainimg: /assets/work/labo_aaron_project1_web_main.png
+thumbnailimg: /assets/work/labo_aaron_project1_web_thumbnail.png
 title: Self Medicate
 groupmembers:
 fields: Communication, Digital, Motion
 mediumdimensions:
 description: A film that explores the cyclical nature of self medicating depression through illicit drugs. 
 digitallink:
-image1: /assets/work/
+image1: /assets/work/labo_aaron_project1_web_1.png
 subtitle1:
 caption1:
-image2: /assets/work/
+image2: /assets/work/labo_aaron_project1_web_2.png
 subtitle2:
 caption2:
-image3: /assets/work/
+image3: /assets/work/labo_aaron_project1_web_3.png
 subtitle3:
 caption3:
 ---
@@ -42,21 +42,21 @@ caption3:
 ---
 path: /work/pExperimental-Film
 graduate: Aaron Lobo
-mainimg: /assets/work/
-thumbnailimg: /assets/work/
+mainimg: /assets/work/labo_aaron_project2_web_main.png
+thumbnailimg: /assets/work/labo_aaron_project2_web_thumbnail.png
 title: Experimental Film
 groupmembers:
 fields: Communication, Digital, Motion
 mediumdimensions:
 description: An experimental film that explores viewing the world in black and white.
 digitallink:
-image1: /assets/work/
+image1: /assets/work/labo_aaron_project2_web_1.png
 subtitle1:
 caption1:
-image2: /assets/work/
+image2: /assets/work/labo_aaron_project2_web_2.png
 subtitle2:
 caption2:
-image3: /assets/work/
+image3: /assets/work/labo_aaron_project2_web_3.png
 subtitle3:
 caption3:
 ---
@@ -64,21 +64,21 @@ caption3:
 ---
 path: /work/Nor-Brandbook
 graduate: Aaron Lobo
-mainimg: /assets/work/
-thumbnailimg: /assets/work/
+mainimg: /assets/work/labo_aaron_project3_web_main.png
+thumbnailimg: /assets/work/labo_aaron_project3_web_thumbnail.png
 title: Nor Brandbook
 groupmembers:
 fields: Branding, Editorial, Print
 mediumdimensions:
 description: Nor, a movement that questions gender boundaries in fashion, showcases its brand identity through this graphics standard manual. 
 digitallink:
-image1: /assets/work/
+image1: /assets/work/labo_aaron_project3_web_1.png
 subtitle1:
 caption1:
-image2: /assets/work/
+image2: /assets/work/labo_aaron_project3_web_2.png
 subtitle2:
 caption2:
-image3: /assets/work/
+image3: /assets/work/labo_aaron_project3_web_3.png
 subtitle3:
 caption3:
 ---
