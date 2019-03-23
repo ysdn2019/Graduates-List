@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/How-much-time-are-you-losing-on-Line-1?
+path: /work/how-much-time-are-you-losing-on-line-one
 graduate: Mckenna Deighton
 mainimg: /assets/work/deighton_mckenna_firstname_project1_web_main.png
 thumbnailimg: /assets/deighton_mckenna_project1_web_thumbnail.png
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Sheridan-Library-EGD-Proposal
+path: /work/sheridan-library-EGD-proposal
 graduate: Mckenna Deighton
 mainimg: /assets/work/deighton_mckenna_project2_web_main.png
 thumbnailimg: /assets/lastname_firstname_secondary_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/The Road
+path: /work/the-road
 graduate: Mckenna Deighton
 mainimg: /assets/work/deighton_mckenna_project3_web_main.png
 thumbnailimg: /assets/deighton_mckennasecondary_web_thumbnail.png
@@ -78,7 +78,7 @@ caption1: Users can filter the data by station, year, and delay length.
 image2: /assets/work/lastname_firstname_project3_web_2.png
 subtitle2: Imagery
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3: 
 caption3:
 ---
