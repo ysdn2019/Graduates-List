@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Maven-Snowboards
+path: /work/maven-snowboards
 graduate: Mich Ferguson
 mainimg: /assets/work/ferguson_mich_project1_web_main.jpg
 thumbnailimg: /assets/work/ferguson_mich_project1_web_thumbnail.jpg
@@ -40,11 +40,11 @@ caption3:
 ---
 
 ---
-path: /work/Band-Zine-Social-Distortion
+path: /work/band-zine-social-distortion
 graduate: Mich Ferguson
 mainimg: /assets/work/ferguson_mich_project2_web_main.jpg
 thumbnailimg: /assets/work/ferguson_mich_project2_web_thumbnail.jpg
-title: Band Zine: Social Distortion, Print
+title: Band Zine: Social Distortion
 groupmembers:
 fields: Editorial, Print, Typography
 mediumdimensions: Print
@@ -62,11 +62,11 @@ caption3:
 ---
 
 ---
-path: /work/A-Dragon-came-to-School-Today
+path: /work/a-dragon-came-to-school-today
 graduate: Mich Ferguson
 mainimg: /assets/work/ferguson_mich_project3_web_main.jpg
 thumbnailimg: /assets/work/ferguson_mich_project3_web_thumbnail.jpg
-title: Maven Snowboards
+title: A Dragon Came to School Today
 groupmembers:
 fields: Book Design, Illustration, Print
 mediumdimensions: Print
