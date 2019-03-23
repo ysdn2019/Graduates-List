@@ -75,7 +75,7 @@ digitallink:
 image1: /assets/work/Leathley_Channon_project3_1.jpg
 subtitle1: About the book
 caption1: Curious Incantations a lighthearted book influenced by modern witchcraft and fictional mainstream magick. The design captures the look between a traditional yet modern spellbook. The cream coloured deckle-edged paper, fabric wrapped hardcover, and Coptic binding give the book a natural handmade quality to add to the reader’s experience. 
-image2:/ assets/work/Leathley_Channon_project3_2.jpg
+image2: /assets/work/Leathley_Channon_project3_2.jpg
 subtitle2: 
 caption2: 
 image3: /assets/work/Leathley_Channon_project3_3.jpg
