@@ -78,7 +78,7 @@ caption1:
 image2: /assets/work/chieffallo_alyssa_project3_web_2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
