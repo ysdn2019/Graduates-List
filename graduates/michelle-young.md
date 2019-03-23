@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Tyme
+path: /work/tyme
 graduate: Michelle Young
 mainimg: /assets/work/young_michelle_project1_web_main.png
 thumbnailimg: /assets/work/young_michelle_project1_web_thumbnail.png
@@ -40,7 +40,7 @@ caption3: A notification alerts the user of the revealed memory and a personaliz
 ---
 
 ---
-path: /work/Somnium
+path: /work/somnium
 graduate: Michelle Young
 mainimg: /assets/work/young_michelle_project2_web_main.png
 thumbnailimg: /assets/work/young_michelle_project2_web_thumbnail.png
@@ -52,16 +52,16 @@ digitallink:
 image1: /assets/work/young_michelle_project2_web_support1.png
 subtitle1: Visualization from an Archive Book.
 caption1: The visual interpretation of an anonymous childhood nightmare submission
-image2: /assets/work/[...] .png
+image2:
 subtitle2: 
 caption2: 
-image3: /assets/work/[...] .png
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/TaitGo
+path: /work/tait-go
 graduate: Michelle Young
 mainimg: /assets/work/young_michelle_project3_web_main.png
 thumbnailimg: /assets/work/young_michelle_project3_web_thumbnail.png
