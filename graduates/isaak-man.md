@@ -34,7 +34,7 @@ caption1: Connection is a necessity of our human experience. Creating connection
 image2: /assets/work/man_isaak_project1_web_2.jpg
 subtitle2:
 caption2: The abstract installation piece that was created, of an oversized blanket made of rubber bands, portrays the idea of memories, moments or experiences between two people. The ‘oversized’ idea represents the ability to involve more than two people in the interaction. 
-image3:
+image3: /assets/work/man_isaak_project1_web_3.jpg
 subtitle3:
 caption3:
 ---
