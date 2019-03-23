@@ -18,7 +18,7 @@ behance: https://www.behance.net/hirakiani4aa8
 ---
 
 ---
-path: /work/ArtWalli
+path: /work/artwalli
 graduate: Hira Kiani
 mainimg: /assets/work/kiani_hira_project1_web_main.jpg
 thumbnailimg: /assets/work/kiani_hira_project1_web_thumbnail.jpg
