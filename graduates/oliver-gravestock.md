@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/The-Maryland-Flag
+path: /work/the-maryland-flag
 graduate: Oliver Gravestock
 mainimg: /assets/work/gravestock_oliver_project1_web_main.jpg
 thumbnailimg: /assets/gravestock_oliver_project1_web_thumbnail.jpg
@@ -34,13 +34,13 @@ caption1:
 image2: /assets/work/gravestock_oliver_project1_web_support2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Cordyceps
+path: /work/cordyceps
 graduate: Oliver Gravestock
 mainimg: /assets/work/gravestock_oliver_project2_web_main.jpg
 thumbnailimg: /assets/gravestock_oliver_secondary_web_thumbnail.jpg
@@ -56,13 +56,13 @@ caption1:
 image2: /assets/work/gravestock_oliver_project2_web_support2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/I-Remember
+path: /work/i-remember
 graduate: Oliver Gravestock
 mainimg: /assets/work/gravestock_oliver_project3_web_main.jpg
 thumbnailimg: /assets/gravestock_oliver_project3_web_thumbnail.jpg
