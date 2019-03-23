@@ -18,7 +18,7 @@ behance: https://www.behance.net/mikeelaylo
 ---
 
 ---
-path: /work/Philbeat-Overture
+path: /work/philbeat-overture
 graduate: Mikee Laylo
 mainimg: /assets/work/Laylo_Mikee_Project1_web-MAIN.png
 thumbnailimg: /assets/work/Laylo_Mikee_Project1_web-THUMBNAIL.png
@@ -40,7 +40,7 @@ caption3: The website serves as a compact form of presentation of the campaign. 
 ---
 
 ---
-path: /work/Wanderland-Magic
+path: /work/wanderland-magic
 graduate: Mikee Laylo
 mainimg: /assets/work/Laylo_Mikee_Project2_web-MAIN.png
 thumbnailimg: /assets/work/Laylo_Mikee_secondary_web-THUMBNAIL.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Luminato-Festival
+path: /work/luminato-festival
 graduate: Mikee Laylo
 mainimg: /assets/work/Laylo_Mikee_Project3_web-MAIN.png
 thumbnailimg: /assets/work/Laylo_Mikee_project3_web-THUMBNAIL.png
