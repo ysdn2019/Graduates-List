@@ -42,8 +42,8 @@ caption3: Threads is available as a printed magazine and an e-publication.
 ---
 path: /work/Cultural-perspectives-in-design
 graduate: Carolyne Gogota
-mainimg: /assets/work/ gogota_carolyne_project2_web_main.png
-thumbnailimg: /assets/work/ gogota_carolyne_project2_web_thumbnail.png
+mainimg: /assets/work/gogota_carolyne_project2_web_main.png
+thumbnailimg: /assets/work/gogota_carolyne_project2_web_thumbnail.png
 title: Cultural Perspectives in Design
 groupmembers: 
 fields: Branding, Communication, Information Design
@@ -64,8 +64,8 @@ caption3:
 ---
 path: /work/Nivean-slab
 graduate: Carolyne Gogota
-mainimg: /assets/work/ gogota_carolyne_project3_web_main.png
-thumbnailimg: /assets/work/ gogota_carolyne_project3_web_thumbnail.png
+mainimg: /assets/work/gogota_carolyne_project3_web_main.png
+thumbnailimg: /assets/work/gogota_carolyne_project3_web_thumbnail.png
 title: Nivean Slab
 groupmembers: 
 fields: Typography
