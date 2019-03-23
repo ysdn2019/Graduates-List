@@ -34,7 +34,7 @@ caption1:
 image2: /assets/work/zhou_candice_project1_web_2.jpg
 subtitle2: Methodology
 caption2: I took on extreme measures by adding luxury brand logos to disposable items and cheap materials, such as garbage bags, nylon bags and PVC totes and plan to create a photo series depicting their usage. In carrying out this image series, my hope is to question the cognitive dissonance between real and imagined value of luxury fashion brands. View complete case study at www.candicejq.com Special thanks to Photographer: Cora Li, Models and Makeup Artists: Zhongqi and Joel Louzado.
-image3: /assets/work/zhou_candice_project1_web_3
+image3: /assets/work/zhou_candice_project1_web_3.jpg
 subtitle3: Research and Documentation
 caption3: The Documentation Process Book is a bound document containing a visual record, with annotation, of my activities in Design Workshop.
 ---
