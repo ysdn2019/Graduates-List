@@ -20,8 +20,8 @@ behance: https://www.behance.net/jjlintag
 ---
 path: /work/Wu-xing-5-elements-of-chinese-calligraphy
 graduate: Jay Lintag
-mainimg: /assets/lintag_jay_project1_web_main-Jay Lintag.jpg
-thumbnailimg:
+mainimg: /assets/lintag_jay_project1_web_main - Jay Lintag.jpg
+thumbnailimg: /assets/lintag_jay_project1_web_main - Jay Lintag.jpg
 title: Wu Xing - 5 Elements of Chinese Calligraphy 
 groupmembers:
 fields: Branding, Packaging
@@ -43,8 +43,8 @@ caption3:
 ---
 path: /work/Brainfood
 graduate: Jay Lintag
-mainimg: /assets/work/lintag_jay_project2_web_main-Jay Lintag.jpg
-thumbnailimg:
+mainimg: /assets/work/lintag_jay_project2_web_main - Jay Lintag.jpg
+thumbnailimg: /assets/work/lintag_jay_project2_web_main - Jay Lintag.jpg
 title: Brainfood
 groupmembers:
 fields: Branding, Illustration, Packaging
@@ -66,8 +66,8 @@ caption3:
 ---
 path: /work/ahh-burp-caw
 graduate: Jay Lintag
-mainimg: /assets/work/lintag_jay_project3_web_main-Jay Lintag.jpg
-thumbnailimg: /assets/work/[...].png
+mainimg: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
+thumbnailimg: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
 title: Ahh Burp Caw
 groupmembers:
 fields: Book Design, Illustration, Typography
