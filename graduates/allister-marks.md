@@ -64,8 +64,8 @@ caption3:
 ---
 path: /work/Playdium-Brand-Book
 graduate: Allister Marks
-mainimg: /assets/work/
-thumbnailimg: /assets/work/
+mainimg: /assets/work/well,that-bites - Allister Marks.png
+thumbnailimg: /assets/work/well,that-bites - Allister Marks.png
 title: Playdium Brand Book
 groupmembers:
 fields: Branding
