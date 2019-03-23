@@ -42,21 +42,21 @@ caption3:
 ---
 path: /work/water
 graduate: Isaak Man
-mainimg: /assets/work/[...] .png
-thumbnailimg: /assets/work/[...].png
+mainimg: /assets/work/man_isaak_project2_web_main.jpg
+thumbnailimg: /assets/work/man_isaak_project2_web_thumbnail.jpg
 title: Water
 groupmembers:
 fields: Book Design, Editorial, Print
 mediumdimensions: 8inx11in
 description: Water is a book based on all things water, understanding the science behind what water is and the different states water can be in. The book is separated into its three states of Solid, Liquid and Gas and including stores and scientific knowledge based on each topic related to these states.
 digitallink:
-image1: /assets/work/[...].png
+image1: /assets/work/man_isaak_project2_web_1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/man_isaak_project2_web_2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/man_isaak_project2_web_3.jpg
 subtitle3:
 caption3:
 ---
