@@ -2,7 +2,7 @@
 path: /graduates/daniel-kim
 cover: /assets/Daniel_Kim.jpg
 name: Do Hyun Kim
-portfolio: ahtodesign.com
+portfolio: https://ahtodesign.com
 bio: Do Hyun has always been curious to find new ways of enhancing our interactions and experiences with the visual culture. Over the years he has developed a liking to asking open-ended questions and challenging the traditional notions of design. He often incorporates experimental approach to his work. 
 field: Communication, Print, Typography
 sticker1: Ramen Devourer
