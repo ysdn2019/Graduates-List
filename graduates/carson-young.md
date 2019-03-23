@@ -3,7 +3,7 @@ path: /graduates/carson-young
 cover: /assets/Carson_Young.jpg
 name: Carson Young
 portfolio: http://www.carsonyoung.ca
-bio: Carson Young is a digital product designer currently studying in is last year at York University/Sheridan College (YSDN) in Toronto. As a designer, Carson enjoys solving complex problems by using a holistic design process with a focus on multi-disciplinary collaboration and rapid iteration. Although mainly based around digital product design, Carson's design practice hosts a variety of work including editorial, book design and branding. In the rare time that Carson isn't designing, you can find him hiking Hamilton's finest trails, editing his newest Spotify playlists, and watching The Office for the sixtieth time.
+bio: Carson Young is a digital product designer currently studying in his last year at York University/Sheridan College (YSDN) in Toronto. As a designer, Carson enjoys solving complex problems by using a holistic design process with a focus on multi-disciplinary collaboration and rapid iteration. Although mainly based around digital product design, Carson's design practice hosts a variety of work including editorial, book design and branding. In the rare time that Carson isn't designing, you can find him hiking Hamilton's finest trails, editing his newest Spotify playlists, and watching The Office for the sixtieth time.
 field: Communication, Print, Typography
 sticker1: Brutalism Defender
 sticker2: Editorial Lover
