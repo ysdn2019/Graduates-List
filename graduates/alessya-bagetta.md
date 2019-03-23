@@ -31,10 +31,10 @@ digitallink:
 image1: /assets/work/baggetta_alessya_project1_web_supportnumber.jpg
 subtitle1: 
 caption1: 
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2: 
 caption2: 
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3: 
 caption3: 
 ---
@@ -53,10 +53,10 @@ digitallink:
 image1: /assets/work/baggetta_alessya_project2_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
@@ -75,10 +75,10 @@ digitallink:
 image1: /assets/work/baggetta_alessya_project3_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
