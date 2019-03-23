@@ -19,7 +19,7 @@ behance: https://www.behance.net/apateldesign
 
 ---
 path: /work/Electric-Eclectics
-graduate: First Last
+graduate: Ajay Patel
 mainimg: /assets/work/patel_ajay_project1_web_main.jpg
 thumbnailimg: /assets/work/patel_ajay_project1_web_thumbnail.jpg
 title: Electric Eclectics
@@ -41,7 +41,7 @@ caption3:
 
 ---
 path: /work/I-Am-Here-But-Where-Are-You
-graduate: First Last
+graduate: Ajay Patel
 mainimg: /assets/work/patel_ajay_project2_web_main.jpg
 thumbnailimg: /assets/work/patel_ajay_secondary_web_thumbnail.jpg
 title: I Am Here But Where Are You?
@@ -63,7 +63,7 @@ caption3:
 
 ---
 path: /work/Ontario-Cannabis-Store
-graduate: First Last
+graduate: Ajay Patel
 mainimg: /assets/work/patel_ajay_project3_web_main.jpg
 thumbnailimg: /assets/work/patel_ajay_project3_web_thumbnail.jpg
 title: Ontario Cannabis Store
