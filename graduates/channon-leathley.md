@@ -40,7 +40,7 @@ caption3: Bee Hotel includes bamboo stems, native flower seeds, rope, D-ring han
 ---
 
 ---
-path: /work/Note-to-self
+path: /work/note-to-self
 graduate: Channon Leathley
 mainimg: /assets/work/Leathley_Channon_project2_main.jpg
 thumbnailimg: /assets/work/Leathley_Channon_project2_thumbnail.jpg
