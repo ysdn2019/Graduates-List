@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Hello
+path: /work/hello
 graduate: Isaak Man
 mainimg: /assets/work/man_isaak_project3_web_main.jpg
 thumbnailimg: /assets/work/man_isaak_project3_web_thumbnail.jpg
