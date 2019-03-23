@@ -2,7 +2,7 @@
 path: /graduates/erin-dinneen
 cover: /assets/Erin_Dinneen.jpg
 name: Erin Dinneen
-portfolio: erindinneen.com
+portfolio: http://erindinneen.com/
 bio: Erin is driven by a balance between the simple and the unexpected, the serious and the experimental, and the perfect and the playful. As a concept-first designer, her impulse is always to avoid cliché, innovating on past aesthetics to create a unique approach. In her work, Erin often explores the tension created by the interaction between the human and the technological. She is influenced by the ability of speculative worlds, particularly in science fiction, to simultaneously communicate big ideas and connect emotionally with an audience. Outside of design, Erin is a competitive highland dancer, loves to read fiction, and drinks way too much tea.
 field: Communication, Print, Typography
 sticker1: Sci-Fi Nerd
