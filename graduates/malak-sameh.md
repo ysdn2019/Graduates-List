@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Luka-Streetwear
+path: /work/luka-streetwear
 graduate: Malak S. Mahmoud
 mainimg: /assets/work/Sameh_Malak_project1_Web_main.png
 thumbnailimg: /assets/work/Sameh_Malak_project1_Web_thumbnail.lnk
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Frank-Gehry
+path: /work/frank-gehry
 graduate: Malak S. Mahmoud
 mainimg: /assets/work/Sameh_Malak_project2_web_main.png
 thumbnailimg: /assets/work/Sameh_Malak_secondary_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/TIFF-The-Next-Wave
+path: /work/TIFF-the-next-wave
 graduate: Malak S. Mahmoud
 mainimg: /assets/work/Sameh_Malak_project3_web_main.png
 thumbnailimg: /assets/work/Sameh_Malak_project3_web_thumbnail.png
