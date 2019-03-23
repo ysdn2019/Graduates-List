@@ -2,7 +2,7 @@
 path: /graduates/dila-ozsoy
 cover: /assets/Dila_Ozoy.jpg
 name: Dila Ozsoy
-portfolio: www.dilaozsoy.com
+portfolio: https://www.dilaozsoy.com
 bio: A Toronto-based designer and artist, Dila Ozsoy, creates bold and appealing artworks that always aim to communicate with the viewers’ hearts and minds. She is a YSDN Bachelor of Design graduate. She has been specializing in Editorial Design and Communication Design throughout her studies and is looking forward to pursuing this path in her career. Her favourite performance of design is Typography, which she is in constant practice in order to master it. Alongside her design education, she has been practicing visual arts as well for 10 years. She also has a great interest in styling and art direction. She believes communication is key and is always open-minded to different perspectives. She maintains a positive attitude towards every possibility and her energy is fuelled by the inspiration she finds in her surroundings and people. Her passion for art as a whole is the leading factor of her motivation.
 field: Communication, Print, Typography
 sticker1: Fashion Enthusiast
