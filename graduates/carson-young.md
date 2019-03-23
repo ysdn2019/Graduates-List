@@ -40,7 +40,7 @@ caption3: The Oble companion app is designed for parents to help administer thei
 ---
 
 ---
-path: /work/Analog
+path: /work/analog
 graduate: Carson Young
 mainimg: /assets/work/Young_Carson_project2_web_main.png
 thumbnailimg: /assets/work/Young_Carson_project2_web_thumbnail.png
