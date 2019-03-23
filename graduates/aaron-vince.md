@@ -31,10 +31,10 @@ digitallink:
 image1: /assets/work/
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
@@ -50,13 +50,13 @@ fields: Branding, Interactive, UI/UX
 mediumdimensions: UI/UX App Prototype
 description: Castle is a Wi-Fi sharing app where users can connect to reliable, secure, and cost effective wi-fi or safely sell their excess home Wi-Fi to the Castle Wi-Fi Mesh Network.
 digitallink: https://www.figma.com/proto/NXqky2N3XDUMEUumLcrjLSzQ/Castle-Hi-Fi-Wireframes?node-id=321%3A1300&scaling=min-zoom&redirected=1
-image1: /assets/work/[...].png
+image1: /assets/work/
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
@@ -72,13 +72,13 @@ fields: Data Visualisation, Interactive, UI/UX
 mediumdimensions: Device and Companion App
 description: Memory loss from illnesses such as Alzheimer’s Disease (AD) and Dementia is an upcoming challenge in the medical field. One of the symptoms that patients experience is a tendency to wander from their care facilities. This device and app companion seeks to gently guide them back home quickly and safely.
 digitallink: https://sketch.cloud/s/m8Rlz
-image1: /assets/work/[...].png
+image1: /assets/work/
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2: /assets/work/
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: /assets/work/
 subtitle3:
 caption3:
 ---
