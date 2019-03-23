@@ -18,7 +18,7 @@ behance: https://www.behance.net/m_ftm
 ---
 
 ---
-path: /work/Making-Tax-Less-Taxing 
+path: /work/making-tax-less-taxing 
 graduate: Mariya Fatima
 mainimg: /assets/work/Fatima_Mariya_project1_web_main.jpg
 thumbnailimg: /assets/work/Fatima_Mariya_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3: A poster comparing the Human Development Index of each OECD country ag
 ---
 
 ---
-path: /work/Lumex-Lighting-Solutions
+path: /work/lumex-lighting-solutions
 graduate: Mariya Fatima
 mainimg: /assets/work/Fatima_Mariya_project2_web_main.jpg
 thumbnailimg: /assets/work/Fatima_Mariya_project2_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Qahveh
+path: /work/qahveh
 graduate: Mariya Fatima
 mainimg: /assets/work/Fatima_Mariya_project3_web_main.png
 thumbnailimg: /assets/work/Fatima_Mariya_project3_web_thumbnail.jpg
