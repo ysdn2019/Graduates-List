@@ -20,21 +20,21 @@ behance: https://www.behance.net/ahylin
 ---
 path: /work/Palette
 graduate: Anna Lin
-mainimg: /assets/work/lin_anna_project1_web_main
-thumbnailimg: /assets/work/lin_anna_project1_web_thumbnail
+mainimg: /assets/work/Lin_Anna_project1_web_main.jpg
+thumbnailimg: /assets/work/Lin_Anna_project1_web_thumbnail.jpg
 title: Palette
 groupmembers:
 fields: Branding, Communication, Editorial
 mediumdimensions:
 description: Palette is a grocery brand designed to reduce food waste by offering groceries portioned in smaller quantities. In response to the growing trend of Canadians living alone, those who cook for themselves now have access to a variety of foods without worrying about the leftover ingredients. 
 digitallink:
-image1: /assets/work/lin_anna_project1_web_1
+image1: /assets/work/Lin_Anna_project1_web_1.jpg
 subtitle1:
 caption1: Our culture is embedded in bulk sizes. We are encouraged to buy large-portions and cook in bulk because it’s cost and time efficient. This model may be suitable for traditional family-structured households, but unsustainable with the rise of single-person households in Canada.
-image2: /assets/work/lin_anna_project1_web_2
+image2: /assets/work/Lin_Anna_project1_web_2.jpg
 subtitle2:
 caption2: Palette is a grocery brand designed to encourage cooking at home while tackling the food waste problem. With Palette, consumers now have the freedom to purchase food items in smaller quantities. The small-packaged goods offer variety, convenience, and a solution to reduce food waste.
-image3: /assets/work/lin_anna_project1_web_3
+image3: /assets/work/Lin_Anna_project1_web_3.jpg
 subtitle3:
 caption3: Telling the story from a creative perspective, Palette encourages consumers to cook, have fun in the process, and feel good about their efforts towards the environment. Palette’s logo is a representation of a meal plate, and each part of the circle contains a different food item. With numerous logo combinations, the dynamic identity symbolizes that individuals are the artist of their own meal plate, along with the endless possibilities of cooking.
 ---
@@ -50,13 +50,13 @@ fields: Digital, Motion, Typography
 mediumdimensions:
 description: This short motion graphics was based on a scene from Friends, when Joey was on the game show Pyramid and giving out hilarious answers. The concept of my motion graphics was to visualize the dialog in a game show context.
 digitallink: https://vimeo.com/303629739
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
