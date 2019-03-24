@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Vlog-Books-Volume-1
+path: /work/vlog-books-volume-one
 graduate: Parisa Yazdani
 mainimg: /assets/work/yazdani_parisa_project1_web_main.jpg
 thumbnailimg: /assets/work/yazdani_parisa_project1_thumbnail.jpg
@@ -40,10 +40,10 @@ caption3:
 ---
 
 ---
-path: /work/CHEO-Rebrand
+path: /work/cheo-rebrand
 graduate: Parisa Yazdani
 mainimg: /assets/work/yazdani_parisa_project2_web_main.jpg
-thumbnailimg: /assets/[...].png
+thumbnailimg: /assets/work/yazdani_parisa_project2_web_main.jpg
 title: CHEO Rebrand
 groupmembers:
 fields: Branding
