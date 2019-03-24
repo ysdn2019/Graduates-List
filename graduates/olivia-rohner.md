@@ -19,7 +19,7 @@ behance: https://www.behance.net/LivRohner
 ---
 
 ---
-path: /work/Randy
+path: /work/randy
 graduate: Olivia Rohner
 mainimg: /assets/work/rohner_olivia_project1_web_main.jpg
 thumbnailimg: /assets/work/lastname_firstname_project1_web_thumbnail.jpg
@@ -35,13 +35,13 @@ caption1:
 image2: /assets/work/rohner_olivia_project1_web_support2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Fragility
+path: /work/fragility
 graduate: Olivia Rohner
 mainimg: /assets/work/rohner_olivia_project2_web_main.jpg
 thumbnailimg: /assets/work/rohner_olivia_project2_web_thumbnail.jpg
@@ -63,7 +63,7 @@ caption3:
 ---
 
 ---
-path: /work/Chromatic
+path: /work/chromatic
 graduate: Olivia Rohner
 mainimg: /assets/work/lastname_firstname_project3_web_main.jpg
 thumbnailimg: /assets/lastname_firstname_project3_web_thumbnail.jpg
@@ -76,10 +76,10 @@ digitallink:
 image1: /assets/work/lastname_firstname_project3_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/[...] .png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...] .png
+image3:
 subtitle3:
 caption3:
 ---
