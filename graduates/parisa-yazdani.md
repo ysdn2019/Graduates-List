@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Stress-Relief
+path: /work/stress-relief
 graduate: Parisa Yazdani
 mainimg: /assets/work/yazdani_parisa_project3_web_main.jpg
 thumbnailimg: /assets/yazdani_parisa_project3_thumbnail.jpg
