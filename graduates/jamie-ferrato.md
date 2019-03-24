@@ -8,7 +8,7 @@ field: Branding, Packaging, UI/UX
 sticker1: Tea Addict
 sticker2: Ambitious
 sticker3: Passionate creator
-email:
+email: jamieferrato@outlook.com
 linkedin: https://www.linkedin.com/in/jamie-ferrato-633ba2158/
 twitter:
 instagram: https://www.instagram.com/jamieferrato.design
