@@ -18,7 +18,7 @@ behance: https://www.behance.net/olivialibrandi
 ---
 
 ---
-path: /work/SmartSprout
+path: /work/smartsprout
 graduate: Olivia Librandi
 mainimg: /assets/work/librandi_olivia_project1_web_main.jpg
 thumbnailimg: /assets/work/librandi_olivia_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Ambiance
+path: /work/ambiance
 graduate: Olivia Librandi
 mainimg: /assets/work/librandi_olivia_project2_web_main.jpg
 thumbnailimg: /assets/work/librandi_olivia_secondary_web_thumbnail.jpg
@@ -50,19 +50,19 @@ fields: Data Visualisation, Digital, UI/UX
 mediumdimensions: Digital
 description: Ambiance is a mobile app, designed to accompany smart wear and smart home technology in providing the ability to monitor both outdoor/indoor air quality and weather conditions to ensure health and wellbeing.
 digitallink:
-image1: /assets/work/[...] .png
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/[...] .png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...] .png
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Fighting-Stigma-Together
+path: /work/fighting-stigma-together
 graduate: Olivia Librandi
 mainimg: /assets/work/librandi_olivia_project3_web_main.jpg
 thumbnailimg: /assets/work/librandi_olivia_project3_web_thumbnail.jpg
@@ -72,13 +72,13 @@ fields: Digital, Illustration, Motion
 mediumdimensions: Video
 description: Stigma against mental illness is addressed in this motion video through a focus on the way media portrays these illnesses and how individuals can better their attitudes to challenge stigma.
 digitallink:
-image1: /assets/work/[...] .png
+image1: 
 subtitle1:
 caption1:
-image2: /assets/work/[...] .png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...] .png
+image3:
 subtitle3:
 caption3:
 ---
