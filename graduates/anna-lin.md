@@ -42,8 +42,8 @@ caption3: Telling the story from a creative perspective, Palette encourages cons
 ---
 path: /work/Joey-on-Pyramid
 graduate: Anna Lin
-mainimg: /assets/work/lin_anna_project2_web_main.jpg
-thumbnailimg: /assets/work/lin_anna_project2_web_thumbnail.jpg
+mainimg: /assets/work/Lin_Anna_project2_web_main.jpg
+thumbnailimg: /assets/work/Lin_Anna_project2_web_thumbnail.jpg
 title: Joey on Pyramid
 groupmembers:
 fields: Digital, Motion, Typography
@@ -64,21 +64,21 @@ caption3:
 ---
 path: /work/Neighbour-Buddy
 graduate: Anna Lin
-mainimg: /assets/work/lin_anna_project3_web_main.jpg
-thumbnailimg: /assets/work/lin_anna_project3_web_thumbnail.jpg
+mainimg: /assets/work/Lin_Anna_project3_web_main.jpg
+thumbnailimg: /assets/work/Lin_Anna_project3_web_thumbnail.jpg
 title: Neighbour Buddy
 groupmembers:
 fields: Communication, Illustration, Print
 mediumdimensions:
 description: Neighbour Buddy is a campaign targeted towards the Scarborough and Markham community to help residents understand and prepare for extreme weather emergencies. It allows households from each city to become each other’s emergency contacts. Sharing resources blurs the line between the two cities, resulting in a stronger community network.
 digitallink:
-image1: /assets/work/lin_anna_project2_web_1.png
+image1: /assets/work/Lin_Anna_project3_web_1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/lin_anna_project2_web_2.png
+image2: /assets/work/Lin_Anna_project3_web_2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/lin_anna_project2_web_3.png
+image3: /assets/work/Lin_Anna_project3_web_3.jpg
 subtitle3:
 caption3:
 ---
