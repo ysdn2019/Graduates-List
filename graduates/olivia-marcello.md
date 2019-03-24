@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Dayoff
+path: /work/dayoff
 graduate: Olivia Marcello
 mainimg: /assets/work/marcello_olivia_project1_web_main.jpg
 thumbnailimg: /assets/marcello_olivia_project1_web_thumbnail.jpg
@@ -34,13 +34,13 @@ caption1:
 image2: /assets/work/marcello_olivia_project1_web_support2.png
 subtitle2: Users can create events using this application, however, if a user is unsure of what they want to do, they can propose a hangout. In doing so, they can add a budget, their availability, create a poll for some options, and indicate the distance they are willing to travel. 
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Smartear
+path: /work/smartear
 graduate: Olivia Marcello
 mainimg: /assets/work/marcello_olivia_project2_web_main.jpg
 thumbnailimg: /assets/marcello_olivia_secondary_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Contemporary-Arts-Festival-Trailer
+path: /work/contemporary-arts-festival-trailer
 graduate: Olivia Marcello
 mainimg: /assets/work/marcello_olivia_project3_web_main.jpg
 thumbnailimg: /assets/marcello_olivia_project3_web_thumbnail.jpg
@@ -72,13 +72,13 @@ fields: Motion
 mediumdimensions: Motion Video
 description: The Contemporary Arts Festival is a fictional festival. I designed the trailer using an abstract approach of basic shapes and rapid movement in order to mimic a contemporary artistic style. 
 digitallink: https://vimeo.com/297232095
-image1: /assets/work/[...].png
+image1:
 subtitle1: 
 caption1:
-image2: /assets/work/[...].png
+image2:
 subtitle2: 
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
