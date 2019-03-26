@@ -4,7 +4,7 @@ cover: /assets/gurleen_hansi.jpg
 name: Gurleen Hansi
 portfolio: https://gurleenhansi.com
 bio: Gurleen Hansi is a designer specializing in UX/UI and information design. She is driven by the intersection of design, data and collaboration to foster empowerment and disrupt traditional systems in various fields, from healthcare to education. She believes that her role as a designer is to create valuable experiences through design that is empathetic while also physically and culturally accessible. Recently, Gurleen has been focusing on risk-taking in the conceptualization and execution of her work as well as continuously experimenting with new mediums for her personal growth. When she's not designing, she enjoys making books, experimenting with collage and petting dogs.
-field: Communication, Print, Typography
+field: Information Design, Interactive, UI/UX
 sticker1: Meme Hoarder
 sticker2: Meticulous
 sticker3: Collage Expert
