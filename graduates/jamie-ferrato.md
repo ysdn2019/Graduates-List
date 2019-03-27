@@ -7,7 +7,7 @@ bio: Jamie Ferrato is an aspiring designer from a small town who enjoys staying 
 field: Branding, Packaging, UI/UX
 sticker1: Tea Addict
 sticker2: Ambitious
-sticker3: Passionate creator
+sticker3: Passionate Creator
 email: jamieferrato@outlook.com
 linkedin: https://www.linkedin.com/in/jamie-ferrato-633ba2158/
 twitter:
