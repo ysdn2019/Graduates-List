@@ -5,7 +5,7 @@ name: Ivana Radman-Livaja
 portfolio: http://ivanamajadesigns.com/
 bio: Ivana has a background in sustainable industrial design and strives to combine her love of product making with graphic design. She is able to create truly unique works this way, taking a variety of techniques and using them across multiple media. Ivana particularly enjoys typeface design and book design, and loves working with her hands to form a more personal connection with her work. She aims to be as environmentally friendly as possible in all her projects, and often uses recycled material or natural resources in her executions.
 field: Book Design, Environmental, Typography
-sticker1: Type lover
+sticker1: Type Lover
 sticker2: Fearless
 sticker3: Muggle Born
 email: ivanamaja-@hotmail.com
