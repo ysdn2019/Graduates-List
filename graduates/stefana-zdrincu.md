@@ -70,7 +70,7 @@ title: Paw-O-Meter
 groupmembers:
 fields: Digital, Interactive, UI/UX
 mediumdimensions:
-description: A pedometer with a twist! This app measures the number of steps taken using animals. Normal walking apps are boring and can be un-motivational, which is why this pedometer acts like a game where the user unlocks new animals the more they walk, and gain points. Reward systems are known to work to motivate people to do things, and this app wants to aim for a healthier lifestyle.
+description: A pedometer with a twist! This app measures the number of steps taken using animals. Normal walking apps are boring and can be un-motivational, which is why this pedometer acts like a game where the user unlocks new animals the more they walk, and gain points.
 digitallink:
 image1: /assets/work/Zdrincu_Stefana_project2_web_support1.jpg
 subtitle1:
