@@ -5,9 +5,9 @@ name: Ellie Keller
 portfolio: https://www.ellies.space/
 bio: Ellie focuses on using a research-infused design process to build empathy and create work that is relevant and nuanced. Her curiosity for understanding the interplay of thoughts and emotions first led her to study psychology. Now, she uses her background in psychology to achieve a more holistic understanding of problems and needs. She loves to dive deep into problems in order to understand the relationships between people and the designed world. Currently, Ellie has been using a variety of mediums to explore how design can interplay with feelings and emotions in order to spark discourse.
 field: Communication, Print, Typography
-sticker1: Avocado aficionado
+sticker1: Avocado Authority
 sticker2: Intuitive
-sticker3: Cool cucumber
+sticker3: Cool Cucumber
 email: elliekllr@gmail.com
 linkedin: https://www.linkedin.com/in/ellieklr/
 twitter: 
