@@ -7,7 +7,7 @@ bio: Tasneem is a multidisciplinary designer who aims to create enjoyable experi
 field: Digital, Motion, UI/UX
 sticker1: Meme Queen 
 sticker2: Passionate
-sticker3: Creates experiences 
+sticker3: Creates Experiences 
 email: tasneemsultan95@gmail.com
 linkedin: https://www.linkedin.com/in/tasneemsultan/
 twitter:
