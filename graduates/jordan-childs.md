@@ -3,7 +3,7 @@ path: /graduates/jordan-childs
 cover: /assets/Jordan_Childs.jpg
 name: Jordan Childs
 portfolio: https://www.jordanchilds.ca
-bio: Jordan's art journey began in Ottawa at Canterbury Highschool for Visual Arts. At Canterbury Jordan learned the main visual principles to become an artist. Then transferring that knowledge to YSDN at York University Jordan was able to further develop my skills. Learning lots about design principles, typography, editorial, web design and much more Jordan was able to develop a unique style by blending art and design into one. His goal as a young designer and artist is to share my work with people and help people realize that we are not alone in life. His art represents the joys and downs in life because Jordan truly believe you need to have sadness in your life to know what happiness is.
+bio: Jordan's art journey began in Ottawa at Canterbury Highschool for Visual Arts. At Canterbury Jordan learned the main visual principles to become an artist. Transferring that knowledge to YSDN at York University, Jordan was able to further develop his skills. Learning lots about design principles, typography, editorial, web design and much more, Jordan develope a unique style by blending art and design into one. His goal as a young designer and artist is to share his work with people and help people realize that they are not alone in life. His art represents the joys and downs in life because Jordan truly believes you need to have sadness in your life to know what happiness is.
 field: Branding, Illustration, Typography
 sticker1: Boundary Pusher
 sticker2: Unique 
