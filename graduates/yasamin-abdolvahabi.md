@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/project-name
+path: /work/dots
 graduate: Yasamin Abdolvahabi
 mainimg: /assets/work/[...] .png
 thumbnailimg: /assets/work/[...].png
@@ -26,59 +26,59 @@ title: Dots.
 groupmembers:
 fields: Packaging
 mediumdimensions:
-description: Minimalist Shopper To Box
+description: In a world where minimalist shoppers are looking to condense waste/ excess and unnecessary shopping, we need to find a way to reduce our food waste and plastic waste.In a grocery store, to pack your oranges, apples, tomatoes...ect, you would have to grab a plastic-bag ( not Eco friendly) and stuff more items than necessary. wether its 2,4, 6, or 8 items per bag, people usually grab more than necessary. The bag it self is not recylable and noteasy to carry. You need to put the fruit bag in another bag to carry. I have designed a container that can hold 2-4 items (spinach bundles, carrot bundles, round fruits such as apples, oranges, tomatoes, lemons) This container has its own handle and is made from 1mm cardboard/card-stock.
 digitallink:
-image1: /assets/work/[...].png
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3: 
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/saffron-package-design
 graduate: Yasamin Abdolvahabi
 mainimg: /assets/work/[...].png
 thumbnailimg: /assets/work/[...].png
-title:
+title: Saffron Package Design
 groupmembers:
-fields:
+fields: Packaging
 mediumdimensions:
-description:
+description: The Saffron package I designed is a resemblance of the saffron flower and the persian culture. The simplicity of the package is the key feature of the design. It is paper based which is great to recyle. The best thing about this package is that there is not one single drop of adhesive used. Simply fold the tabs and insert your favorite saffron.
 digitallink:
-image1: /assets/work/[...].png
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/persian-new-year-posters
 graduate: Yasamin Abdolvahabi
 mainimg: /assets/work/[...].png
 thumbnailimg: /assets/work/[...].png
-title:
+title: Persian New Year Posters
 groupmembers:
-fields:
+fields: Information Design
 mediumdimensions:
-description:
+description: The posters I have designed for the Persian new year aim to show the audience the history and symbolism behind the Persian new year ceremony/celebrations. 
 digitallink:
-image1: /assets/work/[...].png
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/[...].png
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/[...].png
+image3:
 subtitle3:
 caption3:
 ---
