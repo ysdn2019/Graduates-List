@@ -3,11 +3,7 @@ path: /graduates/kristin-dibello
 cover: /assets/Kristin_Dibello.jpg
 name: Kristin DiBello
 portfolio: https://kristindibello.design/index.html
-bio:Kristin DiBello is a multidisciplinary graphic designer and illustrator currently based in Brampton, Ontario.
-
-Since she was a child, Kristin has held art and design close to her heart, and after studying in the YSDN program, she has been able to establish her own unique design style that effectively combines sophistication with fun–simple illustrations and typographic systems, paired with bright colours and bold accents, for just the right amount of balance. Whether for school, work, or her own personal ambitions, Kristin strives to create unified solutions that are both visually engaging and practical for her target audiences, and she has made this approach her sole driving force for every design project she takes on.
-
-When she’s not designing, Kristin enjoys going to concerts (you can catch her at a local State Champs show, for sure), getting into a new Netflix show, or reading a good book.
+bio:Kristin DiBello is a multidisciplinary graphic designer and illustrator currently based in Brampton, Ontario. Since she was a child, Kristin has held art and design close to her heart, and after studying in the YSDN program, she has been able to establish her own unique design style that effectively combines sophistication with fun–simple illustrations and typographic systems, paired with bright colours and bold accents, for just the right amount of balance. Whether for school, work, or her own personal ambitions, Kristin strives to create unified solutions that are both visually engaging and practical for her target audiences, and she has made this approach her sole driving force for every design project she takes on. When she’s not designing, Kristin enjoys going to concerts (you can catch her at a local State Champs show, for sure), getting into a new Netflix show, or reading a good book.
 field: Book Design, Editorial, Information Design
 sticker1: Sleep Deprived
 sticker2: Witty
