@@ -7,7 +7,7 @@ bio: Olivia is a designer who is continuously striving to solve unique and chall
 field: Interactive, Motion, UI/UX
 sticker1: Tea Enthusiast 
 sticker2: Passionate
-sticker3: Growing UX/UI Designer
+sticker3: Growing Designer
 email: olivia.marcello@gmail.com
 linkedin: https://www.linkedin.com/in/olivia-marcello-b4a643157/
 twitter:
