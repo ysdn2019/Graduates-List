@@ -7,7 +7,7 @@ bio: Hi there, her name is Emily Liu, written as Xiaofei, pronounced as Emily, b
 field: UI/UX
 sticker1: Winter Survivor
 sticker2: Amiable
-sticker3:
+sticker3: Phone Case Lover
 email: emilyliuemilyliu@gmail.com
 linkedin: https://www.linkedin.com/in/emilyliuxf
 twitter:
