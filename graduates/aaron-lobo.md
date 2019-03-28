@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Self-Medicate
+path: /work/self-medicate
 graduate: Aaron Lobo
 mainimg: /assets/work/labo_aaron_project1_web_main.png
 thumbnailimg: /assets/work/labo_aaron_project1_web_thumbnail.png
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/pExperimental-Film
+path: /work/experimental-film
 graduate: Aaron Lobo
 mainimg: /assets/work/labo_aaron_project2_web_main.png
 thumbnailimg: /assets/work/labo_aaron_project2_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Nor-Brandbook
+path: /work/nor-brandbook
 graduate: Aaron Lobo
 mainimg: /assets/work/labo_aaron_project3_web_main.png
 thumbnailimg: /assets/work/labo_aaron_project3_web_thumbnail.png
