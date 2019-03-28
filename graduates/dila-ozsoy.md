@@ -7,7 +7,7 @@ bio: A Toronto-based designer and artist, Dila Ozsoy, creates bold and appeal
 field: Communication, Print, Typography
 sticker1: Fashion Lover
 sticker2: Passionate
-sticker3: Aspiring Art Director
+sticker3: Art Director
 email: dilaozsoy7@gmail.com
 linkedin: https://www.linkedin.com/in/dila-ozsoy/
 twitter: 
