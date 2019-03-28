@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Makeup-Speaks
+path: /work/makeup-speaks
 graduate: Asifa Minhas
 mainimg: /assets/work/mihas_asifa_project1_web_main.jpg
 thumbnailimg: /assets/work/mihas_asifa_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3: These spreads feature the third article in the magazine which is a det
 ---
 
 ---
-path: /work/Collapsible-Letter-Holder
+path: /work/collapsible-letter-holder
 graduate: Asifa Minhas
 mainimg: /assets/work/mihas_asifa_project2_web_main.jpg
 thumbnailimg: /assets/work/mihas_asifa_project2_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Gregory-Colberts-Booklet
+path: /work/gregory-colberts-booklet
 graduate: Asifa Minhas
 mainimg: /assets/work/mihas_asifa_project3_web_main.jpg
 thumbnailimg: /assets/work/mihas_asifa_project3_web_thumbnail.jpg
