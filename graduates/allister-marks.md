@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/He-She-They
+path: /work/he-she-they
 graduate: Allister Marks
 mainimg: /assets/work/HeSheThey_bookcover-AllisterMarks.png
 thumbnailimg: /assets/work/HeSheThey_bookcover-AllisterMarks.png
@@ -28,19 +28,19 @@ fields: Book Design, Typography
 mediumdimensions: Book, approx. 6.5 x 8in
 description: A platform committed to sharing personal narratives of non-binary and trans people in the GTA and Niagara Region. /He/She/They walks readers through a highly diverse collection of uncensored insight, childhood recollections, struggles, triumphs, and knowledge shared from an inclusive group of eleven non-binary and trans individuals.
 digitallink:
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Well-That-Bites
+path: /work/well-that-bites
 graduate: Allister Marks
 mainimg: /assets/work/well,that-bites - Allister Marks.png
 thumbnailimg: /assets/work/well,that-bites - Allister Marks.png
@@ -50,19 +50,19 @@ fields: Book Design
 mediumdimensions:
 description: An experimental book narrating the experience of an individual that has been bitten by a zombie, and the side effects and thoughts they experience as they approach their imminent death. The accordion-fold book may be read both frontwards and backwards, each with a separate story to be told.
 digitallink:
-image1: /assets/work/
+image1: 
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Playdium-Brand-Book
+path: /work/playdium-brand-book
 graduate: Allister Marks
 mainimg: /assets/work/well,that-bites - Allister Marks.png
 thumbnailimg: /assets/work/well,that-bites - Allister Marks.png
@@ -72,13 +72,13 @@ fields: Branding
 mediumdimensions:
 description: A corporate identity re-brand of Playdium, a space designed for the interactive and high-tech amusement of energetic children, teens, and their families. The mission is existing as an escape from reality, a vision actualized in the renewed visual language and fully cohesive fluid identity.
 digitallink:
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
