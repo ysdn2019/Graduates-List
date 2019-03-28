@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Anti-Hype
+path: /work/anti-hype
 graduate: Candice Zhou
 mainimg: /assets/work/zhou_candice_project1_web_main.jpg
 thumbnailimg: /assets/work/zhou_candice_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3: The Documentation Process Book is a bound document containing a visual
 ---
 
 ---
-path: /work/Eat-Together
+path: /work/eat-together
 graduate: Candice Zhou
 mainimg: /assets/work/zhou_candice_project2_web_main.jpg
 thumbnailimg: /assets/work/zhou_candice_project2_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Long-Story-Short
+path: /work/long-story-short
 graduate: Candice Zhou
 mainimg: /assets/work/zhou_candice_project3_web_main.jpg
 thumbnailimg: /assets/work/zhou_candice_project3_web_thumbnail.jpg
