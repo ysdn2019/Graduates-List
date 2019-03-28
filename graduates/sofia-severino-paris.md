@@ -5,10 +5,10 @@ name: Sofia Severino Paris
 portfolio:
 bio: Sofia Severino Paris tries to look beyond the horizon, to the places that few are willing to go. Limitations are her favourite because she loves to break through them. Her success in this has allowed her to discover new possible successes and she will forever go beyond the realm of expectations. Sofia believes that design lives outside of the screen and she strives to find the irregular. What makes her different isn’t something she fears but rather something she embraces. If it is not new, she will make it new.
 field: Branding, Information Design, Packaging
-sticker1:
+sticker1: Design Seeker
 sticker2: Relevant
-sticker3:
-email:
+sticker3: Adventure Seeker
+email: parisofiaa@gmail.com
 linkedin: https://www.linkedin.com/in/sofia-paris-846977135/
 twitter:
 instagram:

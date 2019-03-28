@@ -7,7 +7,7 @@ bio: David Luong is an aspiring product designer that looks to understand human 
 field: Communication, Print, Typography
 sticker1: Coffee Lover
 sticker2: Entrepreneurial
-sticker3: Seek Discomfort
+sticker3: Critical Thinker
 email: davidluong95@gmail.com
 linkedin: https://www.linkedin.com/in/davidluong95/
 twitter: 

@@ -7,7 +7,7 @@ bio: Soo Min Chung (a.k.a. Soom) is a creative thinker who is always seeking for
 field: Branding, Illustration, Packaging
 sticker1: Sundries Collector
 sticker2: Creative
-sticker3: Optimistic All-nighter
+sticker3: Avid Storyteller
 email: soomsoomc@gmail.com
 linkedin: www.linkedin.com/in/soo-min-chung-124b95149/
 twitter:

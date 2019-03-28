@@ -18,7 +18,7 @@ behance: https://www.behance.net/_aaronvince
 ---
 
 ---
-path: /work/A-New-Brave-New-World
+path: /work/a-new-brave-new-world
 graduate: Aaron Vince
 cover: /assets/work/vince_aaron_project1_web_main.png
 thumbnail: /assets/work/vince_aaron_project1_web_thumbnail.png
@@ -28,19 +28,19 @@ category: Data Visualisation, Information Design, Interactive
 mediumdimensions: Interactive Website
 description: What would Aldous Huxley's Brave New World contain if it were written today? This project explores what our world could look like by extrapolating current advances and challenges in automation, genetic manipulation, climate change, truth, and others.
 digitallink:
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Castle
+path: /work/castle
 graduate: Aaron Vince
 cover: /assets/work/vince_aaron_project2_web_main.png
 thumbnail: /assets/work/vince_aaron_project2_web_thumbnail.png
@@ -50,19 +50,19 @@ category: Branding, Interactive, UI/UX
 mediumdimensions: UI/UX App Prototype
 description: Castle is a Wi-Fi sharing app where users can connect to reliable, secure, and cost effective wi-fi or safely sell their excess home Wi-Fi to the Castle Wi-Fi Mesh Network.
 digitallink: https://www.figma.com/proto/NXqky2N3XDUMEUumLcrjLSzQ/Castle-Hi-Fi-Wireframes?node-id=321%3A1300&scaling=min-zoom&redirected=1
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Homeward
+path: /work/homeward
 graduate: Aaron Vince
 cover: /assets/work/vince_aaron_project3_web_main.png
 thumbnail: /assets/work/vince_aaron_project3_web_thumbnail.png
@@ -72,13 +72,13 @@ category: Data Visualisation, Interactive, UI/UX
 mediumdimensions: Device and Companion App
 description: Memory loss from illnesses such as Alzheimer’s Disease (AD) and Dementia is an upcoming challenge in the medical field. One of the symptoms that patients experience is a tendency to wander from their care facilities. This device and app companion seeks to gently guide them back home quickly and safely.
 digitallink: https://sketch.cloud/s/m8Rlz
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---

@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Plantonic
+path: /work/plantonic
 graduate: Alyssa Chieffallo
 cover: /assets/work/chieffallo_alyssa_project1_web_main.jpg
 thumbnail: /assets/work/chieffallo_alyssa_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3: Stationery is another important factor in being able to recognize bran
 ---
 
 ---
-path: /work/Niagara-Wine-Festivals
+path: /work/niagara-wine-festivals
 graduate: Alyssa Chieffallo
 cover: /assets/work/chieffallo_alyssa_project2_web_main.jpg
 thumbnail: /assets/work/chieffallo_alyssa_secondary_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3: The Niagara Wine Festival is happy to provide drinking coasters throug
 ---
 
 ---
-path: /work/project-name
+path: /work/meditor
 graduate: Alyssa Chieffallo
 cover: /assets/work/chieffallo_alyssa_project3_web_main.jpg
 thumbnail: /assets/work/chieffallo_alyssa_project3_web_thumbnail.jpg
@@ -78,7 +78,7 @@ caption1:
 image2: /assets/work/chieffallo_alyssa_project3_web_2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---

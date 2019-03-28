@@ -13,12 +13,12 @@ linkedin: https://www.linkedin.com/in/annasitu
 twitter:
 instagram: http://instagram.com/asitu_
 medium:
-dribble: http://www.dribbble.com/annasitu
+dribble:
 behance: https://www.behance.net/asitu
 ---
 
 ---
-path: /work/Ignight
+path: /work/ignight
 graduate: Anna Situ
 cover: /assets/work/situ_anna_project1_web_main.png
 thumbnail: /assets/work/situ_anna_project1_web_thumbnail.png
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Transforming-Space
+path: /work/transforming-space
 graduate: Anna Situ
 cover: /assets/work/situ_anna_project2_web_main.png
 thumbnail: /assets/work/situ_anna_secondary_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3: A marketing website aims to push the marketing to the digital sphere. 
 ---
 
 ---
-path: /work/Sense
+path: /work/sense
 graduate: Anna Situ
 cover: /assets/work/situ_anna_project3_web_main.png
 thumbnail: /assets/work/situ_anna_project3_web_thumbnail.png
@@ -78,7 +78,7 @@ caption1: Stress, tiredness, unhealthy diets, and poor lifestyle habits are a fe
 image2: /assets/work/situ_anna_project3_web_support2.png
 subtitle2: Solution & Data Visualization
 caption2: The goal is to educate individuals about their skin health by designing a smart device that detects skin condition and problems on the surface and beneath the skin. The data visualization features six main skin conditions, visualized in a web of colours that represent each type of condition. The mesh of colours in a circular shape compares each condition according to the hue, light/dark, saturation, size, shape of the colour. The visualization provides an overall view of a user's skin condition.
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---

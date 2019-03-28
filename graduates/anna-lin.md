@@ -18,7 +18,7 @@ behance: https://www.behance.net/ahylin
 ---
 
 ---
-path: /work/Palette
+path: /work/palette
 graduate: Anna Lin
 cover: /assets/work/Lin_Anna_project1_web_main.jpg
 thumbnail: /assets/work/Lin_Anna_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3: Telling the story from a creative perspective, Palette encourages cons
 ---
 
 ---
-path: /work/Joey-on-Pyramid
+path: /work/joey-on-pyramid
 graduate: Anna Lin
 cover: /assets/work/Lin_Anna_project2_web_main.jpg
 thumbnail: /assets/work/Lin_Anna_project2_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Neighbour-Buddy
+path: /work/neighbour-buddy
 graduate: Anna Lin
 cover: /assets/work/Lin_Anna_project3_web_main.jpg
 thumbnail: /assets/work/Lin_Anna_project3_web_thumbnail.jpg

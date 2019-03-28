@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/NASA-Exoplanet-Archive
+path: /work/nasa-exoplanet-archive
 graduate: Angela Noble
 cover: /assets/work/noble_angela_project1_web_main.png
 thumbnail: /assets/work/noble_angela_project1_web_thumbnail.png
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Choosit
+path: /work/choosit
 graduate: Angela Noble
 cover: /assets/work/noble_angela_project2_web_main.png
 thumbnail: /assets/work/noble_angela_project2_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Choosit-Marketing-Website
+path: /work/choosit-marketing-website
 graduate: Angela Noble
 cover: /assets/work/noble_angela_project3_web_main.png
 thumbnail: /assets/work/noble_angela_project3_web_thumbnail.png
@@ -78,7 +78,7 @@ caption1:
 image2: /assets/work/noble_angela_project3_web_2.png
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---

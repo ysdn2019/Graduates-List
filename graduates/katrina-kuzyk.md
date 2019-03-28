@@ -5,9 +5,9 @@ name: Katrina Kuzyk
 portfolio: https://www.katrinakuzyk.com/
 bio: Katrina is interested in the intersection of art and design, and learning through experimenting and taking risks. She enjoys working with surreal imagery and collages to create ominous atmospheres. Themes that occur in her work are synthesizing complex philosophical ideas, and presenting research on catastrophic socio-environmental problems. There’s something about designing for apocalyptic situations that really makes her feel alive. She wants to work in an environment where she can continue learning and pushing creative boundaries.
 field: Branding, Editorial, Motion
-sticker1: idea synthesizer
-sticker2: meticulous
-sticker3: teamwork fan
+sticker1: Idea Synthesizer
+sticker2: Meticulous
+sticker3: Teamwork Fan
 email: katrinakuzyk@gmail.com
 linkedin: https://www.linkedin.com/in/katrina-kuzyk-269814159/
 twitter:

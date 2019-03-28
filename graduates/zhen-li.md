@@ -7,7 +7,7 @@ bio: Zhen Li is a designer fascinated by diverse culture and how people interact
 field: Communication, Motion, UI/UX
 sticker1: Chicken Lover
 sticker2: Wild
-sticker3:
+sticker3: Spotify Shuffler
 email: hello.zhenli@gmail.com
 linkedin: https://www.linkedin.com/in/zhen-li-7b251415a/
 twitter:

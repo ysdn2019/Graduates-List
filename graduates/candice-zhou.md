@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Anti-Hype
+path: /work/anti-hype
 graduate: Candice Zhou
 cover: /assets/work/zhou_candice_project1_web_main.jpg
 thumbnail: /assets/work/zhou_candice_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3: The Documentation Process Book is a bound document containing a visual
 ---
 
 ---
-path: /work/Eat-Together
+path: /work/eat-together
 graduate: Candice Zhou
 cover: /assets/work/zhou_candice_project2_web_main.jpg
 thumbnail: /assets/work/zhou_candice_project2_web_thumbnail.jpg
@@ -50,19 +50,19 @@ category: Digital, Interactive, UI/UX
 mediumdimensions: App
 description: "EatTogether is a mobile application that aim is to bring people of diverse backgrounds together through sharing a casual meal or drink at a restaurant/café. By selecting their location, users will dine with other people who have chosen the same place and table size. Diners will meet in person rather than online to avoid pre-selection based on appearances in order to foster an open-minded and safe space. View complete case study at www.candicejq.com 
 digitallink:
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Long-Story-Short
+path: /work/long-story-short
 graduate: Candice Zhou
 cover: /assets/work/zhou_candice_project3_web_main.jpg
 thumbnail: /assets/work/zhou_candice_project3_web_thumbnail.jpg
@@ -72,13 +72,13 @@ category: Communication, Digital, Motion
 mediumdimensions: Motion
 description: A kinetic typography motion project created based on the first Think Different commercial, "The Crazy Ones" - Steve Jobs.
 digitallink: https://vimeo.com/323353616
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
