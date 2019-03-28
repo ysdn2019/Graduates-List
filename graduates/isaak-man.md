@@ -6,7 +6,7 @@ portfolio: https://isaakman.ca
 bio: Isaak is a detail-oriented designer who strives to create designs that explore new ways of storytelling. His work often stems from his fascination with human connections and learning about others—as it helps him to create meaningful experiences and thus, meaningful content. Through a cyclical process of being inspired by people and then creating works that reflect and give back to them, his work remains grounded in his surroundings and those he loves and observes. Through making, collaboration and constant iteration and reiteration; design allows him to create things that make people happy, and build a better tomorrow.
 field: Communication, Interactive, Print
 sticker1: Plant Fanatic
-sticker2: Happy Virus
+sticker2: Wholesome Virus
 sticker3: Empathetic Designer
 email: isaak115@gmail.com
 linkedin: https://www.linkedin.com/in/isaakman/
