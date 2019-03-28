@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Woman
+path: /work/woman
 graduate: Amy Cannon
 mainimg: /assets/work/cannon_amy_project2_web_main.jpg
 thumbnailimg: /assets/work/cannon_amy_project2_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/paperclip
 graduate: Amy Cannon
 mainimg: /assets/work/cannon_amy_project3_web_main.jpg
 thumbnailimg: /assets/work/cannon_amy_project3_web_thumbnail.jpg
@@ -78,7 +78,7 @@ caption1:
 image2: /assets/work/cannon_amy_project3_web_support2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
