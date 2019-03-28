@@ -43,7 +43,7 @@ caption3:
 path: /work/tabys-travels
 graduate: Tabita Petre
 mainimg: /assets/work/petre_tabita_project2_web_main.png
-thumbnailimg: /assets/work/petre_tabita_secondary_web_thumbnail.png
+thumbnailimg: /assets/work/petre_tabita_project2_web_thumbnail.png
 title: Taby's Travels
 groupmembers:
 fields: Book Design, Print
