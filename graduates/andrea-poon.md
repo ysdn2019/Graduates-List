@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Some-of-my-Older-Tech
+path: /work/some-of-my-older-tech
 graduate: Andrea Poon
 mainimg: /assets/work/poon_andrea_project1_web_main.jpg
 thumbnailimg: /assets/work/poon_andrea_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Chroma
+path: /work/chroma
 graduate: Andrea Poon
 mainimg: /assets/work/poon_andrea_project2_web_main.jpg
 thumbnailimg: /assets/work/poon_andrea_secondary_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Obscure
+path: /work/obscure
 graduate: Andrea Poon
 mainimg: /assets/work/poon_andrea_project3_web_main.jpg
 thumbnailimg: /assets/work/poon_andrea_project3_web_thumbnail.jpg
