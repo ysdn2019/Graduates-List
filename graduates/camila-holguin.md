@@ -18,7 +18,7 @@ behance: https://www.behance.net/CamilaHolguin
 ---
 
 ---
-path: /work/Go-Bananas
+path: /work/go-bananas
 graduate: Camila Holguin
 mainimg: /assets/work/holguin_camila_project1_web_main.jpg
 thumbnailimg: /assets/work/holguin_camila_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Eulexis-Serif
+path: /work/eulexis-serif
 graduate: Camila Holguin
 mainimg: /assets/work/holguin_camila_project2_web_main.jpg
 thumbnailimg: /assets/work/holguin_camila_project2_web_thumbnail.jpg
@@ -56,13 +56,13 @@ caption1:
 image2: /assets/work/holguin_camila_project2_web_support2.jpg
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/literatura-de-corde
 graduate: Camila Holguin
 mainimg: /assets/work/holguin_camila_project3_web_main.jpg
 thumbnailimg: /assets/work/holguin_camila_project3_web_thumbnail.jpg
