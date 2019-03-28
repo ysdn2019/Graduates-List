@@ -28,13 +28,13 @@ fields: Interactive, Motion, UI/UX
 mediumdimensions: iOS App, iPhone X
 description: Natural is a content-based language learning app that houses a hub of content from different languages around the world. Research has shown that an immersive language experience is the best way to learn a language but for those who can’t afford classes or travelling to the country, this app provides the immersion without the big budget.
 digitallink: https://caitlinmlewis.com/natural
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
@@ -50,13 +50,13 @@ fields: Data Visualisation, Interactive, UI/UX
 mediumdimensions: iOS App, iPhone 6/7/8
 description: Seat is a mobile app that allows young professionals and/or students to find and book a seat in any place they want to work. This app helps the users find their best-suited workspace and increase productivity where they’re guaranteed a seat so that they don’t waste time on trying to find a seat without the app.
 digitallink: https://caitlinmlewis.com/seat
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
@@ -72,13 +72,13 @@ fields: Data Visualisation, Digital, Motion
 mediumdimensions: Video
 description: Butterfly is an experimental data visualization. Focusing on the butterfly effect, the visualization evolves based off of the choices I made in creation of it as an ever-changing composition. The word “butterfly” is used to affect the composition in order to examine visualizing soft data.
 digitallink: https://caitlinmlewis.com/butterfly
-image1: /assets/work/
+image1:
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
