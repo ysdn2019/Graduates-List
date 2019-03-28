@@ -64,7 +64,7 @@ caption3:
 ---
 path: /work/questionable-tastes
 graduate: Sarah Cockwell
-mainimg: /assets/work/SCockwell_Project3Web_Main.jpg
+mainimg: /assets/work/SCockwell_Project3Book_Main.jpg
 thumbnailimg: /assets/work/SCockwell_Project3Book_Main.jpg
 title: Questionable Tastes
 groupmembers:
