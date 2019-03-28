@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Natural
+path: /work/natural
 graduate: Caitlin Lewis
 mainimg: /assets/work/lewis_caitlin_project1_web_main.png
 thumbnailimg: /assets/work/lewis_caitlin_project1_web_thumbnail.png
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Seat
+path: /work/seat
 graduate: Caitlin Lewis
 mainimg: /assets/work/lewis_caitlin_project2_web_main.png
 thumbnailimg: /assets/work/lewis_caitlin_project2_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Butterfly
+path: /work/butterfly
 graduate: Caitlin Lewis
 mainimg: /assets/work/lewis_caitlin_project3_web_main.png
 thumbnailimg: /assets/work/lewis_caitlin_project3_web_thumbnail.png
