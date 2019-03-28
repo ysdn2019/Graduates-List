@@ -6,7 +6,7 @@ portfolio: http://jjlintag.design/
 bio: Jay Lintag is a passionate problem-solving designer who utilizes anything in his multidisciplinary kit to come up with a creative solution. In order to create effectively, Jay is an enthusiast for applying design fundamentals and design thinking to come up with a creative solution for any project given. Through experience and practice, Jay’s design kit includes touches in branding, packaging, illustration, typography, web design and more. When Jay is not caved inside his studio, you can often find him drawing for fun, playing video games, figuring out how to use his camera, or having fellowship with close friends and family. 
 field: Branding, Illustration, Packaging
 sticker1: Problem Solver
-sticker2: Art Nerd
+sticker2: Artistic Nerd
 sticker3: Sticker Maker
 email: jaylintag@gmail.com
 linkedin: https://www.linkedin.com/in/jay-lintag-5a406a178/
