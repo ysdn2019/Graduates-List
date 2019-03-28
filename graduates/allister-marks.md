@@ -20,13 +20,13 @@ behance:
 ---
 path: /work/he-she-they
 graduate: Allister Marks
-mainimg: /assets/work/HeSheThey_bookcover-AllisterMarks.png
-thumbnailimg: /assets/work/HeSheThey_bookcover-AllisterMarks.png
+mainimg: /assets/work/marks_allister_project1_web_main.jpg
+thumbnailimg: /assets/work/marks_allister_project1_web_main.jpg
 title: He/She/They
 groupmembers:
 fields: Book Design, Typography
 mediumdimensions: Book, approx. 6.5 x 8in
-description: A platform committed to sharing personal narratives of non-binary and trans people in the GTA and Niagara Region. /He/She/They walks readers through a highly diverse collection of uncensored insight, childhood recollections, struggles, triumphs, and knowledge shared from an inclusive group of eleven non-binary and trans individuals.
+description: Committed to approaching gender in a transparent manner in order to bring greater visibility to the non-binary and trans community, he/she/they gathers a collection of honest and uncensored experiences and perspectives of an inclusive group of non-binary and trans people from contrastingly different backgrounds, gender identities, and ages ranging from eighteen to sixty-five.
 digitallink:
 image1:
 subtitle1:
@@ -42,13 +42,13 @@ caption3:
 ---
 path: /work/well-that-bites
 graduate: Allister Marks
-mainimg: /assets/work/well,that-bites - Allister Marks.png
-thumbnailimg: /assets/work/well,that-bites - Allister Marks.png
+mainimg: /assets/work/marks_allister_project2_web_main.png
+thumbnailimg: /assets/work/marks_allister_project2_web_main.png
 title: Well, That Bites
 groupmembers:
-fields: Book Design
+fields: Book Design, Print
 mediumdimensions:
-description: An experimental book narrating the experience of an individual that has been bitten by a zombie, and the side effects and thoughts they experience as they approach their imminent death. The accordion-fold book may be read both frontwards and backwards, each with a separate story to be told.
+description: An abstract and experimental book narrating the experience of an individual that has been bitten by a zombie, and the side effects and thoughts they experience as they approach their imminent death. The accordion-fold book may be read both frontwards and backwards, each with a separate story to be told.
 digitallink:
 image1: 
 subtitle1:
@@ -64,13 +64,13 @@ caption3:
 ---
 path: /work/playdium-brand-book
 graduate: Allister Marks
-mainimg: /assets/work/well,that-bites - Allister Marks.png
-thumbnailimg: /assets/work/well,that-bites - Allister Marks.png
+mainimg: /assets/work/marks_allister_project3_web_main.png
+thumbnailimg: /assets/work/marks_allister_project3_web_main.png
 title: Playdium Brand Book
 groupmembers:
 fields: Branding
 mediumdimensions:
-description: A corporate identity re-brand of Playdium, a space designed for the interactive and high-tech amusement of energetic children, teens, and their families. The mission is existing as an escape from reality, a vision actualized in the renewed visual language and fully cohesive fluid identity.
+description: Within the next few years, Playdium will be launching ten to fifteen new locations across Canada. Along with this there is an immense need for an exciting new identity. This book acts as brand guidelines designed for the purpose of maintaining business integrity and brand recognition.
 digitallink:
 image1:
 subtitle1:
