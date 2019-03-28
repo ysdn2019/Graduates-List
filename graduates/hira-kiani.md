@@ -7,7 +7,7 @@ bio: Hira is a multidisciplinary artist and designer who specializes in print an
 field: Communication, Illustration, Print
 sticker1: Plant Lover
 sticker2: Artistic 
-sticker3: Video Game Nerd
+sticker3: Gaming Nerd
 email: hirakiani@hotmail.com
 linkedin: https://www.linkedin.com/in/hira-kiani-a58004165/
 twitter:
