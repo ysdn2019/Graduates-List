@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/BOUJEE
+path: /work/boujee
 graduate: Andrea Abello
 mainimg: /assets/work/abello_andrea_project2_web_main.png
 thumbnailimg: /assets/work/abello_andrea_project2_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/YFS-Menstrual-Equity-Campaign
+path: /work/yfs-menstrual-equity-campaign
 graduate: Andrea Abello
 mainimg: /assets/work/abello_andrea_project3_web_main.png
 thumbnailimg: /assets/work/abello_andrea_project3_web_thumbnail.png
