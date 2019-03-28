@@ -18,7 +18,7 @@ behance: https://www.behance.net/allanatabac
 ---
 
 ---
-path: /work/Altered-State
+path: /work/altered-state
 graduate: Allana Tabac
 mainimg: /assets/work/tabac_allana_project1_web_main.jpg
 thumbnailimg: /assets/work/tabac_allana_project1_web_thumbnail.jpg
@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Ladylike
+path: /work/ladylike
 graduate: Allana Tabac
 mainimg: /assets/work/tabac_allana_project2_web_main.jpg
 thumbnailimg: /assets/work/tabac_allana_secondary_web_thumbnail.jpg
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/bulk
 graduate: Allana Tabac
 mainimg: /assets/work/tabac_allana_project3_web_main.jpg
 thumbnailimg: /assets/work/tabac_allana_project3_web_thumbnail.jpg
