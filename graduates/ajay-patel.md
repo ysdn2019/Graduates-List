@@ -18,7 +18,7 @@ behance: https://www.behance.net/apateldesign
 ---
 
 ---
-path: /work/Electric-Eclectics
+path: /work/electric-eclectics
 graduate: Ajay Patel
 mainimg: /assets/work/patel_ajay_project1_web_main.jpg
 thumbnailimg: /assets/work/patel_ajay_project1_web_thumbnail.jpg
@@ -31,16 +31,16 @@ digitallink:
 image1: /assets/work/patel_ajay_project1_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/I-Am-Here-But-Where-Are-You
+path: /work/i-am-here-but-where-are-you
 graduate: Ajay Patel
 mainimg: /assets/work/patel_ajay_project2_web_main.jpg
 thumbnailimg: /assets/work/patel_ajay_secondary_web_thumbnail.jpg
@@ -53,16 +53,16 @@ digitallink:
 image1: /assets/work/patel_ajay_project2_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/Ontario-Cannabis-Store
+path: /work/ontario-cannabis-store
 graduate: Ajay Patel
 mainimg: /assets/work/patel_ajay_project3_web_main.jpg
 thumbnailimg: /assets/work/patel_ajay_project3_web_thumbnail.jpg
@@ -75,10 +75,10 @@ digitallink:
 image1: /assets/work/patel_ajay_project3_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
