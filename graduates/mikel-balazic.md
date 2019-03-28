@@ -3,11 +3,11 @@ path: /graduates/mikel-balazic
 cover: /assets/Mikel_Balazic.jpg
 name: Mikel Balazic
 portfolio: http://mikelreedbalazicartdesign.com
-bio:
+bio: Motivated and enthusiastic artist
 field: Editorial, Illustration, Print
-sticker1:
-sticker2:
-sticker3:
+sticker1: Art Maker
+sticker2: Artistic
+sticker3: Aspiriing Artist
 email: mikel.balazic@gmail.com
 linkedin: https://www.linkedin.com
 twitter:
