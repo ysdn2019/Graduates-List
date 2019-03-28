@@ -20,11 +20,11 @@ behance: https://www.behance.net/mirabellewang
 ---
 path: /work/plain-and-sweet
 graduate: Mirabelle Wang
-mainimg: /assets/work/Wang_Mirabelle_Project1_Web_Main.jpg
-thumbnailimg: /assets/work/Wang_Mirabelle_Project1_Web_Thumbnail.jpg
+cover: /assets/work/Wang_Mirabelle_Project1_Web_Main.jpg
+thumbnail: /assets/work/Wang_Mirabelle_Project1_Web_Thumbnail.jpg
 title: Plain & Sweet
 groupmembers:
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions: Packaging
 description: Plain & Sweet is a pineapple cake brand that aims to make food packaging design fun and exciting, eco-friendly, and informational to those who are new to the Taiwanese-style pastry. An informational booklet in both English and Chinese introduces the product’s origins as well as famous landmarks and food in Taiwan. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/seat
 graduate: Mirabelle Wang
-mainimg: /assets/work/Wang_Mirabelle_Project2_Web_Main.jpg
-thumbnailimg: /assets/work/Wang_Mirabelle_Project2_Secondary_Web_Thumbnail.jpg
+cover: /assets/work/Wang_Mirabelle_Project2_Web_Main.jpg
+thumbnail: /assets/work/Wang_Mirabelle_Project2_Secondary_Web_Thumbnail.jpg
 title: Seat
 groupmembers: Livia Widjaja, Caitlin Lewis, Anna Bacani
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: UI/UX Design
 description: Seat is an app for young professionals looking to increase productivity in a public workspace, while providing real-time data of the availability of these workspaces in order to end the wasted time spent searching for and travelling to these spaces.
 digitallink: https://invis.io/Q6PNBE58P2E
@@ -63,11 +63,11 @@ caption3: Description screen, floor plan, upcoming bookings screen
 
 ---
 path: /work/root
-mainimg: /assets/work/Wang_Mirabelle_Project3_Web_Main.jpg
-thumbnailimg: /assets/work/Wang_Mirabelle_Project3_Web_Thumbnail.jpg
+cover: /assets/work/Wang_Mirabelle_Project3_Web_Main.jpg
+thumbnail: /assets/work/Wang_Mirabelle_Project3_Web_Thumbnail.jpg
 title: Root
 groupmembers: 
-fields: Editorial, Print
+category: Editorial, Print
 mediumdimensions: Editorial Design
 description: Root is a magazine dedicated to sharing the personal stories, experiences and opinions of Asians in Canada. Through short stories, the magazine dives into experiences that attempt to connect Asians of different backgrounds together. Featured are the stories of immigrants, locals, and international students alike. The goal is to celebrate the diversity of humans under the umbrella term, “Asian.”
 digitallink: https://invis.io/Q6PNBE58P2E

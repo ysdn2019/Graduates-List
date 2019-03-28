@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/Manual-to-Airplane-Crashes-and-How-to-Survive-Them
 graduate: Edward Siow
-mainimg: /assets/work/Siow_Edward_project1_web_main.jpg
-thumbnailimg: /assets/work/Siow_Edward_project1_web_thumbnail.jpg
+cover: /assets/work/Siow_Edward_project1_web_main.jpg
+thumbnail: /assets/work/Siow_Edward_project1_web_thumbnail.jpg
 title: A Manual to Airplane Crashes and How to Survive Them
 groupmembers: 
-fields: Data Visualisation, Information Design, Print
+category: Data Visualisation, Information Design, Print
 mediumdimensions: Printed Brochure, 22 x 18
 description: This project is an brochure that is meant to spread awareness on airplane crashes and ways in which an individual can increase their chances of survival when they encounter one. This is done by providing information on contributing factors to crashes and statistics associated with airplane accident survival.
 digitallink: 
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/quotation-poster
 graduate: Edward Siow
-mainimg: /assets/work/Siow_Edward_project2_web_main.jpg
-thumbnailimg: /assets/work/Siow_Edward_project2_web_thumbnail.jpg
+cover: /assets/work/Siow_Edward_project2_web_main.jpg
+thumbnail: /assets/work/Siow_Edward_project2_web_thumbnail.jpg
 title: Quotation Poster
 groupmembers: 
-fields: Print, Typography
+category: Print, Typography
 mediumdimensions: Print Poster, 9" x 15"
 description: This is an poster that is based on a quote by the poet Rabindranath Tagore. The poster’s purpose is to express the mood of the quote through the use of typography and colour, which it achieves by placing emphasis on the words “service” and “joy.”
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/international-festival-of-animated-objects-poster
 graduate: Edward Siow
-mainimg: /assets/work/Siow_Edward_project3_web_main.jpg
-thumbnailimg: /assets/work/Siow_Edward_project3_web_thumbnail.jpg
+cover: /assets/work/Siow_Edward_project3_web_main.jpg
+thumbnail: /assets/work/Siow_Edward_project3_web_thumbnail.jpg
 title: International Festival of Animated Objects Poster
 groupmembers: 
-fields: Communication, Print
+category: Communication, Print
 mediumdimensions: Printed Poster, 20" x 30"
 description: This poster was created in order to promote the International Festival of Animated Objects. It reflects the theme and goal of the event, which is to support the arts of puppetry, masks, and animated objects, as well as raising awareness of these crafts.
 digitallink: 

@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/Anti-Hype
 graduate: Candice Zhou
-mainimg: /assets/work/zhou_candice_project1_web_main.jpg
-thumbnailimg: /assets/work/zhou_candice_project1_web_thumbnail.jpg
+cover: /assets/work/zhou_candice_project1_web_main.jpg
+thumbnail: /assets/work/zhou_candice_project1_web_thumbnail.jpg
 title: Anti-Hype
 groupmembers:
-fields: Branding, Communication, Editorial
+category: Branding, Communication, Editorial
 mediumdimensions: book, website
 description: Exploring how luxury brands use their symbolic power to redefine the practical value of goods, specifically through the sense of urgency they create through advertising and the perceived scarcity of their products. I wish to examine, through a series of artifacts, the disconnect between quality goods and the perceived worth of a product.
 digitallink: https://www.candicejq.com/anti-hype
@@ -42,11 +42,11 @@ caption3: The Documentation Process Book is a bound document containing a visual
 ---
 path: /work/Eat-Together
 graduate: Candice Zhou
-mainimg: /assets/work/zhou_candice_project2_web_main.jpg
-thumbnailimg: /assets/work/zhou_candice_project2_web_thumbnail.jpg
+cover: /assets/work/zhou_candice_project2_web_main.jpg
+thumbnail: /assets/work/zhou_candice_project2_web_thumbnail.jpg
 title: Eat Together
 groupmembers: Leah Wei, Cheston Sin, Ian Orden
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: App
 description: "EatTogether is a mobile application that aim is to bring people of diverse backgrounds together through sharing a casual meal or drink at a restaurant/café. By selecting their location, users will dine with other people who have chosen the same place and table size. Diners will meet in person rather than online to avoid pre-selection based on appearances in order to foster an open-minded and safe space. View complete case study at www.candicejq.com 
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Long-Story-Short
 graduate: Candice Zhou
-mainimg: /assets/work/zhou_candice_project3_web_main.jpg
-thumbnailimg: /assets/work/zhou_candice_project3_web_thumbnail.jpg
+cover: /assets/work/zhou_candice_project3_web_main.jpg
+thumbnail: /assets/work/zhou_candice_project3_web_thumbnail.jpg
 title: Long Story Short: The Crazy Ones
 groupmembers:
-fields: Communication, Digital, Motion
+category: Communication, Digital, Motion
 mediumdimensions: Motion
 description: A kinetic typography motion project created based on the first Think Different commercial, "The Crazy Ones" - Steve Jobs.
 digitallink: https://vimeo.com/323353616

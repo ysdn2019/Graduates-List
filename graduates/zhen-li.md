@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/i-cant-sit-sadly-by-your-side
 graduate: Zhen Li
-mainimg: /assets/work/li_zhen_project1_web_main.jpg
-thumbnailimg: /assets/work/li_zhen_project1_web_thumbnail.png
+cover: /assets/work/li_zhen_project1_web_main.jpg
+thumbnail: /assets/work/li_zhen_project1_web_thumbnail.png
 title: I Can’t Sit Sadly by Your Side 
 groupmembers:
-fields: Communication, Editorial, Typography
+category: Communication, Editorial, Typography
 mediumdimensions:
 description: I Can’t Sit Sadly by Your Side, is an experimental typography collection that is made up of lyrics from (mostly) sad love songs. This book is a playlist about a young person fell in love, doubting, and eventually grown from the experience in the end.
 digitallink: https://open.spotify.com/user/zhensplan/playlist/78mDM6HGlKBNzEiPEFnAmN?si=Gpy3b9ACSKu0P3a_cfGKEA
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/radical-quotas
 graduate: Zhen Li
-mainimg: /assets/work/li_zhen_project2_web_main.png
-thumbnailimg: /assets/work/li_zhen_project2_web_thumbnail.png
+cover: /assets/work/li_zhen_project2_web_main.png
+thumbnail: /assets/work/li_zhen_project2_web_thumbnail.png
 title: Racial Quotas are Weird
 groupmembers:
-fields: Communication, Digital, Motion
+category: Communication, Digital, Motion
 mediumdimensions:
 description: A kinetic typography motion project created based on the episode: "Affirmative Action" from Patriot Act with Hasan Minhaj. In this skit, Hasan Minhaj breaks down the history of how racial quota becomes unconstitutional and explains why racial quotas is a weird idea. 
 digitallink: https://vimeo.com/303220912
@@ -65,11 +65,11 @@ caption3:
 ---
 path: /work/data-knows
 graduate: Zhen Li
-mainimg: /assets/work/li_zhen_project3_web_main.png
-thumbnailimg: /assets/work/li_zhen_project3_web_thumbnail.png
+cover: /assets/work/li_zhen_project3_web_main.png
+thumbnail: /assets/work/li_zhen_project3_web_thumbnail.png
 title: Data Knows
 groupmembers:
-fields: Communication, Digital, Editorial
+category: Communication, Digital, Editorial
 mediumdimensions:
 description: The project explores users knowledge of how data is being used. I used projection based photography onto human principles characterizing unconsented episodes of how data conducted research in AI, robots, information design and physical computing. Found material was determined through a series of visual investigation in marrying users data within the body. Knowledge of  how data is being used is powerful. 
 digitallink:

@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/six
 graduate: Amy Cannon
-mainimg: /assets/work/cannon_amy_project1_web_main.jpg
-thumbnailimg: /assets/work/cannon_amy_project1_web_thumbnail.jpg
+cover: /assets/work/cannon_amy_project1_web_main.jpg
+thumbnail: /assets/work/cannon_amy_project1_web_thumbnail.jpg
 title: six
 groupmembers:
-fields: Book Design
+category: Book Design
 mediumdimensions:
 description: “six” is a photography-based book that delves into the idea of mess. Through a single image of a mess, the book works towards creating sections within each image, to allow us to close in on what makes up each part of something much larger. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/Woman
 graduate: Amy Cannon
-mainimg: /assets/work/cannon_amy_project2_web_main.jpg
-thumbnailimg: /assets/work/cannon_amy_project2_web_thumbnail.jpg
+cover: /assets/work/cannon_amy_project2_web_main.jpg
+thumbnail: /assets/work/cannon_amy_project2_web_thumbnail.jpg
 title: Woman
 groupmembers:
-fields: Editorial
+category: Editorial
 mediumdimensions: Magazine
 description: “Woman” is a conceptual magazine designed for women in their late teens – early/mid twenties. The magazine seeks to be bold, funny and most importantly educational. It works towards educating women primarily on their sexual health and expression, in a way that is designed to be understood and enjoyed by women.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/project-name
 graduate: Amy Cannon
-mainimg: /assets/work/cannon_amy_project3_web_main.jpg
-thumbnailimg: /assets/work/cannon_amy_project3_web_thumbnail.jpg
+cover: /assets/work/cannon_amy_project3_web_main.jpg
+thumbnail: /assets/work/cannon_amy_project3_web_thumbnail.jpg
 title: Paperclip
 groupmembers:
-fields: Typography
+category: Typography
 mediumdimensions: Typeface Design
 description: “Paperclip” is a multi-dimensional display typeface. Consisting exclusively of upper-case characters, it was modeled (unsurprisingly) after the shape of a traditional paperclip. Each character has been multiplied and offset alongside its companion, while disappearing before the point of intersection between layers, allowing for a 3D effect in a 2D design. 
 digitallink:

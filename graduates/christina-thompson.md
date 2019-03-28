@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/iceland-arena
 graduate: Tina Thompson
-mainimg: /assets/work/thompson_christina_project1_web_main.png
-thumbnailimg: /assets/work/thompson_christina_project1_web_thumbnail.png
+cover: /assets/work/thompson_christina_project1_web_main.png
+thumbnail: /assets/work/thompson_christina_project1_web_thumbnail.png
 title: Iceland Arena
 groupmembers:
-fields: Data Visualisation, Illustration, Information Design
+category: Data Visualisation, Illustration, Information Design
 mediumdimensions:
 description: Iceland Arena is a state-of-the-art, 4-pad ice complex located on 160 acres of land in north-east Mississauga, Ontario. Iceland offers many features such as an Olympic-sized ice surface (Rink 1), along with 3 other recreational-sized ice rinks (Rink 2, 3, and 4).
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/hope
 graduate: Tina Thompson
-mainimg: /assets/work/thompson_christina_project2_web_main.jpg
-thumbnailimg: /assets/work/thompson_christina_secondary_web_thumbnail.jpg
+cover: /assets/work/thompson_christina_project2_web_main.jpg
+thumbnail: /assets/work/thompson_christina_secondary_web_thumbnail.jpg
 title: Hope
 groupmembers:
-fields: Data Visualisation, Information Design, UI/UX
+category: Data Visualisation, Information Design, UI/UX
 mediumdimensions:
 description: Breast Cancer affected an estimated of 252,710 females (less than 1% of men) in 2017 and has become the most common cancer in women worldwide and the fifth most common cause of death from cancer in women. This informational site aims to help educate and make aware the signs and symptoms of this deadly disease.
 digitallink: https://invis.io/P6QSWVNEKUZ
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/scott-yu
 graduate: Tina Thompson
-mainimg: /assets/work/thompson_christina_project3_web_main.jpg
-thumbnailimg: /assets/work/thompson_christina_project3_web_thumnail.jpg
+cover: /assets/work/thompson_christina_project3_web_main.jpg
+thumbnail: /assets/work/thompson_christina_project3_web_thumnail.jpg
 title: ScottYU
 groupmembers:
-fields: Data Visualisation, Interactive, UI/UX
+category: Data Visualisation, Interactive, UI/UX
 mediumdimensions:
 description: ScottYU an iOS app that helps students and faculty increase efficiency through the use of realtime information within Scott Library located on York University's Keele campus.
 digitallink: https://invis.io/NVQSWWTDCJF

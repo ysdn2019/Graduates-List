@@ -20,11 +20,11 @@ behance: https://www.behance.net/livwdj
 ---
 path: /work/familiar-peculiarity
 graduate: Livia Widjaja
-mainimg: /assets/work/Widjaja_Livia_project1_web_main.jpg
-thumbnailimg: /assets/work/Widjaja_Livia_project1_web_thumbnail.jpg
+cover: /assets/work/Widjaja_Livia_project1_web_main.jpg
+thumbnail: /assets/work/Widjaja_Livia_project1_web_thumbnail.jpg
 title: Familiar Peculiarity
 groupmembers:
-fields: Branding, Book Design, Print
+category: Branding, Book Design, Print
 mediumdimensions: Thesis Book, 7" x 9.5"
 description: Familiar Peculiarity is a thesis project that is inspired by personal experiences of the Déjà Vu phenomenon. This self-reflective project explores a scientific study and translates it into an artistic and emotional form through digital and print mediums documented in a final handcrafted book.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/b-guided
 graduate: Livia Widjaja
-mainimg: /assets/work/Widjaja_Livia_project2_web_main.jpg
-thumbnailimg: /assets/work/Widjaja_Livia_project2_web_thumbnail.jpg
+cover: /assets/work/Widjaja_Livia_project2_web_main.jpg
+thumbnail: /assets/work/Widjaja_Livia_project2_web_thumbnail.jpg
 title: b: guided
 groupmembers:
-fields: Branding, Print, Typography
+category: Branding, Print, Typography
 mediumdimensions: Printed Book, 5.25" x 8.5"
 description: b: is a lifestyle brand that focuses on empowerment and healing inspired bees and honey. Visual elements, graphics and accompanying type creates a dynamic brand that is minimal, seamless, and relatable.
 digitallink: http://liviawidjaja.com/project/b
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/the-what-i-remember
 graduate: Livia Widjaja
-mainimg: /assets/work/Widjaja_Livia_project3_web_main.jpg
-thumbnailimg: /assets/work/Widjaja_Livia_project3_web_thumbnail.jpg
+cover: /assets/work/Widjaja_Livia_project3_web_main.jpg
+thumbnail: /assets/work/Widjaja_Livia_project3_web_thumbnail.jpg
 title: The What I Remember
 groupmembers:
-fields: Book Design, Print, Typography
+category: Book Design, Print, Typography
 mediumdimensions:  Printed Book, 10" x 5.75"
 description: What I Remember is a mini hand-crafted and stitched “meta” book. This conceptual and experimental book conveys transparent and honest personal thoughts, experiences, and different stages of memories that is designed as a concertina book.
 digitallink: http://liviawidjaja.com/project/whatiremember

@@ -20,11 +20,11 @@ behance: https://www.behance.net/asitu
 ---
 path: /work/Ignight
 graduate: Anna Situ
-mainimg: /assets/work/situ_anna_project1_web_main.png
-thumbnailimg: /assets/work/situ_anna_project1_web_thumbnail.png
+cover: /assets/work/situ_anna_project1_web_main.png
+thumbnail: /assets/work/situ_anna_project1_web_thumbnail.png
 title: Ignight
 groupmembers:
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: Product Design
 description: Ignight is an event ticketing application for groups of people. It aims to create a seamless ticketing experience for groups and levitates user frustrations and stress for purchasing high-demand tickets. 
 digitallink: https://asitu.github.io/ignight-app/
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/Transforming-Space
 graduate: Anna Situ
-mainimg: /assets/work/situ_anna_project2_web_main.png
-thumbnailimg: /assets/work/situ_anna_secondary_web_thumbnail.png
+cover: /assets/work/situ_anna_project2_web_main.png
+thumbnail: /assets/work/situ_anna_secondary_web_thumbnail.png
 title: Transforming Space
 groupmembers:
-fields: Communication, Information Design, Print
+category: Communication, Information Design, Print
 mediumdimensions: Communication Design, 20 x 30
 description: Transforming Space exhibition, curated by Phillip Beesley, features architectural installations that encompasses interactive lighting, sound, combined with kinetic mechanisms to create structures that breathe, shift, and move in relation to the people they surround. This project aims to create brand and marketing to communicate the atmosphere of the exhibition.
 digitallink:
@@ -64,11 +64,11 @@ caption3: A marketing website aims to push the marketing to the digital sphere. 
 ---
 path: /work/Sense
 graduate: Anna Situ
-mainimg: /assets/work/situ_anna_project3_web_main.png
-thumbnailimg: /assets/work/situ_anna_project3_web_thumbnail.png
+cover: /assets/work/situ_anna_project3_web_main.png
+thumbnail: /assets/work/situ_anna_project3_web_thumbnail.png
 title: Sense
 groupmembers:
-fields: Data Visualisation, Digital, UI/UX
+category: Data Visualisation, Digital, UI/UX
 mediumdimensions: Product Design
 description: Ignight is a smart device that detects skin condition and problems on the surface and beneath the human skin. The companion mobile app shows a visualization of user's skin conditions/problems, provide facts and information about skin health, provide daily lifestyle tips and recommended skincare products. The product aims to help users understand and track their skin health and take steps to improve their skin and health.
 digitallink: https://invis.io/N8PMJJLM7FC

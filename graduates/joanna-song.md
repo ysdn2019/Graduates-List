@@ -21,11 +21,11 @@ behance: https://www.behance.net/jcsong
 ---
 path: /work/hangeul-immersive-dictionary-app
 graduate: Joanna Chaeyoung Song
-mainimg: /assets/work/song_joanna_project1_web_main.png
-thumbnailimg: /assets/work/song_joanna_project1_web_thumbnail.png
+cover: /assets/work/song_joanna_project1_web_main.png
+thumbnail: /assets/work/song_joanna_project1_web_thumbnail.png
 title: Hangeul: immersive dictionary app
 groupmembers:
-fields: Branding, Illustration, UI/UX
+category: Branding, Illustration, UI/UX
 mediumdimensions: product design
 description: Hangeul reduces the language barrier by providing an interactive dictionary application that allows users to receive immediate definitions and context by typing, writing, and taking photos of foreign words; helping users who need to physically interact with another language to find a quick and easy way to understand them.
 digitallink: https://projects.invisionapp.com/share/RJ8VU044X
@@ -49,11 +49,11 @@ caption3: Although there is more work to be done, these features come together t
 ---
 path: /work/stripes-anthology
 graduate: Joanna Chaeyoung Song
-mainimg: /assets/work/song_joanna_project2_web_main.png
-thumbnailimg: /assets/work/song_joanna_project2_web_thumbnail.png
+cover: /assets/work/song_joanna_project2_web_main.png
+thumbnail: /assets/work/song_joanna_project2_web_thumbnail.png
 title: Stripes Anthology 
 groupmembers:
-fields: Book Design, Illustration, Print
+category: Book Design, Illustration, Print
 mediumdimensions: book design
 description: The Stripes Anthology provides a new perspective on everyday life through stripe-centered illustrations. It is a story of stripes with a sense of journey in the illustrations, showing love and appreciation for the often overlooked pattern. 
 digitallink: https://www.j0anna.net/play#/stripes-anthology/
@@ -73,11 +73,11 @@ caption3: The cutouts make the experience more dynamic and makes the viewers bec
 ---
 path: /work/hangeul-bojagi 
 graduate: Joanna Chaeyoung Song
-mainimg: /assets/work/song_joanna_project3_web_main.png
-thumbnailimg: /assets/work/song_joanna_project3_web_thumbnail.png
+cover: /assets/work/song_joanna_project3_web_main.png
+thumbnail: /assets/work/song_joanna_project3_web_thumbnail.png
 title: Hangeul Bojagi 
 groupmembers:
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions: package design
 description: Hangeul Bojagi (한글 보자기) is a fun and friendly language learning kit for the young admirers of the Korean language and culture. The package works to enhance the learning process for young pupils by creating a hands-on experience of exploring both the Korean language and culture.
 digitallink: https://www.j0anna.net/work#/hangeul-bojagi/

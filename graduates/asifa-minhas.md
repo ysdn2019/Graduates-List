@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/Makeup-Speaks
 graduate: Asifa Minhas
-mainimg: /assets/work/mihas_asifa_project1_web_main.jpg
-thumbnailimg: /assets/work/mihas_asifa_project1_web_thumbnail.jpg
+cover: /assets/work/mihas_asifa_project1_web_main.jpg
+thumbnail: /assets/work/mihas_asifa_project1_web_thumbnail.jpg
 title: Makeup Speaks
 groupmembers:
-fields: Communication, Editorial, Print
+category: Communication, Editorial, Print
 mediumdimensions:
 description: A magazine that recreates the value of makeup as a form of self-expression, characterization and role-play. The magazine offers a different de-sexualized approach to the idea of makeup and beauty cosmetics. By focusing on a single aspect of fashion, Makeup Speaks aims to produce a unique piece of work.
 digitallink:
@@ -42,11 +42,11 @@ caption3: These spreads feature the third article in the magazine which is a det
 ---
 path: /work/Collapsible-Letter-Holder
 graduate: Asifa Minhas
-mainimg: /assets/work/mihas_asifa_project2_web_main.jpg
-thumbnailimg: /assets/work/mihas_asifa_project2_web_thumbnail.jpg
+cover: /assets/work/mihas_asifa_project2_web_main.jpg
+thumbnail: /assets/work/mihas_asifa_project2_web_thumbnail.jpg
 title: Collapsible Letter Holder
 groupmembers:
-fields: Packaging
+category: Packaging
 mediumdimensions:
 description: This collapsible container is meant to hold dollar bills, medium-sized or folded papers such as letters or even small stationary such as paper clips or thumb pins. The die-cut locking system allows the container's shape to be reversible.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Gregory-Colberts-Booklet
 graduate: Asifa Minhas
-mainimg: /assets/work/mihas_asifa_project3_web_main.jpg
-thumbnailimg: /assets/work/mihas_asifa_project3_web_thumbnail.jpg
+cover: /assets/work/mihas_asifa_project3_web_main.jpg
+thumbnail: /assets/work/mihas_asifa_project3_web_thumbnail.jpg
 title: Gregory Colbert's Booklet
 groupmembers:
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions:
 description: The booklet was based on the concept of connections between photography, animals and human beings as that is the foundation of Colbert's work. The layout is kept simple and minimalistic with image cuts to unify the style.
 digitallink:

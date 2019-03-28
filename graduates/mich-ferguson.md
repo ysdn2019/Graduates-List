@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/maven-snowboards
 graduate: Mich Ferguson
-mainimg: /assets/work/ferguson_mich_project1_web_main.jpg
-thumbnailimg: /assets/work/ferguson_mich_project1_web_thumbnail.jpg
+cover: /assets/work/ferguson_mich_project1_web_main.jpg
+thumbnail: /assets/work/ferguson_mich_project1_web_thumbnail.jpg
 title: Maven Snowboards
 groupmembers:
-fields: Branding, Editorial, Print
+category: Branding, Editorial, Print
 mediumdimensions:
 description: The project's goal was to create an extreme sports brand that successfully represented women in a confident and competitive manner. To establish a reason to be interested in the company I created a strong visual identity system that would allow this niche brand to stand out in an oversaturated market.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/band-zine-social-distortion
 graduate: Mich Ferguson
-mainimg: /assets/work/ferguson_mich_project2_web_main.jpg
-thumbnailimg: /assets/work/ferguson_mich_project2_web_thumbnail.jpg
+cover: /assets/work/ferguson_mich_project2_web_main.jpg
+thumbnail: /assets/work/ferguson_mich_project2_web_thumbnail.jpg
 title: Band Zine: Social Distortion
 groupmembers:
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions: Print
 description: For this musician themed booklet, I chose to design a "zine" for the artist Social Distortion. To accomplish this, I researched the band's past artworks, show flyers, posters, and the punk communities’ fanzines. My final design brings together many of these elements to create a DIY styled, polished zine. 
 digitallink:
@@ -64,13 +64,14 @@ caption3:
 ---
 path: /work/a-dragon-came-to-school-today
 graduate: Mich Ferguson
-mainimg: /assets/work/ferguson_mich_project3_web_main.jpg
-thumbnailimg: /assets/work/ferguson_mich_project3_web_thumbnail.jpg
+cover: /assets/work/ferguson_mich_project3_web_main.jpg
+thumbnail: /assets/work/ferguson_mich_project3_web_thumbnail.jpg
 title: A Dragon Came to School Today
 groupmembers:
-fields: Book Design, Illustration, Print
+category: Book Design, Illustration, Print
 mediumdimensions: Print
-description: “A Dragon came to school today” is about a dragon that gets lost on his way to school and ends up causing some trouble at a human child’s school. In the end, they become friends and the dragon is helped to find his way home.digitallink:
+description: “A Dragon came to school today” is about a dragon that gets lost on his way to school and ends up causing some trouble at a human child’s school. In the end, they become friends and the dragon is helped to find his way home.
+digitallink:
 image1: /assets/work/ferguson_mich_project3_web_support1.jpg
 subtitle1:
 caption1:

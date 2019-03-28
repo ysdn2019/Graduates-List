@@ -20,11 +20,11 @@ behance: https://www.behance.net/melosha
 ---
 path: /work/bee-museum-of-canada-identity 
 graduate: Melosha Ratnasingham
-mainimg: /assets/work/Ratnasingham_Melosha_project1_web_main.png
-thumbnailimg: /assets/work/Ratnasingham_Melosha_project1_web_thumbnail.png
+cover: /assets/work/Ratnasingham_Melosha_project1_web_main.png
+thumbnail: /assets/work/Ratnasingham_Melosha_project1_web_thumbnail.png
 title: Bee Museum of Canada Identity 
 groupmembers:
-fields: Branding, Book Design, Print
+category: Branding, Book Design, Print
 mediumdimensions:
 description: The Bee Museum of Canada celebrates the liveliness of bees while striving to educate the public on their importance and support their population re-growth. The brand reflects the institution's values and embodies a timeless look inspired by Swiss design using flat graphics and abstract notions to create a dynamic identity. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/mis-match-packaging
 graduate: Melosha Ratnasingham
-mainimg: /assets/work/Ratnasingham_Melosha_project2_web_main.png
-thumbnailimg: /assets/work/Ratnasingham_Melosha_project2_web_thumbnail.png
+cover: /assets/work/Ratnasingham_Melosha_project2_web_main.png
+thumbnail: /assets/work/Ratnasingham_Melosha_project2_web_thumbnail.png
 title: Mis-Match Packaging
 groupmembers:
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions:
 description: Mis-Match is a sock brand that focuses on matching unconventional items together to create new ideas and spark imagination. The packaging is influenced by vintage matchbox design, however, contains two pairs of socks. It incorporates both ideas of matchboxes and mismatched pairs of socks, resulting in a creative brand.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Carnaval-De-Québec
 graduate: Melosha Ratnasingham
-mainimg: /assets/work/Ratnasingham_Melosha_project3_web_main.png
-thumbnailimg: /assets/work/Ratnasingham_Melosha_project3_web_thumbnail.png
+cover: /assets/work/Ratnasingham_Melosha_project3_web_main.png
+thumbnail: /assets/work/Ratnasingham_Melosha_project3_web_thumbnail.png
 title: Carnaval De Québec
 groupmembers:
-fields: Branding, Communication, Illustration
+category: Branding, Communication, Illustration
 mediumdimensions:
 description: Carnaval De Québec is an annual festival that celebrates Québec City’s winter and its rooted traditions. The festival is known for its Canadian based activities, inviting families and friends from all over. A rebrand was created to capture the welcoming spirit and friendly nature of the festival in a playful manner. 
 digitallink:

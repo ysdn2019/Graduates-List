@@ -20,11 +20,11 @@ behance: https://www.behance.net/jjlintag
 ---
 path: /work/Wu-xing-5-elements-of-chinese-calligraphy
 graduate: Jay Lintag
-mainimg: /assets/lintag_jay_project1_web_main - Jay Lintag.jpg
-thumbnailimg: /assets/lintag_jay_project1_web_main - Jay Lintag.jpg
+cover: /assets/lintag_jay_project1_web_main - Jay Lintag.jpg
+thumbnail: /assets/lintag_jay_project1_web_main - Jay Lintag.jpg
 title: Wu Xing - 5 Elements of Chinese Calligraphy 
 groupmembers:
-fields: Branding, Packaging
+category: Branding, Packaging
 mediumdimensions:
 description: Wu Xing equips you with basic calligraphy necessities through an adaptable case allowing you to stack, display and pack your journey through Chinese calligraphy anywhere you go. With step by step instructions, calligraphic equipment, and an adaptable case, it is easy for anyone to become one with the elements of Chinese calligraphy.
 digitallink: https://www.behance.net/gallery/66388197/Wu-Xing-5-Elements-of-Chinese-Calligraphy
@@ -43,11 +43,11 @@ caption3:
 ---
 path: /work/Brainfood
 graduate: Jay Lintag
-mainimg: /assets/work/lintag_jay_project2_web_main - Jay Lintag.jpg
-thumbnailimg: /assets/work/lintag_jay_project2_web_main - Jay Lintag.jpg
+cover: /assets/work/lintag_jay_project2_web_main - Jay Lintag.jpg
+thumbnail: /assets/work/lintag_jay_project2_web_main - Jay Lintag.jpg
 title: Brainfood
 groupmembers:
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions:
 description: Brainfood is a board game that structures brainstorming in a fun and exciting manner. This game challenges players to come up with as many ideas as possible using the cards that display on the boards. At the end of each round, a judge will approve every player’s ideas for points.
 digitallink:
@@ -66,11 +66,11 @@ caption3:
 ---
 path: /work/ahh-burp-caw
 graduate: Jay Lintag
-mainimg: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
-thumbnailimg: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
+cover: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
+thumbnail: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
 title: Ahh Burp Caw
 groupmembers:
-fields: Book Design, Illustration, Typography
+category: Book Design, Illustration, Typography
 mediumdimensions:
 description:Ahh Burp Caw is an a ABC book displaying a series of onomatopoeia's through print. Ahh Burp Caw uses a combination of Jay's illustrations and custom font Audyssey to express his fun and playful visual style. 
 digitallink:

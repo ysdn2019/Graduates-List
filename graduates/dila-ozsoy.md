@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/cuncta
 graduate: Dila Ozsoy
-mainimg: /assets/work/Ozsoy_Dila_project1_web_main.jpg
-thumbnailimg: /assets/work/Ozsoy_Dila_project1_web_thumbnail.jpg
+cover: /assets/work/Ozsoy_Dila_project1_web_main.jpg
+thumbnail: /assets/work/Ozsoy_Dila_project1_web_thumbnail.jpg
 title: CUNCTA Magazine 
 groupmembers: 
-fields: Editorial, Illustration, Print
+category: Editorial, Illustration, Print
 mediumdimensions: 
 description: CUNCTA is a fashion magazine targeted towards young to middle aged fashion enthusiasts or professionals of all genders. It includes the emerging artists and fashion designers, their collaborations and the current trends. CUNCTA aims to provide information on fashion without being filtered by the feminine target. It focuses purely on the art of fashion.
 digitallink: 
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/osheaga-festival-redesign
 graduate: Dila Ozsoy
-mainimg: /assets/work/Ozsoy_Dila_project2_web_main.jpg
-thumbnailimg: /assets/work/Ozsoy_Dila_project2_web_thumbnail.jpg
+cover: /assets/work/Ozsoy_Dila_project2_web_main.jpg
+thumbnail: /assets/work/Ozsoy_Dila_project2_web_thumbnail.jpg
 title: OSHEAGA FESTIVAL REDESIGN
 groupmembers: 
-fields: Branding, Communication, Typography
+category: Branding, Communication, Typography
 mediumdimensions: 
 description: Osheaga is an annual arts and music festival in Montreal. In comparison to other festivals. This is a redesign of their visual identity that aims to create a style that reoccurs in everything they produce and becomes established and symbolized with their name, which could bring greater success.
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/glitch
 graduate: Dila Ozsoy
-mainimg: /assets/work/Ozsoy_Dila_project3_web_main.jpg
-thumbnailimg: /assets/work/Ozsoy_Dila_project3_web_thumbnail.jpg
+cover: /assets/work/Ozsoy_Dila_project3_web_main.jpg
+thumbnail: /assets/work/Ozsoy_Dila_project3_web_thumbnail.jpg
 title: GLITCH
 groupmembers: 
-fields: Print, Typography
+category: Print, Typography
 mediumdimensions: 
 description: "Glitch" is an original hybrid typeface. It was inspired from two distinct typefaces that created a harmonious visual miracle when overlapped. After the merge of the typefaces, every letter was manipulated by hand one by one to create unique characters in a coherently designed alphabet. 
 digitallink: 

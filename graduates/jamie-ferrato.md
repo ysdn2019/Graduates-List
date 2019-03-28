@@ -20,11 +20,11 @@ behance: https://www.behance.net/Jamieferraf05c
 ---
 path: /work/ferratos-italian-and-japanese-fusion
 graduate: Jamie Ferrato
-mainimg: /assets/work/Ferrato_Jamie_project1_web_main.jpg
-thumbnailimg: /assets/work/Ferrato_Jamie_project1_web_thumbnail.jpg
+cover: /assets/work/Ferrato_Jamie_project1_web_main.jpg
+thumbnail: /assets/work/Ferrato_Jamie_project1_web_thumbnail.jpg
 title: Ferrato's Italian & Japanese Fusion 
 groupmembers:
-fields: Packaging
+category: Packaging
 mediumdimensions: Package Design, 6"x6"x12"
 description: Ferrato's is a restaurant that serves Italian and Japanese fusion food that aims to perfectly mix the two cultures, food, and design of Italy and Japan. The goal is to create a full restaurant experience, with sustainable and thoughtful packaging, meaningful visual design, and memorable, unique branding. 
 digitallink:
@@ -42,11 +42,11 @@ caption3: The package itself was created to be an effective, eco-friendly, and u
 ---
 path: /work/cyber-freight-typeface
 graduate: Jamie Ferrato
-mainimg: /assets/work/Ferrato_Jamie_project2_web_main.jpg
-thumbnailimg: /assets/work/Ferrato_Jamie_project2_web_thumbnail.jpg
+cover: /assets/work/Ferrato_Jamie_project2_web_main.jpg
+thumbnail: /assets/work/Ferrato_Jamie_project2_web_thumbnail.jpg
 title: Cyber Freight Typeface
 groupmembers:
-fields: Digital, Motion, Typography
+category: Digital, Motion, Typography
 mediumdimensions:
 description: Designed with the influences of the golden age of computing, cyberpunk, and industrialism I have created a bold, extended display font made for use in large applications such as freight containers, trucks, signs, or your evil corporation's HQ. Seen below is the type specimen created to showcase the font.  
 digitallink:https://jamieferrato.com/cyber-freight-display-font
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/tag-app
 graduate: Jamie Ferrato
-mainimg: /assets/work/Ferrato_Jamie_project3_web_main.jpg
-thumbnailimg: /assets/work/Ferrato_Jamie_project3_web_thumbnail.jpg
+cover: /assets/work/Ferrato_Jamie_project3_web_main.jpg
+thumbnail: /assets/work/Ferrato_Jamie_project3_web_thumbnail.jpg
 title: TAG' App
 groupmembers:
-fields: Branding, Interactive, UI/UX
+category: Branding, Interactive, UI/UX
 mediumdimensions: 
 description: Tag is an app that lets you explore the world, make your mark, and discover the unique moments and stories of others. Tag's unique set of augmented reality creation tool allow you to create a moment in time based on geographical location for others to find.
 digitallink: https://jamieferrato.com/tag-the-moment-creation-and-discovery-app

@@ -20,11 +20,11 @@ behance: https://www.behance.net/CamilaHolguin
 ---
 path: /work/Go-Bananas
 graduate: Camila Holguin
-mainimg: /assets/work/holguin_camila_project1_web_main.jpg
-thumbnailimg: /assets/work/holguin_camila_project1_web_thumbnail.jpg
+cover: /assets/work/holguin_camila_project1_web_main.jpg
+thumbnail: /assets/work/holguin_camila_project1_web_thumbnail.jpg
 title: Go Bananas
 groupmembers:
-fields: Packaging
+category: Packaging
 mediumdimensions: Packaging
 description: Go Bananas is playful, environmentally sustainable and user-friendly packaging that aims to successfully package the ingredients needed to make home-made style banana bread. The design of the packaging incorporates a bakeable paper pan and a reusable parchment sheet, intended to provide a second life for the product's packaging. 
 digitallink: https://www.camilaholguin.com/go-bananas
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/Eulexis-Serif
 graduate: Camila Holguin
-mainimg: /assets/work/holguin_camila_project2_web_main.jpg
-thumbnailimg: /assets/work/holguin_camila_project2_web_thumbnail.jpg
+cover: /assets/work/holguin_camila_project2_web_main.jpg
+thumbnail: /assets/work/holguin_camila_project2_web_thumbnail.jpg
 title: Eulexis Serif
 groupmembers:
-fields: Print, Typography
+category: Print, Typography
 mediumdimensions: Typeface
 description: Eulexis Serif, is a typeface specifically designed to help those who face the learning disability dyslexia. Dyslexia is a language-based learning disability that can impede one’s ability with language skills such as reading, spelling, writing, and pronouncing words. The typeface Eulexis Serif is designed to eliminate the visual challenges that might occur to an individual with dyslexia.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/project-name
 graduate: Camila Holguin
-mainimg: /assets/work/holguin_camila_project3_web_main.jpg
-thumbnailimg: /assets/work/holguin_camila_project3_web_thumbnail.jpg
+cover: /assets/work/holguin_camila_project3_web_main.jpg
+thumbnail: /assets/work/holguin_camila_project3_web_thumbnail.jpg
 title: Literatura de Corde
 groupmembers:
-fields: Book Design, Print
+category: Book Design, Print
 mediumdimensions: book design
 description: Literatura de Cordel is a Portuguese term meaning “string literature” that was used to describe inexpensively printed booklets. The Literatura de Cordel was explored in the production of 5 distinct zines, featuring different themes, content, and design aesthetic.
 digitallink:

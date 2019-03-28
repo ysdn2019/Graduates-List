@@ -20,11 +20,11 @@ behance: https://www.behance.net/apateldesign
 ---
 path: /work/Electric-Eclectics
 graduate: Ajay Patel
-mainimg: /assets/work/patel_ajay_project1_web_main.jpg
-thumbnailimg: /assets/work/patel_ajay_project1_web_thumbnail.jpg
+cover: /assets/work/patel_ajay_project1_web_main.jpg
+thumbnail: /assets/work/patel_ajay_project1_web_thumbnail.jpg
 title: Electric Eclectics
 groupmembers:
-fields: Branding, Digital, Print
+category: Branding, Digital, Print
 mediumdimensions:
 description: Electric Eclectics is a small non-commercial festival on a giant farmland in Meaford, Ontario. The festival celebrates experimental expression, avant-garde sound-craft and crossover media, with an emphasis on creative self-expression. My role was to reestablish the festival’s identity through a holistic design system, including a poster, web/mobile, booklet, and ephemera designs. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/I-Am-Here-But-Where-Are-You
 graduate: Ajay Patel
-mainimg: /assets/work/patel_ajay_project2_web_main.jpg
-thumbnailimg: /assets/work/patel_ajay_secondary_web_thumbnail.jpg
+cover: /assets/work/patel_ajay_project2_web_main.jpg
+thumbnail: /assets/work/patel_ajay_secondary_web_thumbnail.jpg
 title: I Am Here But Where Are You?
 groupmembers:
-fields: Book Design, Editorial, Print
+category: Book Design, Editorial, Print
 mediumdimensions:
 description: The process of regaining our emotional footing in the midst of struggle is where our courage is truly tested. Repositioning nihilism in contemporary youth culture, I developed an experimental book that provides uniquely visual and self-reflective help through a re-introduction to the act of expression to abate youth angst.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Ontario-Cannabis-Store
 graduate: Ajay Patel
-mainimg: /assets/work/patel_ajay_project3_web_main.jpg
-thumbnailimg: /assets/work/patel_ajay_project3_web_thumbnail.jpg
+cover: /assets/work/patel_ajay_project3_web_main.jpg
+thumbnail: /assets/work/patel_ajay_project3_web_thumbnail.jpg
 title: Ontario Cannabis Store
 groupmembers:
-fields: Branding, Digital, Print
+category: Branding, Digital, Print
 mediumdimensions:
 description: Ontario Cannabis Store's (OCS) current brand misses the mark in connecting with the its audience. I therefore took on the challenge to rebrand OCS by repositioning its visual passivity to a more explicit and dynamic spirit of the existing cannabis culture and the one in which it will permeate. 
 digitallink:

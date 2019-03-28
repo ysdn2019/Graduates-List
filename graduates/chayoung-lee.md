@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/barefree
 graduate: Chayoung Lee
-mainimg: /assets/work/Lee_Chayoung_project1_web_main.jpg
-thumbnailimg: /assets/work/Lee_Chayoung_project1_web_thumbnail1.jpg
+cover: /assets/work/Lee_Chayoung_project1_web_main.jpg
+thumbnail: /assets/work/Lee_Chayoung_project1_web_thumbnail1.jpg
 title: barefree. 
 groupmembers: 
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions: Paper & Cotton Fabric, 8.5" x 5" x 3.5"
 description: Barefree. is to support period poverty in African countries by providing a practical menstrual kit that contains useful items for safer period life for women.
 digitallink: 
@@ -42,11 +42,11 @@ caption3: The pad dryer to let users to dry cloth pads anywhere in anytime. They
 ---
 path: /work/facestudio
 graduate: Chayoung Lee
-mainimg: /assets/work/Lee_Chayoung_project2_web_main.jpg
-thumbnailimg:
+cover: /assets/work/Lee_Chayoung_project2_web_main.jpg
+thumbnail:
 title: FaceStudio / Acrylic / 10 x 7 x 3"
 groupmembers: 
-fields: Branding, Packaging
+category: Branding, Packaging
 mediumdimensions: 
 description: FaceStudio is a character design kit that is to enhance character design experiences based on ancient practice of face reading. 
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path:
 graduate: 
-mainimg:
-thumbnailimg:
+cover:
+thumbnail:
 title: 
 groupmembers: 
-fields: 
+category: 
 mediumdimensions: 
 description: 
 digitallink: 

@@ -20,11 +20,11 @@ behance: https://www.behance.net/m_ftm
 ---
 path: /work/making-tax-less-taxing 
 graduate: Mariya Fatima
-mainimg: /assets/work/Fatima_Mariya_project1_web_main.jpg
-thumbnailimg: /assets/work/Fatima_Mariya_project1_web_thumbnail.jpg
+cover: /assets/work/Fatima_Mariya_project1_web_main.jpg
+thumbnail: /assets/work/Fatima_Mariya_project1_web_thumbnail.jpg
 title: Making Tax Less Taxing
 groupmembers:
-fields: Branding, Editorial, Print
+category: Branding, Editorial, Print
 mediumdimensions:
 description: An illustrative guide to understanding the Canadian Tax System.
 digitallink: https://vimeo.com/312648301
@@ -42,11 +42,11 @@ caption3: A poster comparing the Human Development Index of each OECD country ag
 ---
 path: /work/lumex-lighting-solutions
 graduate: Mariya Fatima
-mainimg: /assets/work/Fatima_Mariya_project2_web_main.jpg
-thumbnailimg: /assets/work/Fatima_Mariya_project2_web_thumbnail.jpg
+cover: /assets/work/Fatima_Mariya_project2_web_main.jpg
+thumbnail: /assets/work/Fatima_Mariya_project2_web_thumbnail.jpg
 title: Making Tax Less Taxing
 groupmembers:
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions: Packaging 
 description: A playful, illustrative approach to light-bulb packaging. 
 digitallink: https://vimeo.com/312648301
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/qahveh
 graduate: Mariya Fatima
-mainimg: /assets/work/Fatima_Mariya_project3_web_main.png
-thumbnailimg: /assets/work/Fatima_Mariya_project3_web_thumbnail.jpg
+cover: /assets/work/Fatima_Mariya_project3_web_main.png
+thumbnail: /assets/work/Fatima_Mariya_project3_web_thumbnail.jpg
 title: Qahveh: Menu Insert
 groupmembers:
-fields: Branding, Illustration, Print
+category: Branding, Illustration, Print
 mediumdimensions: Packaging 
 description: A menu Insert narrative about the origins of Coffee.
 digitallink: https://vimeo.com/312648301

@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/Memoir-Cookbook
 graduate: Alessya Baggetta
-mainimg: /assets/work/baggetta_alessya_project1_web_main.jpg
-thumbnailimg: /assets/work/baggetta_alessya_project1_web_thumbnail.jpg
+cover: /assets/work/baggetta_alessya_project1_web_main.jpg
+thumbnail: /assets/work/baggetta_alessya_project1_web_thumbnail.jpg
 title: Memoir/Cookbook
 groupmembers:
-fields: Book Design, Editorial, Print
+category: Book Design, Editorial, Print
 mediumdimensions: Magazine, 7.5" x 9"
 description: "Vieni a Mangiare - How Not to be a Mangiacake - nonna" is a memoir and Cookbook based upon a variety of elderly Italian Immigrants. This book is a compilation of interviews and recipes from Italian Immigrants spreading their love and passion of the Italian culture.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/MIBI
 graduate: Alessya Baggetta
-mainimg: /assets/work/baggetta_alessya_project2_web_main.jpg
-thumbnailimg: /assets/work/baggetta_alessya_project2_web_thumbnail.jpg
+cover: /assets/work/baggetta_alessya_project2_web_main.jpg
+thumbnail: /assets/work/baggetta_alessya_project2_web_thumbnail.jpg
 title: MIBI (Smart device)
 groupmembers: Stephanie Ritacca, Livia Wjd
-fields: Communication, Interactive, UI/UX
+category: Communication, Interactive, UI/UX
 mediumdimensions: App + Website
 description: A smart pen designed for elementary students, paired with the MIBIapp, where both teachers and students are able to track their progress and practice writing cursive. An app, website, and package for the object was designed for the purpose of this assignment.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/project-name
 graduate: Alessya Baggetta
-mainimg: /assets/work/baggetta_alessya_project3_web_main.jpg
-thumbnailimg: /assets/work/baggetta_alessya_project3_web_thumbnail.jpg
+cover: /assets/work/baggetta_alessya_project3_web_main.jpg
+thumbnail: /assets/work/baggetta_alessya_project3_web_thumbnail.jpg
 title: Growing up with Italians
 groupmembers:
-fields: Book Design, Communication, Print
+category: Book Design, Communication, Print
 mediumdimensions: Book, 7" x 9"
 description: This book obtains interviews of participants who have lived or been raised by Italian Immigrants. This is a part two of my undergraduate capstone project. 
 digitallink:

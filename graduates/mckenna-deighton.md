@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/how-much-time-are-you-losing-on-line-one
 graduate: Mckenna Deighton
-mainimg: /assets/work/deighton_mckenna_firstname_project1_web_main.png
-thumbnailimg: /assets/deighton_mckenna_project1_web_thumbnail.png
+cover: /assets/work/deighton_mckenna_firstname_project1_web_main.png
+thumbnail: /assets/deighton_mckenna_project1_web_thumbnail.png
 title: How much time are you losing on Line 1?
 groupmembers:
-fields: Data Visualisation, Interactive
+category: Data Visualisation, Interactive
 mediumdimensions:
 description: Visualizing 17,000 subway delays on the TTC's line 1
 digitallink: https://www.youtube.com/watch?v=yPsR_ZWuj_Y&t=3s
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/sheridan-library-EGD-proposal
 graduate: Mckenna Deighton
-mainimg: /assets/work/deighton_mckenna_project2_web_main.png
-thumbnailimg: /assets/lastname_firstname_secondary_web_thumbnail.png
+cover: /assets/work/deighton_mckenna_project2_web_main.png
+thumbnail: /assets/lastname_firstname_secondary_web_thumbnail.png
 title: Sheridan Library EGD Proposal
 groupmembers:
-fields: Branding, Environmental
+category: Branding, Environmental
 mediumdimensions:
 description: A proposal for transforming the Sheridan Trafalgar library from “space” to “place”
 digitallink: https://www.youtube.com/watch?v=yPsR_ZWuj_Y&t=3s
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/the-road
 graduate: Mckenna Deighton
-mainimg: /assets/work/deighton_mckenna_project3_web_main.png
-thumbnailimg: /assets/deighton_mckennasecondary_web_thumbnail.png
+cover: /assets/work/deighton_mckenna_project3_web_main.png
+thumbnail: /assets/deighton_mckennasecondary_web_thumbnail.png
 title: Sheridan Library EGD Proposal
 groupmembers:
-fields: Data Visualisation, Editorial, Information Design
+category: Data Visualisation, Editorial, Information Design
 mediumdimensions: Literary Analysis, 30" x 40"
 description: A three part infographic series based on the post apocalyptic novel The Road,  by Cormack McCarthy.
 digitallink: https://www.youtube.com/watch?v=yPsR_ZWuj_Y&t=3s

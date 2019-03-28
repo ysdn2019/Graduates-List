@@ -20,11 +20,11 @@ behance: https://www.behance.net/jasminezha0b11
 ---
 path: /work/spark-joy-book-trailer
 graduate: Shuyi Zhang
-mainimg: /assets/work/Zhang_Jasmine_project1_web_main.jpg
-thumbnailimg: /assets/work/Zhang_Jasmine_project1_web_thumbnail.jpg
+cover: /assets/work/Zhang_Jasmine_project1_web_main.jpg
+thumbnail: /assets/work/Zhang_Jasmine_project1_web_thumbnail.jpg
 title: Spark Joy Book Trailer
 groupmembers:
-fields: Digital, Motion
+category: Digital, Motion
 mediumdimensions:
 description: Spark Joy Book Trailer is an advertising video created to promote the book Spark Joy by the Japanese tidying master Marie Kondo. It showcases the transformative power of the book that helps unclutter people’s spaces physically and mentally. It uses visual metaphors to embodies the ideas and impacts of the book without spoiling the actual contents. 
 digitallink: https://vimeo.com/321309894
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/hong-kong-film-festival
 graduate: Shuyi Zhang
-mainimg: /assets/work/Zhang_Jasmine_project2_web_main.jpg
-thumbnailimg: /assets/work/Zhang_Jasmine_project2_web_thumbnail.jpg
+cover: /assets/work/Zhang_Jasmine_project2_web_main.jpg
+thumbnail: /assets/work/Zhang_Jasmine_project2_web_thumbnail.jpg
 title: Hong Kong Film Festival
 groupmembers:
-fields: Digital, Motion, Typography
+category: Digital, Motion, Typography
 mediumdimensions:
 description: Hong Kong Film Festival is a film festival based on the Hong Kong local movies. This project is a motion graphics designed for the title sequence of the film festival. The theme of the 45th HKFF is classic Hong Kong movies, featuring well-known movies from the 90s and early 2000s. 
 digitallink: https://vimeo.com/256032028
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/what-is-your-name
 graduate: Shuyi Zhang
-mainimg: /assets/work/Zhang_Jasmine_project3_web_main.jpg
-thumbnailimg: /assets/work/Zhang_Jasmine_project3_web_thumbnail.jpg
+cover: /assets/work/Zhang_Jasmine_project3_web_main.jpg
+thumbnail: /assets/work/Zhang_Jasmine_project3_web_thumbnail.jpg
 title: What is Your Name
 groupmembers:
-fields: Book Design, Editorial, Typography
+category: Book Design, Editorial, Typography
 mediumdimensions:
 description: What is Your Name is a book that explores how international students perceive
 self-identity with their names in a foreign country. It shows the identity crisis they have gone through and the journey of gaining self-confidence and embracing their unique cultures and identities. 

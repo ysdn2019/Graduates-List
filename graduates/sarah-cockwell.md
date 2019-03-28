@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/the-dirty-shoe-co
 graduate: Sarah Cockwell
-mainimg: /assets/work/SCockwell_Project1Web_Main.jpg
-thumbnailimg: /assets/work/SCockwell_Project1Web_Main.jpg
+cover: /assets/work/SCockwell_Project1Web_Main.jpg
+thumbnail: /assets/work/SCockwell_Project1Web_Main.jpg
 title: The Dirty Shoe Co.
 groupmembers:
-fields: Branding, Digital, Motion
+category: Branding, Digital, Motion
 mediumdimensions: Website
 description: The Dirty Shoe Co. is a theoretical online pop up shop that sells end of life cycle shoes in order to make consumers aware of their over buying behaviour. Through this project I want to make global consumers aware of the shoe industry’s carbon footprint through a form of erratic realization.
 digitallink: https://invis.io/URPEORMK2CW
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/the-dirty-shoe-co-rebrand
 graduate: Sarah Cockwell
-mainimg: /assets/work/SCockwell_Project2Book_Main.jpg
-thumbnailimg: /assets/work/SCockwell_Project2Book_Main.jpg
+cover: /assets/work/SCockwell_Project2Book_Main.jpg
+thumbnail: /assets/work/SCockwell_Project2Book_Main.jpg
 title: The Dirty Shoe Co. Rebrand Guide
 groupmembers:
-fields: Branding, Book Design
+category: Branding, Book Design
 mediumdimensions:
 description: The Dirty Shoe Co. is a theoretical online pop up shop that sells end of life cycle shoes in order to make consumers aware of their over buying behaviour. Through this project I was able to rebrand the company with a brand book, offering a fresh look that ties into the company’s original purpose with hopes of expanding. 
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/questionable-tastes
 graduate: Sarah Cockwell
-mainimg: /assets/work/SCockwell_Project3Web_Main.jpg
-thumbnailimg: /assets/work/SCockwell_Project3Book_Main.jpg
+cover: /assets/work/SCockwell_Project3Web_Main.jpg
+thumbnail: /assets/work/SCockwell_Project3Book_Main.jpg
 title: Questionable Tastes
 groupmembers:
-fields: Book Design, Editorial
+category: Book Design, Editorial
 mediumdimensions: Cookbook
 description: Questionable Tastes is a cookbook that portrays the art of food, using futurist recipes ultimately creating the most unappetizing meals in a beautiful way. 
 digitallink:

@@ -20,11 +20,11 @@ behance: https://www.behance.net/AkiliZSH
 ---
 path: /work/Afropunk-Fest-Re-branded
 graduate: Akili Hyman
-mainimg: /assets/work/hyman_akili_project1_web_main.png
-thumbnailimg: /assets/work/hyman_akili_project1_web_thumbnail.png
+cover: /assets/work/hyman_akili_project1_web_main.png
+thumbnail: /assets/work/hyman_akili_project1_web_thumbnail.png
 title: Afropunk Fest Re-branded
 groupmembers:
-fields: Branding, Communication, Print
+category: Branding, Communication, Print
 mediumdimensions: Print and Digital
 description: A re-imagined visual identity that captures the overall theme and aesthetic of Afropunk Fest.
 digitallink:
@@ -42,11 +42,11 @@ caption3: The pattern and colours used in the poster were inspired by and taken 
 ---
 path: /work/CHUH-The-Brand 
 graduate: Akili Hyman
-mainimg: /assets/work/hyman_akili_project2_web_main.png
-thumbnailimg: /assets/work/hyman_akili_project2_web_thumbnail.png
+cover: /assets/work/hyman_akili_project2_web_main.png
+thumbnail: /assets/work/hyman_akili_project2_web_thumbnail.png
 title: CHUH - The Brand 
 groupmembers:
-fields: Branding, Print
+category: Branding, Print
 mediumdimensions:
 description: A brand imagined and implemented from scratch with my culture in mind.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/project-name
 graduate: Akili Hyman
-mainimg: /assets/work/hyman_akili_project3_web_main.png
-thumbnailimg: /assets/work/hyman_akili_project3_web_thumbnail.png
+cover: /assets/work/hyman_akili_project3_web_main.png
+thumbnail: /assets/work/hyman_akili_project3_web_thumbnail.png
 title: Parallels
 groupmembers:
-fields: Digital, Motion
+category: Digital, Motion
 mediumdimensions: Digital
 description: A visualization of the Mandela Effect through motion and film.
 digitallink:

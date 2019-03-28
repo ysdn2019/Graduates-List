@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/changes-of-scenery
 graduate: Katrina Kuzyk
-mainimg: /assets/work/kuzyk_katrina_project1_web_main.jpg
-thumbnailimg: /assets/work/kuzyk_katrina_project1_web_thumbnail.jpg
+cover: /assets/work/kuzyk_katrina_project1_web_main.jpg
+thumbnail: /assets/work/kuzyk_katrina_project1_web_thumbnail.jpg
 title: Changes of Scenery
 groupmembers:
-fields: Book Design, Illustration, Typography
+category: Book Design, Illustration, Typography
 mediumdimensions: book, 8.5"x11"
 description: Changes of Scenery is a book that explores four worldviews of the natural world: nature is connected, nature is benign & perverse, nature is capricious, and the romanticization of nature. The book represents each perception both logically and expressively by using diagrams and landscape collages.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/esoteria
 graduate: Katrina Kuzyk
-mainimg: /assets/work/kuzyk_katrina_project2_web_main.jpg
-thumbnailimg: /assets/work/kuzyk_katrina_project2_web_thumbnail.jpg
+cover: /assets/work/kuzyk_katrina_project2_web_main.jpg
+thumbnail: /assets/work/kuzyk_katrina_project2_web_thumbnail.jpg
 title: Esoteria 
 groupmembers:
-fields: Editorial, Illustration, Print
+category: Editorial, Illustration, Print
 mediumdimensions: magazine, 9"x13"
 description: A magazine exploring higher realms titled after the word ‘esoteric’ which refers to insight of inner spiritual and metaphysical realities. The complex philosophical theme is simplified into short articles that range in perspective and are partnered with collages that get the reader into the right mindset to ponder these ideas.
 digitallink: https://www.katrinakuzyk.com/esoteria
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/climate-refugees
 graduate: Katrina Kuzyk
-mainimg: /assets/work/kuzyk_katrina_project3_web_main.jpg
-thumbnailimg: /assets/work/kuzyk_katrina_project3_web_thumbnail.jpg
+cover: /assets/work/kuzyk_katrina_project3_web_main.jpg
+thumbnail: /assets/work/kuzyk_katrina_project3_web_thumbnail.jpg
 title: Climate Refugees
 groupmembers:
-fields: Data Visualisation, Information Design, Interactive
+category: Data Visualisation, Information Design, Interactive
 mediumdimensions:  ipad 
 description: This research project focuses on border tensions and climate change, and visualizes the data of the number of refugees displaced worldwide due to natural disasters in an interactive ipad format. 
 digitallink: https://www.katrinakuzyk.com/climate-refugees

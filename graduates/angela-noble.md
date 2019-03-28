@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/NASA-Exoplanet-Archive
 graduate: Angela Noble
-mainimg: /assets/work/noble_angela_project1_web_main.png
-thumbnailimg: /assets/work/noble_angela_project1_web_thumbnail.png
+cover: /assets/work/noble_angela_project1_web_main.png
+thumbnail: /assets/work/noble_angela_project1_web_thumbnail.png
 title: NASA Exoplanet Archive
 groupmembers:
-fields: Data Visualisation, Digital, Interactive
+category: Data Visualisation, Digital, Interactive
 mediumdimensions: Data Visualisation
 description: This data visualization was created in the coding software Processing Sketch. It displays NASA’s archive of every planet that has been documented outside of our solar system. This visualization displays information about trends of discovery methods at a glance. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/Choosit
 graduate: Angela Noble
-mainimg: /assets/work/noble_angela_project2_web_main.png
-thumbnailimg: /assets/work/noble_angela_project2_web_thumbnail.png
+cover: /assets/work/noble_angela_project2_web_main.png
+thumbnail: /assets/work/noble_angela_project2_web_thumbnail.png
 title: Choosit
 groupmembers:
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: App Mockup
 description: Choosit is designed to eliminate the stress of choosing where and what to eat. The app provides the user with food options catered towards their food restrictions, and preferences. This app pairs with delivery apps to provide the user with in app comparisons of estimated delivery times and prices. 
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Choosit-Marketing-Website
 graduate: Angela Noble
-mainimg: /assets/work/noble_angela_project3_web_main.png
-thumbnailimg: /assets/work/noble_angela_project3_web_thumbnail.png
+cover: /assets/work/noble_angela_project3_web_main.png
+thumbnail: /assets/work/noble_angela_project3_web_thumbnail.png
 title: Choosit Marketing Website
 groupmembers:
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions:
 description: This marketing website was created to feature the app mockup Choosit. The marketing website goes over the key features of the app, as well as showcasing how the user navigates through it.
 digitallink: http://digital-locker.design.yorku.ca/4003Af18/anoble/website/project5/index.html

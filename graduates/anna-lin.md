@@ -20,11 +20,11 @@ behance: https://www.behance.net/ahylin
 ---
 path: /work/Palette
 graduate: Anna Lin
-mainimg: /assets/work/Lin_Anna_project1_web_main.jpg
-thumbnailimg: /assets/work/Lin_Anna_project1_web_thumbnail.jpg
+cover: /assets/work/Lin_Anna_project1_web_main.jpg
+thumbnail: /assets/work/Lin_Anna_project1_web_thumbnail.jpg
 title: Palette
 groupmembers:
-fields: Branding, Communication, Editorial
+category: Branding, Communication, Editorial
 mediumdimensions:
 description: Palette is a grocery brand designed to reduce food waste by offering groceries portioned in smaller quantities. In response to the growing trend of Canadians living alone, those who cook for themselves now have access to a variety of foods without worrying about the leftover ingredients. 
 digitallink:
@@ -42,11 +42,11 @@ caption3: Telling the story from a creative perspective, Palette encourages cons
 ---
 path: /work/Joey-on-Pyramid
 graduate: Anna Lin
-mainimg: /assets/work/Lin_Anna_project2_web_main.jpg
-thumbnailimg: /assets/work/Lin_Anna_project2_web_thumbnail.jpg
+cover: /assets/work/Lin_Anna_project2_web_main.jpg
+thumbnail: /assets/work/Lin_Anna_project2_web_thumbnail.jpg
 title: Joey on Pyramid
 groupmembers:
-fields: Digital, Motion, Typography
+category: Digital, Motion, Typography
 mediumdimensions:
 description: This short motion graphics was based on a scene from Friends, when Joey was on the game show Pyramid and giving out hilarious answers. The concept of my motion graphics was to visualize the dialog in a game show context.
 digitallink: https://vimeo.com/303629739
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Neighbour-Buddy
 graduate: Anna Lin
-mainimg: /assets/work/Lin_Anna_project3_web_main.jpg
-thumbnailimg: /assets/work/Lin_Anna_project3_web_thumbnail.jpg
+cover: /assets/work/Lin_Anna_project3_web_main.jpg
+thumbnail: /assets/work/Lin_Anna_project3_web_thumbnail.jpg
 title: Neighbour Buddy
 groupmembers:
-fields: Communication, Illustration, Print
+category: Communication, Illustration, Print
 mediumdimensions:
 description: Neighbour Buddy is a campaign targeted towards the Scarborough and Markham community to help residents understand and prepare for extreme weather emergencies. It allows households from each city to become each other’s emergency contacts. Sharing resources blurs the line between the two cities, resulting in a stronger community network.
 digitallink:

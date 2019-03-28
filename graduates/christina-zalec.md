@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/turning-on-turning-in
 graduate: Christina Zalec
-mainimg: /assets/work/Zalec_Christina_project1_web_main.jpg
-thumbnailimg: /assets/work/Zalec_Christina_project1_web_thumbnail.jpg
+cover: /assets/work/Zalec_Christina_project1_web_main.jpg
+thumbnail: /assets/work/Zalec_Christina_project1_web_thumbnail.jpg
 title: Turning On, Tuning In
 groupmembers: 
-fields: Book Design, Illustration, Print
+category: Book Design, Illustration, Print
 mediumdimensions: Print, 8" x 10"
 description: From Altamont to Ziggy Stardust, “Turning On, Tuning In” covers significant people, places, moments, and music (albums, collaborations, and songs) during what could arguably be the golden era of rock, from the years 1965 to 1975. 
 digitallink: 
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/strange-days
 graduate: Christina Zalec
-mainimg: /assets/work/Zalec_Christina_project2_web_main.jpg
-thumbnailimg: /assets/work/Zalec_Christina_project2_web_thumbnail.jpg
+cover: /assets/work/Zalec_Christina_project2_web_main.jpg
+thumbnail: /assets/work/Zalec_Christina_project2_web_thumbnail.jpg
 title: Strange Days
 groupmembers: 
-fields: Book Design, Typography
+category: Book Design, Typography
 mediumdimensions:  Print & Mixed Media
 description: “Strange Days” explores the concept of strangeness through a mixed media book of experimental typography. 
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/originality-is-dead
 graduate: Christina Zalec
-mainimg: /assets/work/Zalec_Christina_project3_web_main.jpg
-thumbnailimg: /assets/work/Zalec_Christina_project3_web_thumbnail.jpg
+cover: /assets/work/Zalec_Christina_project3_web_main.jpg
+thumbnail: /assets/work/Zalec_Christina_project3_web_thumbnail.jpg
 title: Originality is Dead?
 groupmembers: 
-fields: Book Design, Print
+category: Book Design, Print
 mediumdimensions: 
 description: “Originality is Dead” delves into the world of art and design to explore the topic of originality.
 digitallink: 

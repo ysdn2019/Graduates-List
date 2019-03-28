@@ -24,15 +24,15 @@ behance:
 ---
 path: /work/tree-cover-loss-in-canadas-forests
 graduate: Kristin DiBello
-mainimg: /assets/work/dibello_kristin_project1_web_main.jpg
-thumbnailimg: /assets/work/dibello_kristin_project1_web_thumbnail.jpg
+cover: /assets/work/dibello_kristin_project1_web_main.jpg
+thumbnail: /assets/work/dibello_kristin_project1_web_thumbnail.jpg
 title: Tree Cover Loss In Canada’s Forests
 groupmembers:
-fields: Illustration, Information Design, Interactive
+category: Illustration, Information Design, Interactive
 mediumdimensions: print & digital
 description: A promotional pamphlet, poster, and interactive iPad app that explore the issue of tree cover loss, how it affects Canada’s forest ecosystems, the country as a whole, and what can be done to help their current state.
 digitallink: https://invis.io/98EORNLS3
-image1: /assets/dibello_kristin_project1_web_support1.jpg
+image1: /assets/work/dibello_kristin_project1_web_support1.jpg
 subtitle1:
 caption1:
 image2: /assets/work/dibello_kristin_project1_web_support2.jpg
@@ -47,11 +47,11 @@ caption3:
 ---
 path: /work/in-bloom
 graduate: Kristin DiBello
-mainimg: /assets/work/dibello_kristin_project2_web_main.jpg
-thumbnailimg: /assets/work/dibello_kristin_project2_web_thumbnail.jpg
+cover: /assets/work/dibello_kristin_project2_web_main.jpg
+thumbnail: /assets/work/dibello_kristin_project2_web_thumbnail.jpg
 title: In Bloom
 groupmembers:
-fields: Book Design, Interactive, Typography
+category: Book Design, Interactive, Typography
 mediumdimensions: mixed media
 description: An accordion book inspired by the Neck Deep song of the same name, recounting the lead singer’s experience with grief and anxiety after the loss of his father. Completely hand-made, the design is haphazard, as if the lead singer were scrapbooking his thoughts and feelings.
 digitallink:
@@ -69,11 +69,11 @@ caption3:
 ---
 path: /work/popxpunk
 graduate: Kristin DiBello
-mainimg: /assets/work/dibello_kristin_project3_web_main.jpg
-thumbnailimg: /assets/work/dibello_kristin_project3_web_thumbnail.jpg
+cover: /assets/work/dibello_kristin_project3_web_main.jpg
+thumbnail: /assets/work/dibello_kristin_project3_web_thumbnail.jpg
 title: POPXPUNK
 groupmembers:
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions: print
 description: A pop punk music mag that knows what its readers want to see, offering content in the way of music news, insights on old favourites and new obsessions, reviews on everything from albums to arena tours, and hobby sessions with members of the genre’s favourite bands.
 digitallink:

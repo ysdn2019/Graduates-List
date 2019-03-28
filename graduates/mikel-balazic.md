@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/the-effects-of-digital-technology-on-Art-&-Design
 graduate: Mikel Balazic
-mainimg: /assets/work/balazic_mikel_project1_web.png
-thumbnailimg: /assets/work/balazic_mikel_project1_web.png
+cover: /assets/work/balazic_mikel_project1_web.png
+thumbnail: /assets/work/balazic_mikel_project1_web.png
 title: The Effects of Digital Technology on Art & Design
 groupmembers:
-fields: Editorial, Illustration, Print
+category: Editorial, Illustration, Print
 mediumdimensions:
 description: Digital technology has many effects on our human lives. It is another world, a new frontier in which we are still too immersed in to see with a bird's eye view. This project focuses on Digital technologies effects on Art and Design specifically.
 digitallink:

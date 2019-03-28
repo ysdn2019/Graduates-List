@@ -20,11 +20,11 @@ behance: https://www.behance.net/_aaronvince
 ---
 path: /work/A-New-Brave-New-World
 graduate: Aaron Vince
-mainimg: /assets/work/vince_aaron_project1_web_main.png
-thumbnailimg: /assets/work/vince_aaron_project1_web_thumbnail.png
+cover: /assets/work/vince_aaron_project1_web_main.png
+thumbnail: /assets/work/vince_aaron_project1_web_thumbnail.png
 title: A New Brave New World
 groupmembers:
-fields: Data Visualisation, Information Design, Interactive
+category: Data Visualisation, Information Design, Interactive
 mediumdimensions: Interactive Website
 description: What would Aldous Huxley's Brave New World contain if it were written today? This project explores what our world could look like by extrapolating current advances and challenges in automation, genetic manipulation, climate change, truth, and others.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/Castle
 graduate: Aaron Vince
-mainimg: /assets/work/vince_aaron_project2_web_main.png
-thumbnailimg: /assets/work/vince_aaron_project2_web_thumbnail.png
+cover: /assets/work/vince_aaron_project2_web_main.png
+thumbnail: /assets/work/vince_aaron_project2_web_thumbnail.png
 title: Castle
 groupmembers: Kori Skeffington, PJ Musselman
-fields: Branding, Interactive, UI/UX
+category: Branding, Interactive, UI/UX
 mediumdimensions: UI/UX App Prototype
 description: Castle is a Wi-Fi sharing app where users can connect to reliable, secure, and cost effective wi-fi or safely sell their excess home Wi-Fi to the Castle Wi-Fi Mesh Network.
 digitallink: https://www.figma.com/proto/NXqky2N3XDUMEUumLcrjLSzQ/Castle-Hi-Fi-Wireframes?node-id=321%3A1300&scaling=min-zoom&redirected=1
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Homeward
 graduate: Aaron Vince
-mainimg: /assets/work/vince_aaron_project3_web_main.png
-thumbnailimg: /assets/work/vince_aaron_project3_web_thumbnail.png
+cover: /assets/work/vince_aaron_project3_web_main.png
+thumbnail: /assets/work/vince_aaron_project3_web_thumbnail.png
 title: Homeward
 groupmembers:
-fields: Data Visualisation, Interactive, UI/UX
+category: Data Visualisation, Interactive, UI/UX
 mediumdimensions: Device and Companion App
 description: Memory loss from illnesses such as Alzheimer’s Disease (AD) and Dementia is an upcoming challenge in the medical field. One of the symptoms that patients experience is a tendency to wander from their care facilities. This device and app companion seeks to gently guide them back home quickly and safely.
 digitallink: https://sketch.cloud/s/m8Rlz

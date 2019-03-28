@@ -20,11 +20,11 @@ behance: https://www.behance.net/tabypetre2107
 ---
 path: /work/hassle-free
 graduate: Tabita Petre
-mainimg: /assets/work/petre_tabita_project1_web_main.png
-thumbnailimg: /assets/work/petre_tabita_project1_web_thumbnail.png
+cover: /assets/work/petre_tabita_project1_web_main.png
+thumbnail: /assets/work/petre_tabita_project1_web_thumbnail.png
 title: Hassle Free Clinic for Sexual Health
 groupmembers:
-fields: Branding, Typography
+category: Branding, Typography
 mediumdimensions: Brand Manual, 11x8.5in
 description: Rebranded the visual identity of a sexual health clinic in Toronto for Corporate Identity class. The aim was to make Hassle Free Clinic easily accessible online to users, and attract more donors in order to improve the services offered by the clinic by creating a lasting, personalized and distinctive brand. 
 digitallink: https://www.tabitapetre.com/hassle-free
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/tabys-travels
 graduate: Tabita Petre
-mainimg: /assets/work/petre_tabita_project2_web_main.png
-thumbnailimg: /assets/work/petre_tabita_secondary_web_thumbnail.png
+cover: /assets/work/petre_tabita_project2_web_main.png
+thumbnail: /assets/work/petre_tabita_secondary_web_thumbnail.png
 title: Taby's Travels
 groupmembers:
-fields: Book Design, Print
+category: Book Design, Print
 mediumdimensions:
 description: A book about my experiences while travelling Europe. I wrote the content, designed it, created illustrations and bound the book. The book was created in the style of a journal, inviting the reader into a stranger’s personal experiences.
 digitallink: https://www.tabitapetre.com/book-design
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/sepultura
 graduate: Tabita Petre
-mainimg: /assets/work/petre_tabita_project3_web_main.png
-thumbnailimg: /assets/work/petre_tabita_project3_web_thumbnail.png
+cover: /assets/work/petre_tabita_project3_web_main.png
+thumbnail: /assets/work/petre_tabita_project3_web_thumbnail.png
 title: Sepultura
 groupmembers:
-fields: Branding, Motion, Typography
+category: Branding, Motion, Typography
 mediumdimensions: Motion Video
 description: This project was created for a Type in Motion class. The brief was to create a promotional trailer for any festival. I chose to create a trailer for a film festival focused on psychological thriller films. The concept was to create the title name “Sepultura” spelt out of bones.
 digitallink: https://vimeo.com/244582598

@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/meetup
 graduate: Kristine Feliciano
-mainimg: /assets/work/Feliciano_Kristine_project1_web_main.jpg
-thumbnailimg: /assets/work/Feliciano_Kristine_project1_web_thumbnail.jpg
+cover: /assets/work/Feliciano_Kristine_project1_web_main.jpg
+thumbnail: /assets/work/Feliciano_Kristine_project1_web_thumbnail.jpg
 title: Meetup 
 groupmembers: 
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: iPhone iOS
 description: Meetup is a cut-to-the chase event planning iOS app for close family and friends. With GPS tracking technology, Meetup allows its hosts to pinpoint their guests location before a scheduled event, and provides in-app directions for attendees. 
 digitallink:
@@ -42,11 +42,11 @@ caption3: Users are able to control who can see their location. This feature is 
 ---
 path: /work/outcast
 graduate: Kristine Feliciano
-mainimg: /assets/work/Feliciano_Kristine_project2_web_main.jpg
-thumbnailimg: /assets/work/Feliciano_Kristine_secondary_web_thumbnail.jpg
+cover: /assets/work/Feliciano_Kristine_project2_web_main.jpg
+thumbnail: /assets/work/Feliciano_Kristine_secondary_web_thumbnail.jpg
 title: Outcast
 groupmembers:
-fields: Book Design, Editorial, Print
+category: Book Design, Editorial, Print
 mediumdimensions:  Magazine
 description: Outcast is a bilingual English-Japanese magazine that shares the trivial moments in people's lives that have shaped who they are today. 
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/natsume 
 graduate: Kristine Feliciano
-mainimg: /assets/work/Feliciano_Kristine_project3_web_main.jpg
-thumbnailimg: /assets/work/Feliciano_Kristine_project3_web_thumbnail.jpg
+cover: /assets/work/Feliciano_Kristine_project3_web_main.jpg
+thumbnail: /assets/work/Feliciano_Kristine_project3_web_thumbnail.jpg
 title: Natsume 
 groupmembers:
-fields: Editorial, Illustration, Typography
+category: Editorial, Illustration, Typography
 mediumdimensions: Typeface
 description: Natsume (なつめ) is a Japanese Hiragana Display Typeface. Literally translating to "Summer" and "Eye" Natsume is expressive, whimsical, and playful. 
 digitallink:

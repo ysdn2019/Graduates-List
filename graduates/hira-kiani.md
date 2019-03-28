@@ -20,11 +20,11 @@ behance: https://www.behance.net/hirakiani4aa8
 ---
 path: /work/artwalli
 graduate: Hira Kiani
-mainimg: /assets/work/kiani_hira_project1_web_main.jpg
-thumbnailimg: /assets/work/kiani_hira_project1_web_thumbnail.jpg
+cover: /assets/work/kiani_hira_project1_web_main.jpg
+thumbnail: /assets/work/kiani_hira_project1_web_thumbnail.jpg
 title: ArtWalli
 groupmembers:
-fields: Communication, Illustration
+category: Communication, Illustration
 mediumdimensions: Print
 description: ArtWalli is a festival geared towards South Asian women to express themselves through art. This event serves as a platform to display and sell work, as well as hold workshops and lectures that touch upon the topics of: feminism, intersectionality, LGBT, race, and sexuality from the perspective of South Asian women.
 digitallink: 
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/the-cetra
 graduate: Hira Kiani
-mainimg: /assets/kiani_hira_project2_web_main.jpg
-thumbnailimg: /assets/work/kiani_hira_project2_web_thumbnail.jpg
+cover: /assets/kiani_hira_project2_web_main.jpg
+thumbnail: /assets/work/kiani_hira_project2_web_thumbnail.jpg
 title: The Cetra
 groupmembers:
-fields: Digital, Print, UI/UX
+category: Digital, Print, UI/UX
 mediumdimensions:
 description: The Cetra is an adaptive controller created for the Nintendo Switch for users with motor impairments and/or physical hand injuries. The controller can be physically remapped as well as by a mobile app to ensure the user can experience maximum comfort and ease playing video games. 
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/jasper-dark-sky
 graduate: Hira Kiani
-mainimg: /assets/work/kiani_hira_project3_web_main.jpg
-thumbnailimg: /assets/work/kiani_hira_project3_web_thumbnail.jpg
+cover: /assets/work/kiani_hira_project3_web_main.jpg
+thumbnail: /assets/work/kiani_hira_project3_web_thumbnail.jpg
 title: Jasper Dark Sky
 groupmembers:
-fields: Communication, Print
+category: Communication, Print
 mediumdimensions:
 description: Jasper Dark Sky is an annual festival at Jasper National Park, Alberta, celebrated about the stars and beyond. This is a poster promoting the event, along with a website and an interactive poster with the minimal and clean design capturing the vast and endless universe.
 digitallink:

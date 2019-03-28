@@ -20,11 +20,11 @@ behance: https://www.behance.net/mikeelaylo
 ---
 path: /work/philbeat-overture
 graduate: Mikee Laylo
-mainimg: /assets/work/Laylo_Mikee_Project1_web-MAIN.png
-thumbnailimg: /assets/work/Laylo_Mikee_Project1_web-THUMBNAIL.png
+cover: /assets/work/Laylo_Mikee_Project1_web-MAIN.png
+thumbnail: /assets/work/Laylo_Mikee_Project1_web-THUMBNAIL.png
 title: Philbeat Overture
 groupmembers:
-fields: Communication, Interactive, Motion
+category: Communication, Interactive, Motion
 mediumdimensions: Motion Design, 1:00 min
 description: Philbeat Overture is a campaign dedicated to promoting music in the Philippines, also known as OPM (Original Pilipino Music). The campaign discusses issues surrounding Filipinos and the Filipino culture and serves a tool that will enable Filipinos from all over the world to relate and familiarize themselves with their heritage.
 digitallink: https://youtu.be/weVeogPAJBM
@@ -42,11 +42,11 @@ caption3: The website serves as a compact form of presentation of the campaign. 
 ---
 path: /work/wanderland-magic
 graduate: Mikee Laylo
-mainimg: /assets/work/Laylo_Mikee_Project2_web-MAIN.png
-thumbnailimg: /assets/work/Laylo_Mikee_secondary_web-THUMBNAIL.png
+cover: /assets/work/Laylo_Mikee_Project2_web-MAIN.png
+thumbnail: /assets/work/Laylo_Mikee_secondary_web-THUMBNAIL.png
 title: Wanderland Magic
 groupmembers:
-fields: Communication, Digital, Motion
+category: Communication, Digital, Motion
 mediumdimensions:
 description: Wanderland Magic is a celebration of music and arts and finding the mystery between creators and their craft. Through featuring local and international artists, Wanderland Magic aims to entertain and cater to an audience with a diaspora of music tastes. This project entails a recreation of an existing festival and representing it in a motion piece.
 digitallink: https://youtu.be/XXsif9KaoiM
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/luminato-festival
 graduate: Mikee Laylo
-mainimg: /assets/work/Laylo_Mikee_Project3_web-MAIN.png
-thumbnailimg: /assets/work/Laylo_Mikee_project3_web-THUMBNAIL.png
+cover: /assets/work/Laylo_Mikee_Project3_web-MAIN.png
+thumbnail: /assets/work/Laylo_Mikee_project3_web-THUMBNAIL.png
 title: Luminato Festival
 groupmembers:
-fields: Branding, Communication, Print
+category: Branding, Communication, Print
 mediumdimensions:
 description: This project entails a recreation of the Luminato Festival, one of the biggest and most prominent annual festivals in Toronto where individuals gather to promote the culture of creativity.
 digitallink: https://www.behance.net/gallery/74325735/Luminato-Festival

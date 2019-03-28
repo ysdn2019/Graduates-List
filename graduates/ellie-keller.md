@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/bio
 graduate: Ellie Keller
-mainimg: /assets/work/Keller_Ellie_project1_web_main.jpg
-thumbnailimg: /assets/work/Keller_Ellie_project1_web_thumbnail.jpg
+cover: /assets/work/Keller_Ellie_project1_web_main.jpg
+thumbnail: /assets/work/Keller_Ellie_project1_web_thumbnail.jpg
 title: Bio(me)
 groupmembers: 
-fields: Book Design, Interactive, Print
+category: Book Design, Interactive, Print
 mediumdimensions: Augmented reality book
 description: Bio(me) is an ongoing exploration of the changing definition of what it means to be human. Microscopic images of my own microbiome are juxtaposed onto parts of us that we traditionally recognize as “human” in order to challenge our sense of self. Bio(me) aims to use design to make an invisible, obscure thing—our microbiome—visual and interesting in order to bridge the gap between science, society, and culture. 
 digitallink: 
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/airloom
 graduate: Ellie Keller
-mainimg: /assets/work/Keller_Ellie_project2_web_main.jpg
-thumbnailimg: /assets/work/Keller_Ellie_project2_web_thumbnail.jpg
+cover: /assets/work/Keller_Ellie_project2_web_main.jpg
+thumbnail: /assets/work/Keller_Ellie_project2_web_thumbnail.jpg
 title: Airloom
 groupmembers: 
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions:  AR app
 description: Keepsakes and family heirlooms are often kept in order to invoke old memories and share the stories with others. We are often forced to part with objects of our past, therefore parting with the stories. Airloom is an app that allows users to 3D scan and keep special items for viewing in augmented reality. 
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/nord
 graduate: Ellie Keller
-mainimg: /assets/work/Keller_Ellie_project3_web_main.jpg
-thumbnailimg: /assets/work/Keller_Ellie_project3_web_thumbnail.jpg
+cover: /assets/work/Keller_Ellie_project3_web_main.jpg
+thumbnail: /assets/work/Keller_Ellie_project3_web_thumbnail.jpg
 title: Nord
 groupmembers: 
-fields: Branding, Digital, Motion
+category: Branding, Digital, Motion
 mediumdimensions: Motion
 description: Nord is a fictional Scandinavian design festival for architecture, industrial design, and graphic design. The video is a short teaser trailer that is meant to introduce the festival. The branding and style is heavily influenced by the simplicity, balance, and playfulness found in Nordic design.
 digitallink: https://vimeo.com/298037961

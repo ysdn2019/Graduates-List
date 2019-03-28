@@ -23,11 +23,11 @@ behance:
 ---
 path: /work/queer-street
 graduate: Joel Louzado
-mainimg: /assets/work/louzado_joel_project1_web_main.jpg
-thumbnailimg: /assets/work/louzado_joel_project1_web_thumbnail.jpg
+cover: /assets/work/louzado_joel_project1_web_main.jpg
+thumbnail: /assets/work/louzado_joel_project1_web_thumbnail.jpg
 title: Queer Street
 groupmembers:
-fields: Digital, Editorial, Print
+category: Digital, Editorial, Print
 mediumdimensions: Editorial, 6x9"
 description: Three Toronto drag queens spill the tea on what exists outside of the popular TV show, RuPaul's Drag Race. A beautifully designed editorial magazine, accompanied by an online editorial.
 digitallink:
@@ -45,11 +45,11 @@ caption3: Queen of the West End, Supreme Leader of the Gladstone.
 ---
 path: /work/flip
 graduate: Joel Louzado
-mainimg: /assets/work/louzado_joel_project2_web_main.jpg
-thumbnailimg: /assets/work/louzado_joel_project2_web_thumbnail.jpg
+cover: /assets/work/louzado_joel_project2_web_main.jpg
+thumbnail: /assets/work/louzado_joel_project2_web_thumbnail.jpg
 title: Flip 
 groupmembers:
-fields: Editorial, Print
+category: Editorial, Print
 mediumdimensions: Editorial Print, 9x12"
 description: Flip is a photographic editorial based on social issues, from more than one perspective. This first issue focuses on gender roles, and how masculinity and femininity can be both liberating and oppressive.
 digitallink:
@@ -67,11 +67,11 @@ caption3:
 ---
 path: /work/sickening
 graduate: Joel Louzado
-mainimg: /assets/work/ouzado_joel_project3_web_main.jpg
-thumbnailimg: /assets/work/louzado_joel_project3_web_thumbnail.jpg
+cover: /assets/work/ouzado_joel_project3_web_main.jpg
+thumbnail: /assets/work/louzado_joel_project3_web_thumbnail.jpg
 title: Sickening
 groupmembers:
-fields: Communication, Motion, Typography
+category: Communication, Motion, Typography
 mediumdimensions: Vimeo
 description: This motion project asked us to use expressive typography and motion graphics to scribe a scene from a piece of media. While this isn't an educational video by any means, you'll definitely walk away having learned something: never insult a drag queen.
 digitallink: https://vimeo.com/303774711

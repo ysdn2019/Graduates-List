@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/hey-love-exhibition
 graduate: Jordan Childs
-mainimg: /assets/work/childs_jordan_project1_web_main.jpg
-thumbnailimg: /assets/work/childs_jordan_project1_web_thumbnail.jpg
+cover: /assets/work/childs_jordan_project1_web_main.jpg
+thumbnail: /assets/work/childs_jordan_project1_web_thumbnail.jpg
 title: Hey Love Exhibition 
 groupmembers: Sunday Laundry - Zilin Deng and Doodler - Dre
-fields: Branding, Illustration, Typography
+category: Branding, Illustration, Typography
 mediumdimensions:
 description: For workshop I decided to break the boundaries of making an app, or a book and develop a personal brand for my style of design/art. The project consists of a web store, a gallery show, collaborations, and a clothing line.
 digitallink:
@@ -44,11 +44,11 @@ caption3: Just a collection of different pieces I did that lead to the final bra
 ---
 path: /work/luminous
 graduate: Jordan Childs
-mainimg: /assets/work/childs_jordan_project2_web_main.jpg
-thumbnailimg: /assets/work/childs_jordan_project2_web_thumbnail.jpg
+cover: /assets/work/childs_jordan_project2_web_main.jpg
+thumbnail: /assets/work/childs_jordan_project2_web_thumbnail.jpg
 title: Luminous
 groupmembers:
-fields: Illustration, Print, Typography
+category: Illustration, Print, Typography
 mediumdimensions:
 description: A font created with the characteristics of neon signs and gothic letters. After meshing the two I created a poster series that show the expression of the font, by connecting and altering the letters to make a unique harmony. 
 digitallink:
@@ -67,11 +67,11 @@ caption3: The poster is to highlight the use of the font and how creative it can
 ---
 path: /work/oh-magazine
 graduate: Jordan Childs
-mainimg: /assets/work/childs_jordan_project3_web_main.jpg
-thumbnailimg: /assets/work/childs_jordan_project3_web_thumbnail.jpg
+cover: /assets/work/childs_jordan_project3_web_main.jpg
+thumbnail: /assets/work/childs_jordan_project3_web_thumbnail.jpg
 title: Oh Magazine
 groupmembers:
-fields: Book Design, Editorial, Typography
+category: Book Design, Editorial, Typography
 mediumdimensions:
 description: The magazine is about the word “Oh," it is used to express a range of emotions. So each issue will involve a story that express multiple emotions. I decided to use my photos I took in California this summer of Salton Sea. It is a town that is abandoned and while exploring through the homes I expressed many different emotions towards the town and I thought it would be a good magazine.
 digitallink: https://jordanchilds96.wixsite.com/web-portfolio-black/oh-magazine

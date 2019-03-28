@@ -20,11 +20,11 @@ behance: https://www.behance.net/allanatabac
 ---
 path: /work/Altered-State
 graduate: Allana Tabac
-mainimg: /assets/work/tabac_allana_project1_web_main.jpg
-thumbnailimg: /assets/work/tabac_allana_project1_web_thumbnail.jpg
+cover: /assets/work/tabac_allana_project1_web_main.jpg
+thumbnail: /assets/work/tabac_allana_project1_web_thumbnail.jpg
 title: Altered State
 groupmembers:
-fields: Book Design, Print, Typography
+category: Book Design, Print, Typography
 mediumdimensions: Print, 11x17
 description: Altered State aims to present the link between consciousness and reality. The book contains a variety of original poetry and illustrations to capture the essence and randomness of the things that cannot be verified. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/Ladylike
 graduate: Allana Tabac
-mainimg: /assets/work/tabac_allana_project2_web_main.jpg
-thumbnailimg: /assets/work/tabac_allana_secondary_web_thumbnail.jpg
+cover: /assets/work/tabac_allana_project2_web_main.jpg
+thumbnail: /assets/work/tabac_allana_secondary_web_thumbnail.jpg
 title: Ladylike
 groupmembers:
-fields: Typography
+category: Typography
 mediumdimensions: Typeface
 description: Ladylike is an experimental, specialist, Latin display-face. It was created with the intention to marry the two quintessential type styles; the serif and sans-serif.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/project-name
 graduate: Allana Tabac
-mainimg: /assets/work/tabac_allana_project3_web_main.jpg
-thumbnailimg: /assets/work/tabac_allana_project3_web_thumbnail.jpg
+cover: /assets/work/tabac_allana_project3_web_main.jpg
+thumbnail: /assets/work/tabac_allana_project3_web_thumbnail.jpg
 title: BULK
 groupmembers:
-fields: Editorial, Print
+category: Editorial, Print
 mediumdimensions: Print, 8.5x11
 description: BULK is a print and digital fitness magazine focusing on the sport of weightlifting
 digitallink: https://issuu.com/allana.tabac/docs/bulkletter

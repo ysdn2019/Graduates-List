@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/oble
 graduate: Carson Young
-mainimg: /assets/work/Young_Carson_project1_web_main.png
-thumbnailimg: /assets/work/Young_Carson_project1_web_thumbnail.png
+cover: /assets/work/Young_Carson_project1_web_main.png
+thumbnail: /assets/work/Young_Carson_project1_web_thumbnail.png
 title: Oble
 groupmembers: Mohit Gupta, Zachery Eng, David Luong
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: Digital Product Design
 description: Oble is a smart inhaler and digital app designed to help ease the common issues in childhood asthma.
 digitallink: https://www.carsonyoung.ca/project/oble
@@ -42,11 +42,11 @@ caption3: The Oble companion app is designed for parents to help administer thei
 ---
 path: /work/analog
 graduate: Carson Young
-mainimg: /assets/work/Young_Carson_project2_web_main.png
-thumbnailimg: /assets/work/Young_Carson_project2_web_thumbnail.png
+cover: /assets/work/Young_Carson_project2_web_main.png
+thumbnail: /assets/work/Young_Carson_project2_web_thumbnail.png
 title: Analog
 groupmembers: 
-fields: Communication, Editorial, Print
+category: Communication, Editorial, Print
 mediumdimensions:  Print
 description: Analog is a year-long workshop series of print publications exploring and visualizing how the rapid spread of networked, digital communications technology has shifted the identity, values, and culture of post-digitalized society.
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/toolbox
 graduate: Carson Young
-mainimg: /assets/work/Young_Carson_project3_web_main.png
-thumbnailimg: /assets/work/Young_Carson_project3_web_thumbnail.png
+cover: /assets/work/Young_Carson_project3_web_main.png
+thumbnail: /assets/work/Young_Carson_project3_web_thumbnail.png
 title: Toolbox
 groupmembers: Mohit Gupta, Zhen Li
-fields: Branding, Digital, UI/UX
+category: Branding, Digital, UI/UX
 mediumdimensions:  Digital Product Design
 description: Our team was approached by the Design department at York University to create a new platform for their equipment rental program. The solution, called Toolbox, allows an easy equipment booking process for both students and staff, while creating a more informed and organized management system for administrators.
 digitallink: https://vimeo.com/262688693

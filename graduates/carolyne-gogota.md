@@ -20,11 +20,11 @@ behance: https://www.behance.net/ca-no/
 ---
 path: /work/threads
 graduate: Carolyne Gogota
-mainimg: /assets/work/gogota_carolyne_project1_web_main.png
-thumbnailimg: /assets/work/gogota_carolyne_project1_web_thumbnail.png
+cover: /assets/work/gogota_carolyne_project1_web_main.png
+thumbnail: /assets/work/gogota_carolyne_project1_web_thumbnail.png
 title: Threads
 groupmembers: 
-fields: Editorial, Illustration, Typography
+category: Editorial, Illustration, Typography
 mediumdimensions: Printed Magazine and E-Publication, 8.5" x 11"
 description: Threads provides a bridge between the world and the west as a comprehensive guide on craft and fashion. Threads simplifies complex theories and histories through infographics, meaningful illustrations, and layouts that echo the subject matter. Airy typography quietly welcomes the trust of readers while communicating a sense of empathy and acceptance.
 digitallink: 
@@ -42,11 +42,11 @@ caption3: Threads is available as a printed magazine and an e-publication.
 ---
 path: /work/Cultural-perspectives-in-design
 graduate: Carolyne Gogota
-mainimg: /assets/work/gogota_carolyne_project2_web_main.png
-thumbnailimg: /assets/work/gogota_carolyne_project2_web_thumbnail.png
+cover: /assets/work/gogota_carolyne_project2_web_main.png
+thumbnail: /assets/work/gogota_carolyne_project2_web_thumbnail.png
 title: Cultural Perspectives in Design
 groupmembers: 
-fields: Branding, Communication, Information Design
+category: Branding, Communication, Information Design
 mediumdimensions: 
 description: My thesis project explores how introducing culture-specific perspectives in post-secondary design education can aid the visual communication of junior designers in a culturally diverse society. I’m currently making deliverables for a one-day workshop that consists of a workbook, infographic, and visual exercise. Come see the finished product In Real Life!
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Nivean-slab
 graduate: Carolyne Gogota
-mainimg: /assets/work/gogota_carolyne_project3_web_main.png
-thumbnailimg: /assets/work/gogota_carolyne_project3_web_thumbnail.png
+cover: /assets/work/gogota_carolyne_project3_web_main.png
+thumbnail: /assets/work/gogota_carolyne_project3_web_thumbnail.png
 title: Nivean Slab
 groupmembers: 
-fields: Typography
+category: Typography
 mediumdimensions: Type Specimen, 5" x 4"
 description: Nivean Slab is a typeface intended for use in ski resort wayfinding systems. The name of the typeface is inspired by the word subnivean or subniveus directly translating to “under snow”.
 digitallink: 

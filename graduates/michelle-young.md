@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/tyme
 graduate: Michelle Young
-mainimg: /assets/work/young_michelle_project1_web_main.png
-thumbnailimg: /assets/work/young_michelle_project1_web_thumbnail.png
+cover: /assets/work/young_michelle_project1_web_main.png
+thumbnail: /assets/work/young_michelle_project1_web_thumbnail.png
 title: Tyme
 groupmembers:
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: Prodcut Design
 description: Tyme is a modern time capsule - an iOS based application which allows users to record their memories along with details that make the specific moment then bury them for a delightful surprise when opened.
 digitallink: https://invis.io/TSOTBMLA2J5
@@ -42,11 +42,11 @@ caption3: A notification alerts the user of the revealed memory and a personaliz
 ---
 path: /work/somnium
 graduate: Michelle Young
-mainimg: /assets/work/young_michelle_project2_web_main.png
-thumbnailimg: /assets/work/young_michelle_project2_web_thumbnail.png
+cover: /assets/work/young_michelle_project2_web_main.png
+thumbnail: /assets/work/young_michelle_project2_web_thumbnail.png
 title: Somnium
 groupmembers:
-fields: Book Design, Communication, Interactive
+category: Book Design, Communication, Interactive
 mediumdimensions: Somnium is an exhibit with an archive book and interactive applications that illustrate the process of dreams and gives a holistic view of what dreams of childhood are comprised of, how they are experienced emotionally and how they stay with us deepens their meaning and value in the visitors’ lives. 
 digitallink:
 image1: /assets/work/young_michelle_project2_web_support1.png
@@ -63,11 +63,11 @@ caption3:
 ---
 path: /work/tait-go
 graduate: Michelle Young
-mainimg: /assets/work/young_michelle_project3_web_main.png
-thumbnailimg: /assets/work/young_michelle_project3_web_thumbnail.png
+cover: /assets/work/young_michelle_project3_web_main.png
+thumbnail: /assets/work/young_michelle_project3_web_thumbnail.png
 title: TaitGo
 groupmembers: Lara Calucag and Katreena Dalisay
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: Product Design
 description: TaitGO is an interactive app that enhances the fitness experience at the Tait Mckenzie Fitness Centre at York University. It uses gamification to create a fun experience, provides users with centre related information such as schedules of activities available and personal trackings like goals and health analytics.
 digitallink: https://vimeo.com/246687517

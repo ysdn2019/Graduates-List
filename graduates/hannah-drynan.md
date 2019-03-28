@@ -20,11 +20,11 @@ behance: https://www.behance.net/drynan
 ---
 path: /work/Interdisciplinary-Research-Practical-Handbook
 graduate: Hannah Drynan
-mainimg: /assets/work/Drynan_Hannah_project1_web_main.jpg
-thumbnailimg: /assets/work/Drynan_Hannah_project1_web_thumbnail_portrait.jpg
+cover: /assets/work/Drynan_Hannah_project1_web_main.jpg
+thumbnail: /assets/work/Drynan_Hannah_project1_web_thumbnail_portrait.jpg
 title: Interdisciplinary Research Practical Handbook & Case Study 
 groupmembers: 
-fields: Book Design, Environmental, Information Design
+category: Book Design, Environmental, Information Design
 mediumdimensions: Books, Editorial 
 description: The Interdisciplinary Research Practical Handbook is designed as a resource for both students and teachers. The book describes what interdisciplinary research is and why it is so important. The case study books are used to show real life teams that used interdisciplinary research to come up with a solution to a large problem.
 digitallink: 
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/nasa-app-redesign
 graduate: Hannah Drynan
-mainimg: /assets/work/Drynan_Hannah_project2_web_main.jpg
-thumbnailimg: /assets/work/Drynan_Hannah_project2_web_thumbnail-portrait.jpg
+cover: /assets/work/Drynan_Hannah_project2_web_main.jpg
+thumbnail: /assets/work/Drynan_Hannah_project2_web_thumbnail-portrait.jpg
 title: NASA App Redesign
 groupmembers: 
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions:  Interactive Design
 description: This project was designed for my Advanced Topics of Interactivity course. The goal for this project was to take the information from the existing NASA app and create my own version of it. I wanted to create a more visually appealing, organized and user friendly app.
 digitallink: 
@@ -64,11 +64,11 @@ caption3: This is where you can swipe through the planets and get more informati
 ---
 path: /work/cash-crop
 graduate: Hannah Drynan
-mainimg: /assets/work/Drynan_Hannah_project3_web_main.jpg
-thumbnailimg: /assets/work/Drynan_Hannah_project3_web_thumbnail-square.jpg
+cover: /assets/work/Drynan_Hannah_project3_web_main.jpg
+thumbnail: /assets/work/Drynan_Hannah_project3_web_thumbnail-square.jpg
 title: Cash Crop
 groupmembers: 
-fields: Data Visualisation, Environmental, Information Design
+category: Data Visualisation, Environmental, Information Design
 mediumdimensions: Interactivity 
 description: This project was completed for my Information Narrative class. The goal for this project was to visually show a problem through information graphics. The project began by finding a research topic, finding a target audience to distribute this information to and coming up with a way to share this problem visually. 
 digitallink: https://vimeo.com/252568177

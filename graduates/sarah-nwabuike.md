@@ -20,11 +20,11 @@ behance: https://www.behance.net/nwabuike5b82
 ---
 path: /work/fro-magazine
 graduate: Sarah Nwabuike
-mainimg: /assets/work/Nwabuike_Sarah_project1_web_main.png
-thumbnailimg: /assets/work/Nwabuike_Sarah_project1_web_thumbnail.png
+cover: /assets/work/Nwabuike_Sarah_project1_web_main.png
+thumbnail: /assets/work/Nwabuike_Sarah_project1_web_thumbnail.png
 title: FRO Magazine
 groupmembers:
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions: Print, 8x10inches
 description: Black hair is more than just hair. It's political, cultural and a tool of social change. The Fro aims to help young black women rediscover black identity through embracing their natural hair. Every page is designed to provide information and inspiration.
 digitallink:
@@ -42,11 +42,11 @@ caption3: Photographs by Fredamily and Audrey M Jackson.
 ---
 path: /work/kosi
 graduate: Sarah Nwabuike
-mainimg: /assets/work/Nwabuike_Sarah_project2_web_main.png
-thumbnailimg: /assets/work/Nwabuike_Sarah_secondary_web_thumbnail.png
+cover: /assets/work/Nwabuike_Sarah_project2_web_main.png
+thumbnail: /assets/work/Nwabuike_Sarah_secondary_web_thumbnail.png
 title: Kosi goes to the salon
 groupmembers:
-fields: Book Design, Illustration, Print
+category: Book Design, Illustration, Print
 mediumdimensions: Print, 5x9 inches
 description: Kosi goes to the salon, is a children's book about a young girl learning to love herself through a trip to the salon. All illustrations are original. 
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/wazobia-music-festival
 graduate: Sarah Nwabuike
-mainimg: /assets/work/Nwabuike_Sarah_project3_web_main.png
-thumbnailimg: /assets/work/Nwabuike_Sarah_project3_web_thumbnail.png
+cover: /assets/work/Nwabuike_Sarah_project3_web_main.png
+thumbnail: /assets/work/Nwabuike_Sarah_project3_web_thumbnail.png
 title: Wazobia Music Festival
 groupmembers:
-fields: Branding, Communication, Print
+category: Branding, Communication, Print
 mediumdimensions: Print
 description: This rebrand of Afrofest was designed to effectively convey the vibrancy and excitement of the music festival. The name of the festival was changed to Wazobia, meaning to come, in order to give the festival originality. The design intention for this rebrand was to emulate the energy and liveliness of African music and culture.  
 digitallink:

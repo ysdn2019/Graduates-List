@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/the-maryland-flag
 graduate: Oliver Gravestock
-mainimg: /assets/work/gravestock_oliver_project1_web_main.jpg
-thumbnailimg: /assets/gravestock_oliver_project1_web_thumbnail.jpg
+cover: /assets/work/gravestock_oliver_project1_web_main.jpg
+thumbnail: /assets/gravestock_oliver_project1_web_thumbnail.jpg
 title: The Maryland Flag
 groupmembers:
-fields: Digital, Motion, Typography
+category: Digital, Motion, Typography
 mediumdimensions: Video, 1920 x 1080px
 description: The Maryland Flag is a kinetic typography piece that explores the relationship between the spoken word and typographic animation. Its goal is to minimise the dissonance present when rendering speech and motion typography simultaneously. The piece achieves this through animating each syllable separately and including spoken errors.
 digitallink: https://vimeo.com/255335875
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/cordyceps
 graduate: Oliver Gravestock
-mainimg: /assets/work/gravestock_oliver_project2_web_main.jpg
-thumbnailimg: /assets/gravestock_oliver_secondary_web_thumbnail.jpg
+cover: /assets/work/gravestock_oliver_project2_web_main.jpg
+thumbnail: /assets/gravestock_oliver_secondary_web_thumbnail.jpg
 title: Cordyceps
 groupmembers:
-fields: Digital, Motion
+category: Digital, Motion
 mediumdimensions: Video, 1920 x 1080px
 description: Cordyceps is an alternate title sequence for the computer game, The Last of Us. Its goal is to allow the player to reflect on a harrowing in-game film that plays just before the title sequence. This is achieved through a slow pace and solemn music.
 digitallink: https://vimeo.com/255687964
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/i-remember
 graduate: Oliver Gravestock
-mainimg: /assets/work/gravestock_oliver_project3_web_main.jpg
-thumbnailimg: /assets/gravestock_oliver_project3_web_thumbnail.jpg
+cover: /assets/work/gravestock_oliver_project3_web_main.jpg
+thumbnail: /assets/gravestock_oliver_project3_web_thumbnail.jpg
 title: I Remember
 groupmembers:
-fields: Print, Typography
+category: Print, Typography
 mediumdimensions: Print Poster, 11" x 17"
 description: I Remember is a lyric poster that embodies the designer’s interpretation of the music piece. Gravestock interpreted the lyrics as a person thinking back on a catastrophic event in which a governing force would broadcast messages that would attempt to put the population at ease.
 digitallink: https://vimeo.com/255687964

@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/luka-streetwear
 graduate: Malak S. Mahmoud
-mainimg: /assets/work/Sameh_Malak_project1_Web_main.png
-thumbnailimg: /assets/work/Sameh_Malak_project1_Web_thumbnail.lnk
+cover: /assets/work/Sameh_Malak_project1_Web_main.png
+thumbnail: /assets/work/Sameh_Malak_project1_Web_thumbnail.lnk
 title: Luka Streetwear
 groupmembers:
-fields: Branding, Editorial, Packaging
+category: Branding, Editorial, Packaging
 mediumdimensions:
 description: Luka Streetwear is a self-initiated brand. She used her nickname as an inspiration to the brand name, in which it defines light. Since it is a streetwear brand, it is intended for a younger audience that likes to stay up to date with fashion and explore different ways of expression.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/frank-gehry
 graduate: Malak S. Mahmoud
-mainimg: /assets/work/Sameh_Malak_project2_web_main.png
-thumbnailimg: /assets/work/Sameh_Malak_secondary_web_thumbnail.png
+cover: /assets/work/Sameh_Malak_project2_web_main.png
+thumbnail: /assets/work/Sameh_Malak_secondary_web_thumbnail.png
 title: Frank Gehry
 groupmembers:
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions:
 description: A booklet about the personal and career life of Frank Gehry: one of the most important architects of our age. It also showcases his earlier work as a furniture designer, as well as his most famous buildings.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/TIFF-the-next-wave
 graduate: Malak S. Mahmoud
-mainimg: /assets/work/Sameh_Malak_project3_web_main.png
-thumbnailimg: /assets/work/Sameh_Malak_project3_web_thumbnail.png
+cover: /assets/work/Sameh_Malak_project3_web_main.png
+thumbnail: /assets/work/Sameh_Malak_project3_web_thumbnail.png
 title: TIFF The Next Wave
 groupmembers:
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions:
 description: For this project, we were assigned to create a promotional booklet based on a real event happening in Toronto in which we had to draw inspiration from project 1, which it was an experimental quote poster from Frida Kahlo.
 buildings.

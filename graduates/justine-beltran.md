@@ -21,11 +21,11 @@ facebook: https://www.facebook.com/jbdesignsplus/
 ---
 path: /work/prosper-the-student-guide
 graduate: Justine Beltran
-mainimg: /assets/work/Beltran_Justine_project1_web_main.png
-thumbnailimg: /assets/work/Beltran_Justine_project1_web_thumbnail.png
+cover: /assets/work/Beltran_Justine_project1_web_main.png
+thumbnail: /assets/work/Beltran_Justine_project1_web_thumbnail.png
 title: Prosper: The Student Guide
 groupmembers:
-fields: Editorial, Print
+category: Editorial, Print
 mediumdimensions: print, 8.5x11
 description: Prosper is the ultimate student guide with words of wisdom for struggling college students. A monthly magazine covering the educational and social issues of the typical post secondary student.
 digitallink:
@@ -43,11 +43,11 @@ caption3:
 ---
 path: /work/cs-records
 graduate: Justine Beltran
-mainimg: /assets/work/Beltran_Justine_project2_web_main.png
-thumbnailimg: /assets/work/Beltran_Justine_project2_web_thumbnail.png
+cover: /assets/work/Beltran_Justine_project2_web_main.png
+thumbnail: /assets/work/Beltran_Justine_project2_web_thumbnail.png
 title: CS Records 
 groupmembers:
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions: vinyl prints
 description: Designing these vinyls came at a time when these ancient discs were starting to make a comeback. In anticipation of new music from a popular music artist, these designs came from love and passion for the arts.
 digitallink:
@@ -65,11 +65,11 @@ caption3:
 ---
 path: /work/musical-brand-identity-anastasia
 graduate: Justine Beltran
-mainimg: /assets/work/Beltran_Justine_project3_web_main.png
-thumbnailimg: /assets/work/Beltran_Justine_project3_web_thumbnail.png
+cover: /assets/work/Beltran_Justine_project3_web_main.png
+thumbnail: /assets/work/Beltran_Justine_project3_web_thumbnail.png
 title: Musical Brand Identity: Anastasia
 groupmembers:
-fields: Branding, Illustration, Print
+category: Branding, Illustration, Print
 mediumdimensions:
 description: A new image for a fresh face. Anastasia's brand represents her and pushes her music in our ears. A clean and edgy image for the 2019 indie community.
 digitallink:

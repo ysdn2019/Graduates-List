@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/constructing-conscious 
 graduate: Kiana Shavalier
-mainimg: /assets/work/shavalier_kiana_project1_web_main.jpg
-thumbnailimg: /assets/work/shavalier_kiana_project1_web_thumbnail.jpg
+cover: /assets/work/shavalier_kiana_project1_web_main.jpg
+thumbnail: /assets/work/shavalier_kiana_project1_web_thumbnail.jpg
 title: Constructing Conscious 
 groupmembers:
-fields: Communication, Editorial, Environmental
+category: Communication, Editorial, Environmental
 mediumdimensions: environmental/print
 description: For my senior capstone project, I chose to explore the question: “How can cognitive biases be materialized through design?” I created a fake gallery exhibition using an optical illusion to demonstrate the brain's automatic processes and the connotations of them in the context of discrimination.
 digitallink:
@@ -42,11 +42,11 @@ caption3: I created a gallery guide to go along with the exhibition. In includes
 ---
 path: /work/les-grands-feux-loto-quebec
 graduate: Kiana Shavalier
-mainimg: /assets/work/shavalier_kiana_project2_web_main.jpg
-thumbnailimg: /assets/work/shavalier_kiana_secondary_web_thumbnail.jpg
+cover: /assets/work/shavalier_kiana_project2_web_main.jpg
+thumbnail: /assets/work/shavalier_kiana_secondary_web_thumbnail.jpg
 title: Les Grands Feux Loto-Quebec
 groupmembers:
-fields: Branding, Communication, Print
+category: Branding, Communication, Print
 mediumdimensions:  branding
 description: Les Grands Feux Loto-Québec, is a fireworks festival that occurs annually in Quebec City on the St. Lawrence River. Les Grands Feux still attracts thousands of people a year to Quebec’s capital for a free festival that blends music and pyrotechnics together into 6 beautiful nights of light and sound.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/the-first-day-of-the-rest-of-your-life
 graduate: Kiana Shavalier
-mainimg: /assets/work/shavalier_kiana_project3_web_main.jpg
-thumbnailimg: /assets/work/shavalier_kiana_project3_web_thumbnail.jpg
+cover: /assets/work/shavalier_kiana_project3_web_main.jpg
+thumbnail: /assets/work/shavalier_kiana_project3_web_thumbnail.jpg
 title: The First Day of the Rest of Your Life
 groupmembers:
-fields: Book Design, Interactive, Print
+category: Book Design, Interactive, Print
 mediumdimensions: book, 5 1/4in by 7 1/4in
 description: This project is currently a work-in-progress. The First Day is a Select-Your-Own-Story book that employs design to manipulate your experience as you choose your way through the story. The book accompanies my other project in attempting to visualize cognitive biases with design. (The most updated version is on my site!)
 digitallink:

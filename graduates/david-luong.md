@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/oble
 graduate: David Luong
-mainimg: /assets/work/Luong_David_project1_web_main.png
-thumbnailimg: /assets/work/Luong_David_project1_web_thumbnail.png
+cover: /assets/work/Luong_David_project1_web_main.png
+thumbnail: /assets/work/Luong_David_project1_web_thumbnail.png
 title: Oble
 groupmembers: Mohit Gupta, Carson Young, Zachery Eng
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: Product Design
 description: Oble is a conceptual smart inhaler designed to ease the intake of medicine for children and help parents easily manage their symptoms with an accompanying mobile application.
 digitallink: https://davidlng.com/oble
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/hack-the-sprint
 graduate: David Luong
-mainimg: /assets/work/Luong_David_project2_web_main.png
-thumbnailimg: /assets/work/Luong_David_secondary_web_thumbnail.png
+cover: /assets/work/Luong_David_project2_web_main.png
+thumbnail: /assets/work/Luong_David_secondary_web_thumbnail.png
 title: Hack the Sprint Entrepreneurship Workshop
 groupmembers: 
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions:  Interactive
 description: Hacking the sprint is a 4 hour entrepreneurial workshop that familiarizes participants with entrepreneurial thinking via a sequential set of exercises. The workshop itself is hosted across different post secondary institutions throughout the year with the intention to help students recognize opportunity and entrepreneurial practices.
 digitallink: https://davidlng.com/hacking-the-sprint
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/linkedin-personalized-feeds
 graduate: David Luong
-mainimg: /assets/work/Luong_David_project3_web_main.png
-thumbnailimg: /assets/work/Luong_David_project3_web_thumbnail.png
+cover: /assets/work/Luong_David_project3_web_main.png
+thumbnail: /assets/work/Luong_David_project3_web_thumbnail.png
 title: LinkedIn Personalized Feeds & Saved Posts
 groupmembers: 
-fields: Digital, UI/UX
+category: Digital, UI/UX
 mediumdimensions:  Product Design
 description: This project explores the potential products that could be implemented into the LinkedIn platform. Currently, I am examining the possibilities of personalized feeds and the ability to save individual posts. The full project is still a work in progress but please visit my website at www.davidlng.com for updates!
 digitallink: https://davidlng.com/linkedin-proposition

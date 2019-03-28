@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/soh
 graduate: Sofia Severino Paris
-mainimg: /assets/work/SeverinoParis_Sofia_project1_web_main.png
-thumbnailimg: /assets/work/SeverinoParis_Sofia_project1_web_thumbnail.png
+cover: /assets/work/SeverinoParis_Sofia_project1_web_main.png
+thumbnail: /assets/work/SeverinoParis_Sofia_project1_web_thumbnail.png
 title: SOH (Signs of Healing)
 groupmembers:
-fields: Packaging
+category: Packaging
 mediumdimensions:
 description: SOH (Signs of Healing) is a package for those that are interested in learning more about their sign and how to incorporate beneficial items into their daily lives. It includes crystals, stones and essential oils.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/gem-nails
 graduate: Sofia Severino Paris
-mainimg: /assets/work/SeverinoParis_Sofia_project2_web_main.png
-thumbnailimg: /assets/work/SeverinoParis_Sofia_project2_web_thumbnail.png
+cover: /assets/work/SeverinoParis_Sofia_project2_web_main.png
+thumbnail: /assets/work/SeverinoParis_Sofia_project2_web_thumbnail.png
 title: Gem Nails
 groupmembers:
-fields: Branding, Packaging
+category: Branding, Packaging
 mediumdimensions:
 description: The product design of Gem Nails is inspired by art that is collected from consumers. People can send in their art and concepts and Gem Nails will use it as part of the product’s design which then creates an interactive connection with consumers and a “one of a kind” feel to the product itself. In the end, a Gem Nails product would contain a nail polish bottle inside the packaging while the outside is a piece of art inspired by/ that incorporates a consumer’s submission.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/intention
 graduate: Sofia Severino Paris
-mainimg: /assets/work/SeverinoParis_Sofia_project3_web_main.png
-thumbnailimg: /assets/work/SeverinoParis_Sofia_project3_web_thumbnail.png
+cover: /assets/work/SeverinoParis_Sofia_project3_web_main.png
+thumbnail: /assets/work/SeverinoParis_Sofia_project3_web_thumbnail.png
 title: Intention 
 groupmembers:
-fields: Communication, Interactive
+category: Communication, Interactive
 mediumdimensions: Installation
 description: The installation Intention was created for the new garden space at Sheridan College at Trafalgar. The final product is a model of what the full-size piece could look like. In this project, I had plenty of creative liberties, as long as I was able to laser print my model.
 digitallink:

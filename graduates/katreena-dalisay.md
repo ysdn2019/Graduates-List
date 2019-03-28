@@ -21,11 +21,11 @@ vimeo: https://vimeo.com/kdalisay
 ---
 path: /work/jammin
 graduate: Katreena Dalisay
-mainimg: /assets/work/dalisay_katreena_project1_web_main.jpg
-thumbnailimg: /assets/work/dalisay_katreena_project1_web_thumbnail.jpg
+cover: /assets/work/dalisay_katreena_project1_web_main.jpg
+thumbnail: /assets/work/dalisay_katreena_project1_web_thumbnail.jpg
 title: jammin' 
 groupmembers:
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: UI/UX
 description: jammin’ is a karaoke product and mobile application that rethinks the traditional karaoke experience to create a more conventional, flexible, and engaging experience. With seamless synchronization of the mobile application and a casting screen, everyone can have their turn at the microphone while having access to all songs and features.
 digitallink:
@@ -43,11 +43,11 @@ caption3: jammin’ incorporates a gamification aspect to the karaoke experience
 ---
 path: /work/re-mark
 graduate: Katreena Dalisay
-mainimg: /assets/work/dalisay_katreena_project2_web_main.jpg
-thumbnailimg: /assets/work/dalisay_katreena_secondary_web_thumbnail.jpg
+cover: /assets/work/dalisay_katreena_project2_web_main.jpg
+thumbnail: /assets/work/dalisay_katreena_secondary_web_thumbnail.jpg
 title: Re-mark
 groupmembers:
-fields: Branding, Digital, Typography
+category: Branding, Digital, Typography
 mediumdimensions: Print & Digital
 description: Re-mark is a lettering and cursive brand that addresses the decline in cursive, especially as schools are cutting it out of their curriculum. Despite the rapid advancement of technology, Re-mark looks at cursive as still valuable. Through Re-mark’s products, the mission is to re-spark the value of cursive today.
 digitallink: https://vimeo.com/316451452
@@ -65,11 +65,11 @@ caption3: A few other products that Re-mark holds are stickers and posters. Stic
 ---
 path: /work/flux
 graduate: Katreena Dalisay
-mainimg: /assets/work/dalisay_katreena_project3_web_main.jpg
-thumbnailimg: /assets/work/dalisay_katreena_project3_web_thumbnail.jpg
+cover: /assets/work/dalisay_katreena_project3_web_main.jpg
+thumbnail: /assets/work/dalisay_katreena_project3_web_thumbnail.jpg
 title: Flux 
 groupmembers:
-fields: Typography
+category: Typography
 mediumdimensions: Print & Digital
 description: Flux is a custom typeface created from brushstrokes of a marker. Deriving from the definition of “flux”, the typeface resembles the action of flowing with its loose, organic strokes. Due to continuous change of “flux”, the typeface characters can be interchangeably used to form a natural and organic written look.
 digitallink:

@@ -20,11 +20,11 @@ behance: https://www.behance.net/chanvc
 ---
 path: /work/nin-jiom
 graduate: Vincci Chan
-mainimg: /assets/work/Chan_Vincci_project1_web_main.jpg
-thumbnailimg: /assets/work/Chan_Vincci_project1_web_thumbnail.jpg
+cover: /assets/work/Chan_Vincci_project1_web_main.jpg
+thumbnail: /assets/work/Chan_Vincci_project1_web_thumbnail.jpg
 title: Nin Jiom Herbal Syrup Rebranding
 groupmembers:
-fields: Branding, Packaging, Print
+category: Branding, Packaging, Print
 mediumdimensions: Package Design, 12x14x19 cm
 description: A evolutional package design for a traditional Chinese herbal cough syrup, named Nin Jiom (念慈菴), which needs to rebrand and expand the market in the West with a different approach and direction.
 digitallink: https://youtu.be/N9gnSrlmabI
@@ -42,11 +42,11 @@ caption3: To rebrand and expand the market in the West, this new design takes a 
 ---
 path: /work/ccdf
 graduate: Vincci Chan
-mainimg: /assets/work/Chan_Vincci_project2_web_main.jpg
-thumbnailimg: /assets/work/Chan_Vincci_project2_web_thumbnail.jpg
+cover: /assets/work/Chan_Vincci_project2_web_main.jpg
+thumbnail: /assets/work/Chan_Vincci_project2_web_thumbnail.jpg
 title: Canadian Children Diabetes Foundation - CCDF
 groupmembers:
-fields: Branding, Book Design, Print
+category: Branding, Book Design, Print
 mediumdimensions:
 description: Canadian Children Diabetes Foundation (CCDF) is a new and non-profit foundation for children diagnosed with diabetes. CCDF records the blood sugar levels of these children with accuracy and care. It aims to help diabetic children and their families to live a better life. 
 digitallink: https://vimeo.com/302937779
@@ -64,11 +64,11 @@ caption3: Understanding parents worry about their children with diabetes starts 
 ---
 path: /work/buddy
 graduate: Vincci Chan
-mainimg: /assets/work/Chan_Vincci_project3_web_main.png
-thumbnailimg: /assets/work/Chan_Vincci_project3_web_thumbnail.png
+cover: /assets/work/Chan_Vincci_project3_web_main.png
+thumbnail: /assets/work/Chan_Vincci_project3_web_thumbnail.png
 title: Buddy - Animal Therapy Service App
 groupmembers:
-fields: Branding, Digital, UI/UX
+category: Branding, Digital, UI/UX
 mediumdimensions:
 description: Buddy is an app that provides assisted-animal therapy service at the user’s home instead of going out. It allows users to make appointments and receive intimate and insightful recommendations from their closest social network. The service helps the user regain their confidence and communications.
 digitallink:

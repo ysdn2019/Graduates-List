@@ -20,11 +20,11 @@ behance: https://www.behance.net/jacobtarde54
 ---
 path: /work/selwyn-condensed
 graduate: Taryn Jacobs
-mainimg: /assets/work/jacobs_taryn_project1_web_main.jpg
-thumbnailimg: /assets/work/jacobs_taryn_project1_web_thumbnail.jpg
+cover: /assets/work/jacobs_taryn_project1_web_main.jpg
+thumbnail: /assets/work/jacobs_taryn_project1_web_thumbnail.jpg
 title: Selwyn Condensed
 groupmembers:
-fields: Editorial, Environmental, Typography
+category: Editorial, Environmental, Typography
 mediumdimensions:
 description: Selwyn Condensed is a typeface designed to be used in the wayfinding and environmental branding at the Trent University Student Recreational Centre. The form of the letters takes inspiration from the forest which surrounds the Peterborough campus; as well as the spirit and athleticism of the building and students.
 digitallink:
@@ -42,11 +42,11 @@ caption3: Selwyn Condensed has been designed to incorporate the natural environm
 ---
 path: /work/along-the-river
 graduate: Taryn Jacobs
-mainimg: /assets/work/jacobs_taryn_project2_web_main.jpg
-thumbnailimg: /assets/work/jacobs_taryn_project2_web_thumbnail.jpg
+cover: /assets/work/jacobs_taryn_project2_web_main.jpg
+thumbnail: /assets/work/jacobs_taryn_project2_web_thumbnail.jpg
 title: Along the River
 groupmembers:
-fields: Book Design
+category: Book Design
 mediumdimensions:
 description: Along the River is an explorative book which acts as a photo essay/place study of Erindale Park, Mississauga. The physical form of the book is based off the content. The relationship between these creates a unique sense of place for the reader.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/dawson-city-music-festival
 graduate: Taryn Jacobs
-mainimg: /assets/work/jacobs_taryn_project3_web_main.jpg
-thumbnailimg: /assets/work/jacobs_taryn_project3_web_thumbnail.jpg
+cover: /assets/work/jacobs_taryn_project3_web_main.jpg
+thumbnail: /assets/work/jacobs_taryn_project3_web_thumbnail.jpg
 title: Dawson City Music Festival
 groupmembers:
-fields: Branding, Communication
+category: Branding, Communication
 mediumdimensions:
 description: The Dawson City Music Festival is “Canada’s tiny, perfect festival”. It is a humble, grassroots event that is all things canadiana. The brand communicates with hand-made authenticity while maintaining a design that can be mass-produced. 
 digitallink:

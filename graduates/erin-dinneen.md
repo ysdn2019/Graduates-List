@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/posthuman
 graduate: Erin Dinneen
-mainimg: /assets/work/Dinneen_Erin_project1_web_main.png
-thumbnailimg: /assets/work/Dinneen_Erin_project1_web_thumbnail.png
+cover: /assets/work/Dinneen_Erin_project1_web_main.png
+thumbnail: /assets/work/Dinneen_Erin_project1_web_thumbnail.png
 title: Posthuman
 groupmembers: 
-fields: Print, Typography
+category: Print, Typography
 mediumdimensions: Typeface Design, 18" x 27" each
 description: A custom typeface evoking the contrast and harmonious union of the technological and the biological, as sharp lines transition into curves. Posthuman draws inspiration from the typography used on the covers of many 1970’s science-fiction films and novels, paying homage to these sources while modernizing a retro aesthetic.
 digitallink: 
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/sector-magazine
 graduate: Erin Dinneen
-mainimg: /assets/work/Dinneen_Erin_project2_web_main.png
-thumbnailimg: /assets/work/Dinneen_Erin_project2_web_thumbnail.png
+cover: /assets/work/Dinneen_Erin_project2_web_main.png
+thumbnail: /assets/work/Dinneen_Erin_project2_web_thumbnail.png
 title: Sector Magazine
 groupmembers: 
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions:  Editorial Design, 6.5" x 8"
 description: A print publication seeking to engage readers in various perspectives of thought to broaden their understanding of science fiction’s most enduring question: What does it mean to be human? Sector 01 investigates the theme of autonomy as it relates to artificial intelligence, autonomous vehicles, questions of free will, and more.
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/what-is-this
 graduate: Erin Dinneen
-mainimg: /assets/work/Dinneen_Erin_project3_main.png
-thumbnailimg:
+cover: /assets/work/Dinneen_Erin_project3_main.png
+thumbnail:
 title: What Is This?
 groupmembers: 
-fields: Packaging, Print, Typography
+category: Packaging, Print, Typography
 mediumdimensions: Packaging and Typeface Design
 description: A game for the facilitation and examination of meaning-making. What Is This? asks participants to interpret meaning into shapes randomly generated through the stacking of plexiglass cards etched with bitmap images. These interpretations lead the participant to ask: If what we perceive isn’t inherent to reality, then what is reality, really?
 digitallink: 

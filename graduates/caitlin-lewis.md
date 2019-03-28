@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/Natural
 graduate: Caitlin Lewis
-mainimg: /assets/work/lewis_caitlin_project1_web_main.png
-thumbnailimg: /assets/work/lewis_caitlin_project1_web_thumbnail.png
+cover: /assets/work/lewis_caitlin_project1_web_main.png
+thumbnail: /assets/work/lewis_caitlin_project1_web_thumbnail.png
 title: Natural
 groupmembers:
-fields: Interactive, Motion, UI/UX
+category: Interactive, Motion, UI/UX
 mediumdimensions: iOS App, iPhone X
 description: Natural is a content-based language learning app that houses a hub of content from different languages around the world. Research has shown that an immersive language experience is the best way to learn a language but for those who can’t afford classes or travelling to the country, this app provides the immersion without the big budget.
 digitallink: https://caitlinmlewis.com/natural
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/Seat
 graduate: Caitlin Lewis
-mainimg: /assets/work/lewis_caitlin_project2_web_main.png
-thumbnailimg: /assets/work/lewis_caitlin_project2_web_thumbnail.png
+cover: /assets/work/lewis_caitlin_project2_web_main.png
+thumbnail: /assets/work/lewis_caitlin_project2_web_thumbnail.png
 title: Seat
 groupmembers: Mirabelle Wang, Livia Widjaja and Anna Bacani
-fields: Data Visualisation, Interactive, UI/UX
+category: Data Visualisation, Interactive, UI/UX
 mediumdimensions: iOS App, iPhone 6/7/8
 description: Seat is a mobile app that allows young professionals and/or students to find and book a seat in any place they want to work. This app helps the users find their best-suited workspace and increase productivity where they’re guaranteed a seat so that they don’t waste time on trying to find a seat without the app.
 digitallink: https://caitlinmlewis.com/seat
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Butterfly
 graduate: Caitlin Lewis
-mainimg: /assets/work/lewis_caitlin_project3_web_main.png
-thumbnailimg: /assets/work/lewis_caitlin_project3_web_thumbnail.png
+cover: /assets/work/lewis_caitlin_project3_web_main.png
+thumbnail: /assets/work/lewis_caitlin_project3_web_thumbnail.png
 title: Butterfly
 groupmembers:
-fields: Data Visualisation, Digital, Motion
+category: Data Visualisation, Digital, Motion
 mediumdimensions: Video
 description: Butterfly is an experimental data visualization. Focusing on the butterfly effect, the visualization evolves based off of the choices I made in creation of it as an ever-changing composition. The word “butterfly” is used to affect the composition in order to examine visualizing soft data.
 digitallink: https://caitlinmlewis.com/butterfly

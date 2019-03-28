@@ -20,11 +20,11 @@ behance: https://www.behance.net/zacheryeng
 ---
 path: /work/non-verbal-communication
 graduate: Zachery Eng
-mainimg: /assets/work/eng_zachery_nonverbal_main.jpg
-thumbnailimg: /assets/work/eng_zachery_nonverbal_web_thumbnail.jpg
+cover: /assets/work/eng_zachery_nonverbal_main.jpg
+thumbnail: /assets/work/eng_zachery_nonverbal_web_thumbnail.jpg
 title: Non-verbal Communication
 groupmembers:
-fields: Communication, Environmental, Interactive
+category: Communication, Environmental, Interactive
 mediumdimensions:
 description: Non-verbal communication is defined as any behavior—voluntary or involuntary, aside from words themselves that pass on any meaning. This project explores the effects of our behavior and actions, and examines the emotional and physical impact that it has on another. The full case study will be available at zacheryeng.com.
 digitallink: http://zacheryeng.com/
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/oble
 graduate: Zachery Eng
-mainimg: /assets/work/eng_zachery_oble_web_main.png
-thumbnailimg: /assets/work/eng_zachery_oble_web_thumbnail.png
+cover: /assets/work/eng_zachery_oble_web_main.png
+thumbnail: /assets/work/eng_zachery_oble_web_thumbnail.png
 title: Oble
 groupmembers: Mohit Gupta, Carson Young, David Luong
-fields: Branding, Interactive, UI/UX
+category: Branding, Interactive, UI/UX
 mediumdimensions:
 description: Oble is speculative smart inhaler designed for childhood asthma that is friendly,  and easy-to-use that empowers confidence in children to regularly take their medications, while helping parents with managing their kid's asthma on an everyday basis. The full case study will be available at zacheryeng.com.
 digitallink: http://zacheryeng.com/pages/oble.html
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/sleep-deprivation
 graduate: Zachery Eng
-mainimg: /assets/work/eng_zachery_sleep_web_main.jpg
-thumbnailimg: /assets/work/eng_zachery_sleep_web_thumbnail.jpg
+cover: /assets/work/eng_zachery_sleep_web_main.jpg
+thumbnail: /assets/work/eng_zachery_sleep_web_thumbnail.jpg
 title: Sleep Deprivation
 groupmembers:
-fields: Data Visualisation, Print, UI/UX
+category: Data Visualisation, Print, UI/UX
 mediumdimensions: Print, 22 x 36 inches unfolded and 8 x 11 inches folded
 description: To bring awareness to the problem of sleep deprivation, a printed pamphlet and interactive website were chosen to spread the word. The pamphlet allows for easy accessibility, while the digital website is built for deeper analysis into the problem. The full case study will be available at zacheryeng.com.
 digitallink: http://zacheryeng.com/pages/sleep.html

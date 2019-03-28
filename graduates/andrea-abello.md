@@ -20,11 +20,11 @@ behance: https://www.behance.net/aabello
 ---
 path: /work/tahi
 graduate: Andrea Abello
-mainimg: /assets/work/bello_andrea_project1_web_main.png
-thumbnailimg: /assets/work/abello_andrea_project1_web_main_thumbnail.png
+cover: /assets/work/bello_andrea_project1_web_main.png
+thumbnail: /assets/work/abello_andrea_project1_web_main_thumbnail.png
 title: tahi
 groupmembers:
-fields: Branding, Packaging
+category: Branding, Packaging
 mediumdimensions:
 description: tahi (pronounced as ta-heh) means to stitch or sew in Tagalog, the main language spoken in the Philippines. The idea behind tahi is to create an educational and compact embroidery kit that incorporates Filipino culture. tahi provides an opportunity to learn about the Philippines in a vibrant and fun way.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/BOUJEE
 graduate: Andrea Abello
-mainimg: /assets/work/abello_andrea_project2_web_main.png
-thumbnailimg: /assets/work/abello_andrea_project2_web_thumbnail.png
+cover: /assets/work/abello_andrea_project2_web_main.png
+thumbnail: /assets/work/abello_andrea_project2_web_thumbnail.png
 title: BOUJEE
 groupmembers:
-fields: Editorial, Print
+category: Editorial, Print
 mediumdimensions:
 description: BOUJEE is a magazine that focuses on the lifestyle of young women particularly ages 18-25. The magazine features articles on fashion, beauty, and finance.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/YFS-Menstrual-Equity-Campaign
 graduate: Andrea Abello
-mainimg: /assets/work/abello_andrea_project3_web_main.png
-thumbnailimg: /assets/work/abello_andrea_project3_web_thumbnail.png
+cover: /assets/work/abello_andrea_project3_web_main.png
+thumbnail: /assets/work/abello_andrea_project3_web_thumbnail.png
 title: YFS Menstrual Equity Campaign
 groupmembers:
-fields: Communication, Illustration
+category: Communication, Illustration
 mediumdimensions:
 description: Let’s face the bloody facts, menstruation items are still seen as a luxury. #NoShameNoSecret is a campaign dedicated towards diminishing the stigma around menstruation and encouraging people to be period positive. 
 digitallink:

@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/haven
 graduate: Tasneem Sultan
-mainimg: /assets/work/sultan_tasneem_project1_web_main.jpg
-thumbnailimg: /assets/work/sultan_tasneem_project1_web_thumbnail_landscape.jpg
+cover: /assets/work/sultan_tasneem_project1_web_main.jpg
+thumbnail: /assets/work/sultan_tasneem_project1_web_thumbnail_landscape.jpg
 title: Haven
 groupmembers:
-fields: UI/UX
+category: UI/UX
 mediumdimensions:
 description: Haven is a mental wellness app that allows users to book therapy sessions on their own time. Users are also able to follow others and post updates through their feed.
 digitallink: https://www.tasneembsultan.com/#/haven/
@@ -42,11 +42,11 @@ caption3: It’s hard to find the time to sit down and talk. Haven allows users 
 ---
 path: /work/inspired-by-bts
 graduate: Tasneem Sultan
-mainimg: /assets/work/sultan_tasneem_project2_web_main.jpg
-thumbnailimg: /assets/work/sultan_tasneem_secondary_web_thumbnail.jpg
+cover: /assets/work/sultan_tasneem_project2_web_main.jpg
+thumbnail: /assets/work/sultan_tasneem_secondary_web_thumbnail.jpg
 title: Inspired by, BTS (Interlude)
 groupmembers:
-fields: Print, Typography
+category: Print, Typography
 mediumdimensions: Printed poster, 11x17 inches
 description: A poster inspired by the lyrics of Interlude. Spray paint, laser cutting, photography, and digital manipulation were all used to make this piece come together.
 digitallink: https://www.tasneembsultan.com/#/bts/
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/invisible-friends
 graduate: Tasneem Sultan
-mainimg: /assets/work/sultan_tasneem_project3_mainimage.jpg
-thumbnailimg: /assets/work/sultan_tasneem_secondary_web_thumbnail_square copy.jpg
+cover: /assets/work/sultan_tasneem_project3_mainimage.jpg
+thumbnail: /assets/work/sultan_tasneem_secondary_web_thumbnail_square copy.jpg
 title: Invisible friends
 groupmembers:
-fields: Illustration, Print
+category: Illustration, Print
 mediumdimensions: Printed postcard, 4x6 inches
 description: "Life's a shitty mess" get well soon post cards. 
 digitallink:

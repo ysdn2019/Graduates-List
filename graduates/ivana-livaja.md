@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/perfect-waste
 graduate: Ivana Radman-Livaja
-mainimg: /assets/work/Radman-Livaja_Ivana_project1_web_main.jpg
-thumbnailimg: /assets/work/Radman-Livaja_Ivana_project1_web_thumbnail.jpg
+cover: /assets/work/Radman-Livaja_Ivana_project1_web_main.jpg
+thumbnail: /assets/work/Radman-Livaja_Ivana_project1_web_thumbnail.jpg
 title: Perfect Waste 
 groupmembers:
-fields: Environmental, Print
+category: Environmental, Print
 mediumdimensions: Photography
 description: This project is a photographic recreation of renaissance still-life paintings, with all the food elements created with garbage. This juxtaposition represents how most of North America undervalues food today compared to hundreds of years ago.
 digitallink:
@@ -43,11 +43,11 @@ caption3:
 ---
 path: /work/Liquorice
 graduate: Ivana Radman-Livaja
-mainimg: /assets/work/Radman-Livaja_Ivana_project2_web_main.jpg
-thumbnailimg: /assets/work/Radman-Livaja_Ivana_project2_web_thumbnail.jpg
+cover: /assets/work/Radman-Livaja_Ivana_project2_web_main.jpg
+thumbnail: /assets/work/Radman-Livaja_Ivana_project2_web_thumbnail.jpg
 title: Liquorice 
 groupmembers:
-fields: Book Design, Illustration, Typography
+category: Book Design, Illustration, Typography
 mediumdimensions: typeface design
 description: Liquorice is a whimsical semi-serif typeface designed with the intent of combining the most notable characteristics of a serif and sans-serif font. 
 digitallink:
@@ -66,11 +66,11 @@ caption3:
 ---
 path: /work/to-fall
 graduate: Ivana Radman-Livaja
-mainimg: /assets/work/Radman-Livaja_Ivana_project2_web_main.jpg
-thumbnailimg: /assets/work/Radman-Livaja_Ivana_project2_web_thumbnail.jpg
+cover: /assets/work/Radman-Livaja_Ivana_project2_web_main.jpg
+thumbnail: /assets/work/Radman-Livaja_Ivana_project2_web_thumbnail.jpg
 title: To Fall 
 groupmembers:
-fields: Book Design, Environmental
+category: Book Design, Environmental
 mediumdimensions: book design
 description: To Fall is a star book created in tribute to Autumn using twigs and various Japanese papers. It highlights the poem by Emily Dickinson, "Besides the Autumn poets sing".
 digitallink:

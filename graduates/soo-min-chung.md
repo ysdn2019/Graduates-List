@@ -20,11 +20,11 @@ behance: https://www.behance.net/soom_c
 ---
 path: /work/dive
 graduate: Soo-min Chung
-mainimg: /assets/work/Chung_Soomin_project1_main-01.jpg
-thumbnailimg: /assets/work/Chung_Soomin_project1_thumbnail.jpg
+cover: /assets/work/Chung_Soomin_project1_main-01.jpg
+thumbnail: /assets/work/Chung_Soomin_project1_thumbnail.jpg
 title: Dive Editions: the monthly Picture Book for Adults
 groupmembers:
-fields: Branding, Book Design, Illustration
+category: Branding, Book Design, Illustration
 mediumdimensions: Print, 8"x 8"
 description: Dive Editions is not just a publisher but more of a brand that will allow you to take a break from your hard life with a form of art: Picture books, memorable object from childhood, comforting material, and an entertaining hobby. By reading through our monthly deliverable issues, you will be relaxed and be consoled from your hard and stressful life. 
 digitallink:
@@ -42,11 +42,11 @@ caption3: Back of the books presents the customized version of Dive Editions log
 ---
 path: /work/omyo
 graduate: Soo-min Chung
-mainimg: /assets/work/Chung_Soomin_project2_main-01.jpg
-thumbnailimg: /assets/work/Chung_Soomin_project2_thumbnail.jpg
+cover: /assets/work/Chung_Soomin_project2_main-01.jpg
+thumbnail: /assets/work/Chung_Soomin_project2_thumbnail.jpg
 title: OMYO: Explore Classical Korean Tea and more!
 groupmembers:
-fields: Branding, Illustration, Packaging
+category: Branding, Illustration, Packaging
 mediumdimensions:
 description: OMYO implies marvellous, curious or mysterious in the Korean language, and commonly used to portray the subtle savour of Korean tea. The OMYO brand and tea packages are created and inspired by the diverse characters of Korean tea and culture through art, people, costume, buildings, various kinds of tea and tea regions and, social structure. 
 digitallink:
@@ -64,11 +64,11 @@ caption3: OMYO is specially designed for tea lovers, who are also interested in 
 ---
 path: /work/soboun
 graduate: Soo-min Chung
-mainimg: /assets/work/Chung_Soomin_project3_support_main.jpg
-thumbnailimg: /assets/work/Chung_Soomin_project3_thumbnail-01.jpg
+cover: /assets/work/Chung_Soomin_project3_support_main.jpg
+thumbnail: /assets/work/Chung_Soomin_project3_thumbnail-01.jpg
 title: Soboun: Pack small, Dream big
 groupmembers:
-fields: Branding, Communication, Editorial
+category: Branding, Communication, Editorial
 mediumdimensions:
 description: We pack small, but dream big. We designed to be a better solution for North American food culture. With us, you can save money, time, and even earth! Don’t eat the same things for seven days. Don’t freak out with expired ingredients. Just get our simple package and explore!
 digitallink:

@@ -20,11 +20,11 @@ behance: https://www.behance.net/Liuno
 ---
 path: /work/mix-and-match
 graduate: Emily Liu
-mainimg: /assets/work/Liu_Emily_project1_web_main.png
-thumbnailimg: /assets/work/Liu_Emily_project1_web_thumbnail.png
+cover: /assets/work/Liu_Emily_project1_web_main.png
+thumbnail: /assets/work/Liu_Emily_project1_web_thumbnail.png
 title: Mix&Match, Your personal closet organizer
 groupmembers:
-fields: UI/UX
+category: UI/UX
 mediumdimensions: InVision prototype, iPhone X
 description: The project goal is to develop an easy-to-use free closet management app that will allow people to easily choosing perfect outfits in no time. Solve problems which make us anxious, like many clothes were left unused, and some cloth was wearing over and over again or after impulsive buying, suddenly found that there were several similar styles in the closet already. The goal is to help users plan ahead and improve their daily dressing aesthetic. Reasonable planning and consumption based on existing clothing.
 digitallink: https://invis.io/VNPI5T1KW68
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/smart-traveling-data-recorder
 graduate: Emily Liu
-mainimg: /assets/work/Liu_Emily_project2_web_main.png
-thumbnailimg: /assets/work/Liu_Emily_secondary_web_thumbnail.png
+cover: /assets/work/Liu_Emily_project2_web_main.png
+thumbnail: /assets/work/Liu_Emily_secondary_web_thumbnail.png
 title: Smart traveling data recorder & Companion App
 groupmembers:
-fields: Data Visualisation, UI/UX
+category: Data Visualisation, UI/UX
 mediumdimensions: InVision prototype
 description: The goal of the companion App and traffic recorder is to monitoring car movements and collect data while the traffic recorder recording daily scenery. To provide an easily accessible commute data for drivers to manage time properly.
 digitallink: https://projects.invisionapp.com/share/26QX4ZHZ3B9
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/project-name
 graduate: Emily Liu
-mainimg: /assets/work/Liu_Emily_Project3_Web_main.png
-thumbnailimg: /assets/work/Liu_Emily_Project3_web_thumbnail.png
+cover: /assets/work/Liu_Emily_Project3_Web_main.png
+thumbnail: /assets/work/Liu_Emily_Project3_web_thumbnail.png
 title: 2019 Global Shopping Festival Teaser, 
 groupmembers:
-fields: Digital, Motion
+category: Digital, Motion
 mediumdimensions: Video
 description: "Single Sticks' Holiday" or "Singles' Day" is a holiday popular among young Chinese people that celebrate their pride in being single. Alibaba and its founder, Jack Ma, transformed the de facto holiday from an ‘anti-Valentine's Day’ for Chinese singletons to a global shopping festival back in 2009. The purpose of teaser video is to create tension and excitement atmosphere before 2019 shopping festival officially begins.
 digitallink: https://vimeo.com/297250596

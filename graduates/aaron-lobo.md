@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/Self-Medicate
 graduate: Aaron Lobo
-mainimg: /assets/work/labo_aaron_project1_web_main.png
-thumbnailimg: /assets/work/labo_aaron_project1_web_thumbnail.png
+cover: /assets/work/labo_aaron_project1_web_main.png
+thumbnail: /assets/work/labo_aaron_project1_web_thumbnail.png
 title: Self Medicate
 groupmembers:
-fields: Communication, Digital, Motion
+category: Communication, Digital, Motion
 mediumdimensions:
 description: A film that explores the cyclical nature of self medicating depression through illicit drugs. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/pExperimental-Film
 graduate: Aaron Lobo
-mainimg: /assets/work/labo_aaron_project2_web_main.png
-thumbnailimg: /assets/work/labo_aaron_project2_web_thumbnail.png
+cover: /assets/work/labo_aaron_project2_web_main.png
+thumbnail: /assets/work/labo_aaron_project2_web_thumbnail.png
 title: Experimental Film
 groupmembers:
-fields: Communication, Digital, Motion
+category: Communication, Digital, Motion
 mediumdimensions:
 description: An experimental film that explores viewing the world in black and white.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/Nor-Brandbook
 graduate: Aaron Lobo
-mainimg: /assets/work/labo_aaron_project3_web_main.png
-thumbnailimg: /assets/work/labo_aaron_project3_web_thumbnail.png
+cover: /assets/work/labo_aaron_project3_web_main.png
+thumbnail: /assets/work/labo_aaron_project3_web_thumbnail.png
 title: Nor Brandbook
 groupmembers:
-fields: Branding, Editorial, Print
+category: Branding, Editorial, Print
 mediumdimensions:
 description: Nor, a movement that questions gender boundaries in fashion, showcases its brand identity through this graphics standard manual. 
 digitallink:

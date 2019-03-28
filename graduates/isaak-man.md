@@ -20,11 +20,11 @@ behance: https://www.behance.net/isaakman
 ---
 path: /work/bonded-connections
 graduate: Isaak Man
-mainimg: /assets/work/man_isaak_project1_web_main.jpg
-thumbnailimg: /assets/work/man_isaak_project1_web_thumbnail.jpg
+cover: /assets/work/man_isaak_project1_web_main.jpg
+thumbnail: /assets/work/man_isaak_project1_web_thumbnail.jpg
 title: Bonded Connections
 groupmembers:
-fields: Communication, Editorial, Print
+category: Communication, Editorial, Print
 mediumdimensions:
 description: Bonded Connections investigates human connections and how relationships are formed. Through an abstract installation piece of visualizing and exploring what a bond looks like, it is hoped that we will think and question what a relationship means to us personally and create moments with others.
 digitallink: http://isaakman.ca
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/water
 graduate: Isaak Man
-mainimg: /assets/work/man_isaak_project2_web_main.jpg
-thumbnailimg: /assets/work/man_isaak_project2_web_thumbnail.jpg
+cover: /assets/work/man_isaak_project2_web_main.jpg
+thumbnail: /assets/work/man_isaak_project2_web_thumbnail.jpg
 title: Water
 groupmembers:
-fields: Book Design, Editorial, Print
+category: Book Design, Editorial, Print
 mediumdimensions: 8inx11in
 description: Water is a book based on all things water, understanding the science behind what water is and the different states water can be in. The book is separated into its three states of Solid, Liquid and Gas and including stores and scientific knowledge based on each topic related to these states.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/hello
 graduate: Isaak Man
-mainimg: /assets/work/man_isaak_project3_web_main.jpg
-thumbnailimg: /assets/work/man_isaak_project3_web_thumbnail.jpg
+cover: /assets/work/man_isaak_project3_web_main.jpg
+thumbnail: /assets/work/man_isaak_project3_web_thumbnail.jpg
 title: Hello
 groupmembers:
-fields: Branding, Information Design, Packaging
+category: Branding, Information Design, Packaging
 mediumdimensions:
 description: Hello is a brand that alleviates the stresses of travelling by providing information about the destination and giving all the necessities to have an enjoyable trip in a new country. This package is a guide book to all the basic and necessary information while traveling.
 digitallink:

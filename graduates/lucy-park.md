@@ -20,11 +20,11 @@ behance: https://www.behance.net/lpark
 ---
 path: /work/learna
 graduate: Lucy Park
-mainimg: /assets/work/Park_Suhyun(Lucy)_Project1_Web_Main.jpg
-thumbnailimg: /assets/work/Park_Suhyun(lucy)_Project1_Web_Thumbnail.jpg
+cover: /assets/work/Park_Suhyun(Lucy)_Project1_Web_Main.jpg
+thumbnail: /assets/work/Park_Suhyun(lucy)_Project1_Web_Thumbnail.jpg
 title: Learna
 groupmembers:
-fields: UI/UX
+category: UI/UX
 mediumdimensions: iPad Air 2
 description: Learna is a project driven from the idea that learning language becomes more difficult as you age, due to pressure and frustration. The goal was to create learning as easy and straight-forward as possible, so that the users will not be overwhelmed by the challenge of learning a new language.
 digitallink: https://learna.webflow.io/
@@ -42,11 +42,11 @@ caption3: Speak to the virtual learning assistant, Learna, through the voice rec
 ---
 path: /work/skin
 graduate: Lucy Park
-mainimg: /assets/work/[...] .png
-thumbnailimg: /assets/work/[...].png
+cover: /assets/work/[...] .png
+thumbnail: /assets/work/[...].png
 title: Skin
 groupmembers:
-fields:
+category:
 mediumdimensions: Print
 description:
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/project-name
 graduate: Lucy Park
-mainimg: /assets/work/[...] .png
-thumbnailimg: /assets/work/[...].png
+cover: /assets/work/[...] .png
+thumbnail: /assets/work/[...].png
 title:
 groupmembers:
-fields:
+category:
 mediumdimensions:
 description:
 digitallink:

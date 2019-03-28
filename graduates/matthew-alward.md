@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/buoyant
 graduate: Matthew Alward
-mainimg: /assets/work/Alward_Matthew_project1_web_main.png
-thumbnailimg: /assets/work/Alward_Matthew_project1_web_thumbnail.jpg
+cover: /assets/work/Alward_Matthew_project1_web_main.png
+thumbnail: /assets/work/Alward_Matthew_project1_web_thumbnail.jpg
 title: Buoyant
 groupmembers:
-fields: Branding, Digital, UI/UX
+category: Branding, Digital, UI/UX
 mediumdimensions: App Prototype
 description: Traditional dating apps are superficial and make it difficult to form meaningful relationships. Buoyant has been designed to help users connect with one another based primarily on interests, rather than physical attraction.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/snatched
 graduate: Matthew Alward
-mainimg: /assets/work/Alward_Matthew_project2_web_main.png
-thumbnailimg: /assets/work/Alward_Matthew_project2_web_thumbnail.png
+cover: /assets/work/Alward_Matthew_project2_web_main.png
+thumbnail: /assets/work/Alward_Matthew_project2_web_thumbnail.png
 title: Snatched
 groupmembers:
-fields: Branding, Editorial, Print
+category: Branding, Editorial, Print
 mediumdimensions: Editorial, 8.5" x11"
 description: The challenge of this project was to create a twenty-four paged magazine catered toward a niche market. I selected the topic of drag queens as I believe they are becoming an increasingly popular source of entertainment.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/dting
 graduate: Matthew Alward
-mainimg: /assets/work/Alward_Matthew_web_main.png
-thumbnailimg: /assets/work/Alward_Matthew_web_thumbnail.png
+cover: /assets/work/Alward_Matthew_web_main.png
+thumbnail: /assets/work/Alward_Matthew_web_thumbnail.png
 title: D*ting
 groupmembers:
-fields: Branding, Book Design, Print
+category: Branding, Book Design, Print
 mediumdimensions: Book Design, 7" x 9"
 description: D*ting provides its readers with twenty-one tips on how to navigate homosexual dating. While it is targeted toward gay men who are seeking romantic relationships, it has been written in a way that others can still glean useful information from it regardless of sexual orientation.
 digitallink: 

@@ -20,11 +20,11 @@ behance: https://www.behance.net/channlea
 ---
 path: /work/bee-hotel
 graduate: Channon Leathley
-mainimg: /assets/work/Leathley_Channon_project1_main.jpg
-thumbnailimg: /assets/work/Leathley_Channon_project1_thumbnail.jpg
+cover: /assets/work/Leathley_Channon_project1_main.jpg
+thumbnail: /assets/work/Leathley_Channon_project1_thumbnail.jpg
 title: Bee Hotel
 groupmembers: 
-fields: Branding, Information Design, Packaging
+category: Branding, Information Design, Packaging
 mediumdimensions: Baltic Birch Plywood, 30.2cm (L) x 11cm (W) x 9.5cm (H)
 description: Bee Hotel is a self-contained honeycomb packaging for solitary bees to nest and pollinate. The hanging Bee Hotel kit provides gardeners with the opportunity to help our world’s best pollinators as they face population declines and invite bees to pollinate their flourishing backyard garden.
 digitallink: 
@@ -42,11 +42,11 @@ caption3: Bee Hotel includes bamboo stems, native flower seeds, rope, D-ring han
 ---
 path: /work/note-to-self
 graduate: Channon Leathley
-mainimg: /assets/work/Leathley_Channon_project2_main.jpg
-thumbnailimg: /assets/work/Leathley_Channon_project2_thumbnail.jpg
+cover: /assets/work/Leathley_Channon_project2_main.jpg
+thumbnail: /assets/work/Leathley_Channon_project2_thumbnail.jpg
 title: Note to Self
 groupmembers: 
-fields: Book Design, Communication, Illustration
+category: Book Design, Communication, Illustration
 mediumdimensions:  Paperback Perfect Bound, 6" x 6"
 description: Note to Self is a lighthearted and engaging illustrated self-help book that aims to raise awareness about the effects Instagram can have on users’ well-being and provide users with self-care tips.
 digitallink: 
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/curious-incantations
 graduate: Channon Leathley
-mainimg: /assets/work/Leathley_Channon_project3_main.jpg
-thumbnailimg: /assets/work/Leathley_Channon_project3_thumbnail.jpg
+cover: /assets/work/Leathley_Channon_project3_main.jpg
+thumbnail: /assets/work/Leathley_Channon_project3_thumbnail.jpg
 title: Curious Incantations
 groupmembers: 
-fields: Book Design, Illustration, Packaging
+category: Book Design, Illustration, Packaging
 mediumdimensions:  Hardcover Coptic Bound, 15.5cm x 20.5cm
 description: Curious Incantations is a novelty interactive book with magical objects and follow-along recipes for fans of witchcraft and magick. The book is divided into four chapters including wands, spellcasting, and potion making.
 digitallink: 

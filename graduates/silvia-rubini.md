@@ -20,11 +20,11 @@ behance: https://www.behance.net/silviarubi7e17
 ---
 path: /work/oh-mio-dio
 graduate: Silvia Rubini
-mainimg: /assets/work/rubini_silvia_project1_web_main.jpg
-thumbnailimg: /assets/work/rubini_silvia_project1_web_thumbnail.jpg
+cover: /assets/work/rubini_silvia_project1_web_main.jpg
+thumbnail: /assets/work/rubini_silvia_project1_web_thumbnail.jpg
 title: Oh Mio Dio
 groupmembers:
-fields: Branding, Packaging, Print
+category: Branding, Packaging, Print
 mediumdimensions: Print & Various Sizes
 description: How much do you know about pasta? Most people would say “not much,” Oh Mio Dio gives consumers exactly what they need in a recyclable pasta box not to mention its relation to Italian tradition.
 digitallink:
@@ -42,11 +42,11 @@ caption3: Since, Oh Mio Dio is a product made in Italy, it includes two language
 ---
 path: /work/food-culture
 graduate: Silvia Rubini
-mainimg: /assets/work/rubini_silvia_project2_web_main.jpg
-thumbnailimg: /assets/work/rubini_silvia_project2_web_thumbnail.jpg
+cover: /assets/work/rubini_silvia_project2_web_main.jpg
+thumbnail: /assets/work/rubini_silvia_project2_web_thumbnail.jpg
 title: Food Culture
 groupmembers:
-fields: Editorial, Print, Typography
+category: Editorial, Print, Typography
 mediumdimensions: Print & 8.5x11
 description: Food Culture is a magazine that provides readers with inspirational information for those who are in need of a healthy eating lifestyle displayed through cultural diversity. 
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/childhood-obesity-in-canada
 graduate: Silvia Rubini
-mainimg: /assets/work/rubini_silvia_project3_web_main.jpg
-thumbnailimg: /assets/work/rubini_silvia_project3_web_thumbnail.jpg
+cover: /assets/work/rubini_silvia_project3_web_main.jpg
+thumbnail: /assets/work/rubini_silvia_project3_web_thumbnail.jpg
 title: Childhood Obesity in Canada
 groupmembers:
-fields: Information Design, Interactive, Print
+category: Information Design, Interactive, Print
 mediumdimensions:  8″ x 11″ Pamphlet with a 22″ x 32″ back poster & iPad Publication
 description: As childhood has changed, children’s health is changing along with it for the worst. More people need to be aware of why childhood obesity is a problem and how it can further impact children’s health in the future, which was achieved by creating a printed pamphlet and tablet publication.
 digitallink: https://invis.io/FUEOC5KE3

@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/Plantonic
 graduate: Alyssa Chieffallo
-mainimg: /assets/work/chieffallo_alyssa_project1_web_main.jpg
-thumbnailimg: /assets/work/chieffallo_alyssa_project1_web_thumbnail.jpg
+cover: /assets/work/chieffallo_alyssa_project1_web_main.jpg
+thumbnail: /assets/work/chieffallo_alyssa_project1_web_thumbnail.jpg
 title: Plantonic
 groupmembers:
-fields: Branding, Communication, Print
+category: Branding, Communication, Print
 mediumdimensions: Corporate Identity Design, 8" x 8"
 description: Plantonic is a fictional start-up company and brand that represents the benefits of growing plants and produce through the use of hydroponic plants.
 digitallink:
@@ -42,11 +42,11 @@ caption3: Stationery is another important factor in being able to recognize bran
 ---
 path: /work/Niagara-Wine-Festivals
 graduate: Alyssa Chieffallo
-mainimg: /assets/work/chieffallo_alyssa_project2_web_main.jpg
-thumbnailimg: /assets/work/chieffallo_alyssa_secondary_web_thumbnail.jpg
+cover: /assets/work/chieffallo_alyssa_project2_web_main.jpg
+thumbnail: /assets/work/chieffallo_alyssa_secondary_web_thumbnail.jpg
 title: Niagara Wine Festivals
 groupmembers:
-fields: Branding, Communication, Print
+category: Branding, Communication, Print
 mediumdimensions: Communication Design
 description: The Niagara Wine Festival is an annual event that takes place in Downtown St. Catharine’s area. It is one of the largest wine celebrations in Canada, and has been celebrated for 67 years.
 digitallink:
@@ -64,11 +64,11 @@ caption3: The Niagara Wine Festival is happy to provide drinking coasters throug
 ---
 path: /work/project-name
 graduate: Alyssa Chieffallo
-mainimg: /assets/work/chieffallo_alyssa_project3_web_main.jpg
-thumbnailimg: /assets/work/chieffallo_alyssa_project3_web_thumbnail.jpg
+cover: /assets/work/chieffallo_alyssa_project3_web_main.jpg
+thumbnail: /assets/work/chieffallo_alyssa_project3_web_thumbnail.jpg
 title: Meditor
 groupmembers:
-fields: Data Visualisation, Interactive, UI/UX
+category: Data Visualisation, Interactive, UI/UX
 mediumdimensions: speculative app
 description: Meditor is a speculative app that would connect with a wristband to monitor blood pressure, heart rate, body temperature and blood sugar.
 digitallink: https://projects.invisionapp.com/share/5DQ4QSKU3BA#/screens

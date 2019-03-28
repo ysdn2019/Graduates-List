@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/omniscient-tarot-cards
 graduate: Hanna Mark
-mainimg: /assets/work/Mark_Hanna_project1_web_main.jpg
-thumbnailimg: /assets/work/Mark_Hanna_project1_web_thumbnail.jpg
+cover: /assets/work/Mark_Hanna_project1_web_main.jpg
+thumbnail: /assets/work/Mark_Hanna_project1_web_thumbnail.jpg
 title: Omniscient Tarot Cards
 groupmembers: 
-fields: Illustration
+category: Illustration
 mediumdimensions: Mixed Media, 4" x 6"
 description: Omniscient Tarot Cards are a full hand painted 78 card tarot deck with an information booklet to go with it. This includes 22 Major Arcana cards, and 56 Minor Arcana Suit Cards.
 digitallink: 
@@ -42,11 +42,11 @@ caption3: These four cards are the Queen cards of each of the suits in the Minor
 ---
 path: /work/mystic-magazine
 graduate: Hanna Mark
-mainimg: /assets/work/mark_hanna_project2_web_main.jpg
-thumbnailimg: /assets/work/mark_hanna_secondary_web_thumbnail.jpg
+cover: /assets/work/mark_hanna_project2_web_main.jpg
+thumbnail: /assets/work/mark_hanna_secondary_web_thumbnail.jpg
 title: Mystic Magazine
 groupmembers: 
-fields: Editorial, Illustration, Typography
+category: Editorial, Illustration, Typography
 mediumdimensions: 
 description: Mystic Magazine is a magazine with articles about the supernatural and paranormal. It was created for my Editorial Design class.
 digitallink: 
@@ -64,11 +64,11 @@ caption3: This article is about 4 different haunted places in the world you coul
 ---
 path: /work/mountain-dew-kickstart
 graduate: Hanna Mark
-mainimg: /assets/work/MARK_HANNA_project3_web_main.jpg
-thumbnailimg: /assets/work/MARK_HANNA_project3_web_thumbnail.jpg
+cover: /assets/work/MARK_HANNA_project3_web_main.jpg
+thumbnail: /assets/work/MARK_HANNA_project3_web_thumbnail.jpg
 title: Mountain Dew Kickstart Redesign | Package Design 
 groupmembers: 
-fields: Packaging
+category: Packaging
 mediumdimensions: 
 description: This is a redesign for Mountain Dew Kickstart energy drinks.
 digitallink: 

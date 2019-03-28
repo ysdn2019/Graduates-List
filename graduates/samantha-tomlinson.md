@@ -20,11 +20,11 @@ behance:
 ---
 path: /work/growth
 graduate: Samantha Tomlinson
-mainimg: /assets/work/tomlinson_samantha_project1_web_main.png
-thumbnailimg: /assets/work/tomlinson_samantha_project1_web_thumbnail.png
+cover: /assets/work/tomlinson_samantha_project1_web_main.png
+thumbnail: /assets/work/tomlinson_samantha_project1_web_thumbnail.png
 title: Growth 
 groupmembers:
-fields: Book Design, Communication, Interactive
+category: Book Design, Communication, Interactive
 mediumdimensions: 6.5x9 and tablet
 description: Growth is an interview focused project that highlights the life stories of the participants and explores the nuances of financial illiteracy within the Black community.
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/wear
 graduate: Samantha Tomlinson
-mainimg: /assets/work/tomlinson_samantha_project2_web_main.png
-thumbnailimg: /assets/work/tomlinson_samantha_project2_web_thumbnail.png
+cover: /assets/work/tomlinson_samantha_project2_web_main.png
+thumbnail: /assets/work/tomlinson_samantha_project2_web_thumbnail.png
 title: weAR
 groupmembers: Joscelyn Sevier, Bijan Vaez
-fields: Digital, Interactive, UI/UX
+category: Digital, Interactive, UI/UX
 mediumdimensions: Mobile UI/UX
 description: weAR is an augmented reality SaaS product for eyewear. It's designed to create a more accessible e-commerce experience for consumers.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/the-hidden-science
 graduate: Samantha Tomlinson
-mainimg: /assets/work/tomlinson_samantha_project3_web_main.png
-thumbnailimg: /assets/work/tomlinson_samantha_project3_web_thumbnail.png
+cover: /assets/work/tomlinson_samantha_project3_web_main.png
+thumbnail: /assets/work/tomlinson_samantha_project3_web_thumbnail.png
 title: The Hidden Science
 groupmembers:
-fields: Illustration, Information Design, Print
+category: Illustration, Information Design, Print
 mediumdimensions:
 description: An exploration of the scientific process of dopamine in the body in context to drug addiction. Both pamphlet and poster is designed to communicate with everyday people and distill information in a unique format.
 digitallink:

@@ -20,11 +20,11 @@ behance: https://www.behance.net/stephanier4b1f
 ---
 path: /work/swiped
 graduate: Stephanie	Ritacca
-mainimg: /assets/work/ritacca_stephanie_project1_web_main.jpg
-thumbnailimg: /assets/work/ritacca_stephanie_project1_web_thumbnail.jpg
+cover: /assets/work/ritacca_stephanie_project1_web_main.jpg
+thumbnail: /assets/work/ritacca_stephanie_project1_web_thumbnail.jpg
 title: Swiped 
 groupmembers:
-fields: Book Design, Print, Typography
+category: Book Design, Print, Typography
 mediumdimensions: Book, 6" x 9"
 description: This project portrays a segment of the outcomes of today's online dating culture. It focuses on the success stories of users who have found love and are in current relationships, which are the outcomes of meeting their partner through the use of an online dating app. 
 digitallink:
@@ -42,11 +42,11 @@ caption3:
 ---
 path: /work/mibi
 graduate: Stephanie	Ritacca
-mainimg: /assets/work/ritacca_stephanie_project2_web_main.jpg
-thumbnailimg: /assets/work/ritacca_stephanie_secondary_web_thumbnail.jpg
+cover: /assets/work/ritacca_stephanie_project2_web_main.jpg
+thumbnail: /assets/work/ritacca_stephanie_secondary_web_thumbnail.jpg
 title: Mibi
 groupmembers: Alessya Baggetta, Livia Wdj
-fields: Branding, Interactive, UI/UX
+category: Branding, Interactive, UI/UX
 mediumdimensions:
 description: Mibi is a technologically advanced smart-pen designed for elementary school students. When paired with its corresponding MIBI app, both teachers, parents, and students are able to track their progress from tests and quizzes.  This cohesive writing device is a fun tool, which helps children learn cursive through gamification and through the advancement of technology.
 digitallink:
@@ -64,11 +64,11 @@ caption3:
 ---
 path: /work/mount-sinai-hospital
 graduate: Stephanie	Ritacca
-mainimg: /assets/work/ritacca_stephanie_project3_web_main.jpg
-thumbnailimg: /assets/work/ritacca_stephanie_project3_web_thumbnail.jpg
+cover: /assets/work/ritacca_stephanie_project3_web_main.jpg
+thumbnail: /assets/work/ritacca_stephanie_project3_web_thumbnail.jpg
 title: Mount Sinai Hospital
 groupmembers:
-fields: Branding, Book Design, Communication
+category: Branding, Book Design, Communication
 mediumdimensions:
 description: Mount Sinai is an internationally recognized hospital located in the core of Downtown Toronto. Their clinical strengths include women’s and infants’ health, chronic disease management, specialized cancer care, emergency medicine, and geriatrics. In order to deliver their reputation, effective branding will make them stand out from their local medical competition.
 digitallink:
