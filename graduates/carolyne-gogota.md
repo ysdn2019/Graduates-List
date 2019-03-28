@@ -18,25 +18,25 @@ behance: https://www.behance.net/ca-no/
 ---
 
 ---
-path: /work/threads
+path: /work/clouds
 graduate: Carolyne Gogota
 mainimg: /assets/work/gogota_carolyne_project1_web_main.png
 thumbnailimg: /assets/work/gogota_carolyne_project1_web_thumbnail.png
-title: Threads
+title: Clouds
 groupmembers: 
-fields: Editorial, Illustration, Typography
-mediumdimensions: Printed Magazine and E-Publication, 8.5" x 11"
-description: Threads provides a bridge between the world and the west as a comprehensive guide on craft and fashion. Threads simplifies complex theories and histories through infographics, meaningful illustrations, and layouts that echo the subject matter. Airy typography quietly welcomes the trust of readers while communicating a sense of empathy and acceptance.
+fields: Book Design, Illustration, Communication
+mediumdimensions: Interactive Print Book, 10” x 7”
+description: Exploring how interactivity can enhance learning experiences, I crafted a book of pull tabs, flaps, pop-ups and more. I hope to show that discovery and simple delight don’t have to end in elementary school. This design is a homage to Peterson First Guide to Clouds and Weather.
 digitallink: 
 image1: /assets/work/gogota_carolyne_project1_web_support1.png
-subtitle1: Dutch Wax
-caption1: This article brings light to the history and origins of the widely used Dutch wax fabric and patterns. Along with sharing its history and use, an infographic runs along the body text that portrays the process of creating Dutch wax fabrics. I used the letter “c” from the typeface Montserrat to create the display type; this coincides with the idea of being cut from the same cloth.
-image2: /assets/work/gogota_carolyne_project1_web_support2.png
-subtitle2: Exploiting or Borrowing?
-caption2: Concepts of exploitation and borrowing are contrasted by using type as image. Pull quotes borrow one character from non-western scripts while larger visuals are comprised of several scripts taken out of context. These characters frame the text to lead readers through the content of the spread.
-image3: /assets/work/gogota_carolyne_project1_web_support3.png
-subtitle3: E-Publication
-caption3: Threads is available as a printed magazine and an e-publication.
+subtitle1:
+caption1: The topic of clouds is echoed through transparent mediums. Throughout the book, I use acetate in diagrams that benefit from transparency as well as in section openings.
+image2:
+subtitle2:
+caption2:
+image3:
+subtitle3:
+caption3:
 ---
 
 ---
