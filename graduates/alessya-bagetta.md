@@ -18,7 +18,7 @@ behance:
 ---
 
 ---
-path: /work/Memoir-Cookbook
+path: /work/memoir-cookbook
 graduate: Alessya Baggetta
 mainimg: /assets/work/baggetta_alessya_project1_web_main.jpg
 thumbnailimg: /assets/work/baggetta_alessya_project1_web_thumbnail.jpg
@@ -26,21 +26,21 @@ title: Memoir/Cookbook
 groupmembers:
 fields: Book Design, Editorial, Print
 mediumdimensions: Magazine, 7.5" x 9"
-description: "Vieni a Mangiare - How Not to be a Mangiacake - nonna" is a memoir and Cookbook based upon a variety of elderly Italian Immigrants. This book is a compilation of interviews and recipes from Italian Immigrants spreading their love and passion of the Italian culture.
+description: Vieni a Mangiare - How Not to be a Mangiacake - nonna" is a memoir and Cookbook based upon a variety of elderly Italian Immigrants. This book is a compilation of interviews and recipes from Italian Immigrants spreading their love and passion of the Italian culture.
 digitallink:
 image1: /assets/work/baggetta_alessya_project1_web_supportnumber.jpg
 subtitle1: 
 caption1: 
-image2: /assets/work/
+image2:
 subtitle2: 
 caption2: 
-image3: /assets/work/
+image3:
 subtitle3: 
 caption3: 
 ---
 
 ---
-path: /work/MIBI
+path: /work/mibi
 graduate: Alessya Baggetta
 mainimg: /assets/work/baggetta_alessya_project2_web_main.jpg
 thumbnailimg: /assets/work/baggetta_alessya_project2_web_thumbnail.jpg
@@ -53,16 +53,16 @@ digitallink:
 image1: /assets/work/baggetta_alessya_project2_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
 
 ---
-path: /work/project-name
+path: /work/growing-up-with-italians
 graduate: Alessya Baggetta
 mainimg: /assets/work/baggetta_alessya_project3_web_main.jpg
 thumbnailimg: /assets/work/baggetta_alessya_project3_web_thumbnail.jpg
@@ -75,10 +75,10 @@ digitallink:
 image1: /assets/work/baggetta_alessya_project3_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/
+image2:
 subtitle2:
 caption2:
-image3: /assets/work/
+image3:
 subtitle3:
 caption3:
 ---
