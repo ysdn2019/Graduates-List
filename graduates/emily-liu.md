@@ -3,7 +3,7 @@ path: /graduates/emily-liu
 cover: /assets/Emily_Xiaofel_Liu.jpg
 name: Emily Liu
 portfolio: https://www.emilyliuxf.com/
-bio: Hi there, her name is Emily Liu, written as Xiaofei, pronounced as Emily, born and raised in 34.3416° N, 108.9398° E, China. An ancient city where average winter temperature approximately 10℃ warmer than Toronto with a population four times more. She has zero siblings, one dog, two nearsighted eyes, three favourite lipstick brand, spent four lovely and frustrating years at YSDN, five used sketchbooks, uploaded six videos to her Vimeo account, stayed seven years in Canada, eight years until the end of her twenties, nine-digit student number, traveled more than ten countries, and downloaded hundreds of mobile apps in the history.
+bio: Emily Liu, written 'Xiaofei' and pronounced 'Emily', was born and raised in 34.3416° N, 108.9398° E, China—an ancient city where average winter temperature approximately 10℃ warmer than Toronto with a population four times more. She has zero siblings, one dog, two nearsighted eyes, three favourite lipstick brands, spent four lovely and frustrating years at YSDN, five used sketchbooks, uploaded six videos to her Vimeo account, stayed seven years in Canada, eight years until the end of her twenties, nine-digit student number, traveled more than ten countries, and downloaded hundreds of mobile apps in the history.
 field: UI/UX
 sticker1: Winter Survivor
 sticker2: Amiable
