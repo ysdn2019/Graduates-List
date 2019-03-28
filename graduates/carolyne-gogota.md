@@ -40,7 +40,7 @@ caption3:
 ---
 
 ---
-path: /work/Cultural-perspectives-in-design
+path: /work/cultural-perspectives-in-design
 graduate: Carolyne Gogota
 mainimg: /assets/work/gogota_carolyne_project2_web_main.png
 thumbnailimg: /assets/work/gogota_carolyne_project2_web_thumbnail.png
@@ -62,7 +62,7 @@ caption3:
 ---
 
 ---
-path: /work/Nivean-slab
+path: /work/nivean-slab
 graduate: Carolyne Gogota
 mainimg: /assets/work/gogota_carolyne_project3_web_main.png
 thumbnailimg: /assets/work/gogota_carolyne_project3_web_thumbnail.png
