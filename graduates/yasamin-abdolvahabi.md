@@ -20,8 +20,8 @@ behance:
 ---
 path: /work/dots
 graduate: Yasamin Abdolvahabi
-mainimg: /assets/work/[...] .png
-thumbnailimg: /assets/work/[...].png
+mainimg:
+thumbnailimg:
 title: Dots.
 groupmembers:
 fields: Packaging
@@ -42,8 +42,8 @@ caption3:
 ---
 path: /work/saffron-package-design
 graduate: Yasamin Abdolvahabi
-mainimg: /assets/work/[...].png
-thumbnailimg: /assets/work/[...].png
+mainimg:
+thumbnailimg:
 title: Saffron Package Design
 groupmembers:
 fields: Packaging
@@ -64,8 +64,8 @@ caption3:
 ---
 path: /work/persian-new-year-posters
 graduate: Yasamin Abdolvahabi
-mainimg: /assets/work/[...].png
-thumbnailimg: /assets/work/[...].png
+mainimg:
+thumbnailimg:
 title: Persian New Year Posters
 groupmembers:
 fields: Information Design
