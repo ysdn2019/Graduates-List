@@ -27,7 +27,7 @@ groupmembers:
 category: Packaging
 mediumdimensions: Package Design, 6"x6"x12"
 description: Ferrato's is a restaurant that serves Italian and Japanese fusion food that aims to perfectly mix the two cultures, food, and design of Italy and Japan. The goal is to create a full restaurant experience, with sustainable and thoughtful packaging, meaningful visual design, and memorable, unique branding. 
-digitallink:
+digitallink: https://www.jamieferrato.com/ferratos-japanese-italian-fusion-1
 image1: /assets/work/Ferrato_Jamie_project1_web_support1.jpg
 subtitle1: Cultural Roots
 caption1: Ferrato's was created to combine the two rich cultures of Italian and Japanese into one experience that offers not only the best of both worlds, but something more, and unique to itself. The logo was created as a visual representation of the ‘Ferrato's’ brand. I wanted to visually capture the merging of the two culture of Japanese and Italian, while not having one overpower the other. I created a logo that used two Japanese Symbols to represent the two cultures. The First symbol (日) represents Japan. It represents the rising sun, something very very important in Japanese culture. It also represents the daytime and sunlight. The second symbol (伊) represents the nation of Italy. Together, these two symbols (日伊) represent the relationship between Japan and Italy as a partnership, and show the unique relationship in this fusion restaurant.
@@ -49,7 +49,7 @@ groupmembers:
 category: Digital, Motion, Typography
 mediumdimensions:
 description: Designed with the influences of the golden age of computing, cyberpunk, and industrialism I have created a bold, extended display font made for use in large applications such as freight containers, trucks, signs, or your evil corporation's HQ. Seen below is the type specimen created to showcase the font.  
-digitallink:https://jamieferrato.com/cyber-freight-display-font
+digitallink: https://www.jamieferrato.com/cyber-freight-free-display-font
 image1: /assets/work/Ferrato_Jamie_project2_web_support1.jpg
 subtitle1: Type Specimen
 caption1:
@@ -71,7 +71,7 @@ groupmembers:
 category: Branding, Interactive, UI/UX
 mediumdimensions: 
 description: Tag is an app that lets you explore the world, make your mark, and discover the unique moments and stories of others. Tag's unique set of augmented reality creation tool allow you to create a moment in time based on geographical location for others to find.
-digitallink: https://jamieferrato.com/tag-the-moment-creation-and-discovery-app
+digitallink: https://www.jamieferrato.com/tag-the-moment-creation-discovery-app
 image1: /assets/work/Ferrato_Jamie_project3_web_support1.jpg
 subtitle1: Tag your moments.
 caption1: With Tag you can create a unique memory anywhere you go. Just switch to AR mode on the app, and start creating your mark. The app allows you to paint, record sound, and insert images, faces, and objects to tell your own personal story. Paint a picture, create an art installation, or tell the story of your first date - where it happened. 
