@@ -20,18 +20,18 @@ behance:
 ---
 path: /work/dots
 graduate: Yasamin Abdolvahabi
-mainimg:
-thumbnailimg:
+mainimg: /assets/abdolvahabi_yasamin_project1_web_main.jpg
+thumbnailimg: /assets/abdolvahabi_yasamin_project1_web_thumbnail.jpg
 title: Dots.
 groupmembers:
 fields: Packaging
 mediumdimensions:
 description: In a world where minimalist shoppers are looking to condense waste/ excess and unnecessary shopping, we need to find a way to reduce our food waste and plastic waste.In a grocery store, to pack your oranges, apples, tomatoes...ect, you would have to grab a plastic-bag ( not Eco friendly) and stuff more items than necessary. wether its 2,4, 6, or 8 items per bag, people usually grab more than necessary. The bag it self is not recylable and noteasy to carry. You need to put the fruit bag in another bag to carry. I have designed a container that can hold 2-4 items (spinach bundles, carrot bundles, round fruits such as apples, oranges, tomatoes, lemons) This container has its own handle and is made from 1mm cardboard/card-stock.
 digitallink:
-image1:
+image1: /assets/abdolvahabi_yasamin_project1_web_support1.jpg
 subtitle1:
 caption1:
-image2:
+image2: /assets/abdolvahabi_yasamin_project1_web_support2.jpg
 subtitle2:
 caption2:
 image3: 
@@ -42,18 +42,18 @@ caption3:
 ---
 path: /work/saffron-package-design
 graduate: Yasamin Abdolvahabi
-mainimg:
-thumbnailimg:
+mainimg: /assets/abdolvahabi_yasamin_project2_web_main.jpg
+thumbnailimg: /assets/abdolvahabi_yasamin_project2_web_thumbnail.jpg
 title: Saffron Package Design
 groupmembers:
 fields: Packaging
 mediumdimensions:
 description: The Saffron package I designed is a resemblance of the saffron flower and the persian culture. The simplicity of the package is the key feature of the design. It is paper based which is great to recyle. The best thing about this package is that there is not one single drop of adhesive used. Simply fold the tabs and insert your favorite saffron.
 digitallink:
-image1:
+image1: /assets/abdolvahabi_yasamin_project2_web_support1.jpg
 subtitle1:
 caption1:
-image2:
+image2: /assets/abdolvahabi_yasamin_project2_web_support2.jpg
 subtitle2:
 caption2:
 image3:
@@ -64,15 +64,15 @@ caption3:
 ---
 path: /work/persian-new-year-posters
 graduate: Yasamin Abdolvahabi
-mainimg:
-thumbnailimg:
+mainimg: /assets/abdolvahabi_yasamin_project3_web_main.jpg
+thumbnailimg: /assets/abdolvahabi_yasamin_project3_web_thumbnail.jpg
 title: Persian New Year Posters
 groupmembers:
 fields: Information Design
 mediumdimensions:
 description: The posters I have designed for the Persian new year aim to show the audience the history and symbolism behind the Persian new year ceremony/celebrations. 
 digitallink:
-image1:
+image1: /assets/abdolvahabi_yasamin_project3_web_support1.jpg
 subtitle1:
 caption1:
 image2:
