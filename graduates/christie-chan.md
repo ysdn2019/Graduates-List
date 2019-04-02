@@ -21,13 +21,12 @@ behance:
 path: /work/snip-insights
 graduate: Christie Chan
 cover: /assets/work/Chan_Christie_project1_web_main.png
-thumbnail: 
+thumbnail: /assets/work/Chan_Christie_project1_web_main.png
 title: Snip Insights, Digital
 groupmembers: 
 category: Digital, Interactive, UI/UX
 mediumdimensions: Digital
-"description: Snip Insights is a Microsoft Garage intern project focused on injecting AI into the screen capturing process.
-"
+description: Snip Insights is a Microsoft Garage intern project focused on injecting AI into the screen capturing process.
 digitallink: https://techcrunch.com/2018/05/09/microsofts-snip-insights-puts-a-i-technology-into-a-screenshot-taking-tool/
 image1: /assets/work/Chan_Christie_project1_web_support1.png
 subtitle1: 
@@ -41,23 +40,23 @@ caption3:
 ---
 
 ---
-path: /work/toss
+path: /work/rip
 graduate: Christie Chan
-cover: /assets/work/Chan_Christie_project2_web_main.png
+cover: /assets/work/Chan_Christie_project2_web_main copy.png
 thumbnail: 
-title: Toss
-groupmembers: Laura Pitt, Jade Clarke, Rana Soliman
-category: Digital, Interactive, UI/UX
-mediumdimensions:  Digital
-description: Toss is a recycling initiative for schools. Smart garbage cans are able to sense student's waste disposal accuracy and keep track of these analytics. Through smart devices and corresponding app, users can earn real life rewards while developing good waste disposal habits.
-digitallink: https://www.chrchan.com/toss
-image1: /assets/work/Chan_Christie_project2_web_support1.png
+title: #rip
+groupmembers:
+category: Book Design, Web
+mediumdimensions:
+description: #rip is a look at how we treat death in the digital age. Exploratory in nature, it consists of a book and accompanying website inspired by the changing face of death throughout the internet and social media. Has technology changed the way we perceive death, for better or for worse? 
+digitallink: https://invis.io/W8R82Y4RXDC
+image1: /assets/work/Chan_Christie_project2_web_support1 copy.png
 subtitle1: 
 caption1: 
-image2: /assets/work/Chan_Christie_project2_web_support2.png
+image2: /assets/work/Chan_Christie_project2_web_support2 copy.png
 subtitle2: 
 caption2: 
-image3: /assets/work/Chan_Christie_project2_web_support3.png
+image3: /assets/work/Chan_Christie_project2_web_support3 copy.png
 subtitle3: 
 caption3: 
 ---
