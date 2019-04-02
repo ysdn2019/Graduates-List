@@ -2,7 +2,7 @@
 path: /graduates/mikee-laylo
 cover: /assets/Mikee_Laylo.jpg
 name: Mikee Laylo
-portfolio: https://www.mikeelaylo.com/
+portfolio: https://mikeelaylo.tumblr.com
 bio: Brampton-based, Laguna-raised graphic designer Mikee Laylo has a passion for print and motion design. Through embracing traditional and digital media, she is able to combine her skills and experiences and translate it into effective solutions for design problems. She loves the idea of showing design thinking through the contrast and similarities of print-based and digital platforms. Outside of design Mikee likes talking to her cat, playing video games, watching YouTube videos, and scrolling through Reddit as a temporary escape from her progressively deteriorating flesh prison.
 field: Communication, Motion, Print
 sticker1: Cat Parent
