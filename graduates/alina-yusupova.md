@@ -20,7 +20,7 @@ behance:
 ---
 path: /work/foam
 graduate: Alina Yusupova
-mainimg: /assets/work/Yusupova_Alina_project1_main.png
+mainimg: /assets/work/yusupova_alina_project1_main.png
 thumbnailimg: /assets/work/Yusupova_Alina_project1_thumbnail.png
 title: FOAM
 groupmembers:
@@ -31,7 +31,7 @@ digitallink:
 image1: /assets/work/Yusupova_Alina_project1_support1.png
 subtitle1: FOAM Interactive Installation
 caption1: FOAM is an interactive installation, which focuses on how audio combined with visual stimuli affects one's emotional response.FOAM explores the intricate connection between cognitive music effects and colours in a form of physical music visualizations.
-image2: 
+image2: /assets/work/yusupova_alina_project1_support2.png
 subtitle2: FOAM Book
 caption2: The installation also includes a book, which features a variety of visuals inspired by synesthesia ( a perceptual phenomenon in which stimulation of one sensory or cognitive pathway), specifically, the relation between colours and musical chords.
 image3:
@@ -42,8 +42,8 @@ caption3:
 ---
 path: /work/trumpeteer
 graduate: Alina Yusupova
-mainimg: /assets/work/yusupova_Alina_project2_main.jpg
-thumbnailimg: /assets/work/yusupova_Alina_project2_thumbnail.jpg
+mainimg: /assets/work/yusupova_alina_project2_main.jpg
+thumbnailimg: /assets/work/yusupova_alina_project2_thumbnail.jpg
 title: Trumpeteer
 groupmembers:
 fields: Book Design
