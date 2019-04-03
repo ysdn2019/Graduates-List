@@ -66,7 +66,7 @@ path: /work/qahveh
 graduate: Mariya Fatima
 cover: /assets/work/Fatima_Mariya_project3_web_main.png
 thumbnail: /assets/work/Fatima_Mariya_project3_web_thumbnail.jpg
-title: Qahveh: Menu Insert
+title: Qahveh, Menu
 groupmembers:
 category: Branding, Illustration, Print
 mediumdimensions: Packaging 
