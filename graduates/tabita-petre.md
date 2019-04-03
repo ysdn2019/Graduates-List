@@ -2,7 +2,7 @@
 path: /graduates/tabita-petre
 cover: /assets/Tabita_Petre.jpg
 name: Tabita Petre
-portfolio: 'http://tabypetre.com/'
+portfolio: 'https://www.tabitapetre.com'
 bio: >-
   Taby’s journey as a creator was strongly influenced by her experience as an
   immigrant. When she lived in Romania as a young creative explorer,  she never
