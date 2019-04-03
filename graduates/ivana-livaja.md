@@ -66,8 +66,8 @@ caption3:
 ---
 path: /work/to-fall
 graduate: Ivana Radman-Livaja
-cover: /assets/work/Radman-Livaja_Ivana_project2_web_main.jpg
-thumbnail: /assets/work/Radman-Livaja_Ivana_project2_web_thumbnail.jpg
+cover: /assets/work/Radman-Livaja_Ivana_project3_web_main.jpg
+thumbnail: /assets/work/Radman-Livaja_Ivana_project3_web_thumbnail.jpg
 title: To Fall 
 groupmembers:
 category: Book Design, Environmental
