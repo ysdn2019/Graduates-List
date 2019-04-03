@@ -20,18 +20,18 @@ behance:
 ---
 path: /work/foam
 graduate: Alina Yusupova
-mainimg: /assets/work/yusupova_alina_project1_main.png
-thumbnailimg: /assets/work/Yusupova_Alina_project1_thumbnail.png
+mainimg: /assets/work/yusupova_alina_project1_web_main.png
+thumbnailimg: /assets/work/Yusupova_Alina_project1_web_thumbnail.png
 title: FOAM
 groupmembers:
 fields: Interactive
 mediumdimensions:
 description: FOAM is an interactive installation, which focuses on how audio combined with visual stimuli affects one's emotional response. FOAM explores the intricate connection between cognitive music effects and colours.
 digitallink:
-image1: /assets/work/Yusupova_Alina_project1_support1.png
+image1: /assets/work/Yusupova_Alina_project1_web_support1.png
 subtitle1: FOAM Interactive Installation
 caption1: FOAM is an interactive installation, which focuses on how audio combined with visual stimuli affects one's emotional response.FOAM explores the intricate connection between cognitive music effects and colours in a form of physical music visualizations.
-image2: /assets/work/yusupova_alina_project1_support2.png
+image2: /assets/work/Yusupova_Alina_project1_web_support2.jpg
 subtitle2: FOAM Book
 caption2: The installation also includes a book, which features a variety of visuals inspired by synesthesia ( a perceptual phenomenon in which stimulation of one sensory or cognitive pathway), specifically, the relation between colours and musical chords.
 image3:
@@ -42,18 +42,18 @@ caption3:
 ---
 path: /work/trumpeteer
 graduate: Alina Yusupova
-mainimg: /assets/work/yusupova_alina_project2_main.jpg
-thumbnailimg: /assets/work/yusupova_alina_project2_thumbnail.jpg
+mainimg: /assets/work/yusupova_alina_project2_web_main.jpg
+thumbnailimg: /assets/work/yusupova_alina_project2_web_thumbnail.jpg
 title: Trumpeteer
 groupmembers:
 fields: Book Design
 mediumdimensions: Print, 8” x 11”
 description: “Trumpeteer” is a satirical book on ridiculous realms of 21st century. It is not trying to offend or expose anyone. It is harmless and powerful at the same time. The issues, I brought up in here, are painfully real . We are surrounded by them every day. So follow the trumpeteer, and maybe tomorrow the world would be a better place. The change starts with you.
 digitallink:
-image1: /assets/work/yusupova_Alina_project2_support1.jpg
+image1: /assets/work/yusupova_Alina_project2_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/yusupova_Alina_project2_support2.jpg
+image2: /assets/work/yusupova_Alina_project2_web_support2.jpg
 subtitle2:
 caption2:
 image3:
@@ -64,18 +64,18 @@ caption3:
 ---
 path: /work/catharsis
 graduate: Alina Yusupova
-mainimg: /assets/work/yusupova_Alina_project3_main.jpg
-thumbnailimg: /assets/work/yusupova_Alina_project3_thumbnail.jpg
+mainimg: /assets/work/yusupova_Alina_project3_web_main.jpg
+thumbnailimg: /assets/work/yusupova_Alina_project3_web_thumbnail.jpg
 title: Catharsis
 groupmembers:
 fields: Packaging
 mediumdimensions:
 description: Catharsis box is a monthly subscription kit, which includes wide variety of products for cats: from fun toys to delicious treats.
 digitallink:
-image1: /assets/work/yusupova_Alina_project3_support1.jpg
+image1: /assets/work/yusupova_Alina_project3_web_support1.jpg
 subtitle1:
 caption1:
-image2: /assets/work/yusupova_Alina_project3_support2.jpg
+image2: /assets/work/yusupova_Alina_project3_web_support2.jpg
 subtitle2:
 caption2: 
 image3:
