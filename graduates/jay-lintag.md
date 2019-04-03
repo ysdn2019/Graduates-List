@@ -68,7 +68,7 @@ path: /work/ahh-burp-caw
 graduate: Jay Lintag
 cover: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
 thumbnail: /assets/work/lintag_jay_project3_web_main - Jay Lintag.jpg
-title: Ahh Burp Caw
+title: Alphaburp
 groupmembers:
 category: Book Design, Illustration, Typography
 mediumdimensions:
