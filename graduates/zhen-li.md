@@ -66,7 +66,7 @@ caption3:
 path: /work/data-knows
 graduate: Zhen Li
 cover: /assets/work/li_zhen_project3_web_main.png
-thumbnail: /assets/work/li_zhen_project3_web_thumbnail.png
+thumbnail: /assets/work/li_zhen_project3_web_thumbnail.jpg
 title: Data Knows
 groupmembers:
 category: Communication, Digital, Editorial
@@ -76,10 +76,10 @@ digitallink:
 image1: /assets/work/li_zhen_project3_web_support1.png
 subtitle1:
 caption1: The full project will be available at lizhen.co
-image2:
+image2: /assets/work/li_zhen_project3_web_support2.png
 subtitle2:
 caption2:
-image3:
+image3: /assets/work/li_zhen_project3_web_support3.jpg
 subtitle3:
 caption3:
 ---
